@@ -1,0 +1,30 @@
+{
+  "name": "songbook-db",
+  "version": "1.0.0",
+  "description": "Song data structures, using lightweighted LowDB",
+  "main": "server.ts",
+  "scripts": {
+    "dev": "ts-node-dev --respawn server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanny658/songbook-db.git"
+  },
+  "author": "Hanny",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Hanny658/songbook-db/issues"
+  },
+  "homepage": "https://github.com/Hanny658/songbook-db#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "lowdb": "^7.0.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.15",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3"
+  }
+}
