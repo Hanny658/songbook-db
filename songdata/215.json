@@ -1,0 +1,95 @@
+{
+  "title": "Angels We Have Heard on High",
+  "number": 215,
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "  C              G    C",
+          "lyrics": "Angels we have on heard high,"
+        },
+        {
+          "chords": "              G      C",
+          "lyrics": "sweetly singing o'er the plains"
+        },
+        {
+          "chords": " C             G  C",
+          "lyrics": "And the mountains in reply,"
+        },
+        {
+          "chords": "  C         G     C",
+          "lyrics": "echoing their joyous strains"
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "label": "Chorus",
+      "lines": [
+        {
+          "chords": "C A7 Dm G C F G G7  C G C F G G7",
+          "lyrics": "Gloria . . .              in excelsis Deo"
+        },
+        {
+          "chords": "C A7 Dm G C F G G7  C G C F G C",
+          "lyrics": "Gloria . . .              in excelsis Deo"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "",
+          "lyrics": "Come to Bethlehem and see,"
+        },
+        {
+          "chords": "",
+          "lyrics": "Christ whose birth the angels sing"
+        },
+        {
+          "chords": "",
+          "lyrics": "Come adore on bended knee,"
+        },
+        {
+          "chords": "",
+          "lyrics": "Christ the Lord the newborn King"
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "",
+          "lyrics": "See Him in a manger laid,"
+        },
+        {
+          "chords": "",
+          "lyrics": "whom the choirs of angels praise"
+        },
+        {
+          "chords": "",
+          "lyrics": "Mary, Joseph, lend your aid,"
+        },
+        {
+          "chords": "",
+          "lyrics": "while our hearts in love we raise"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "chorus",
+    "verse2",
+    "chorus",
+    "verse3",
+    "chorus"
+  ],
+  "link": "https://www.youtube.com/watch?v=dtByTy_5jqI"
+}

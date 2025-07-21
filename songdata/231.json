@@ -1,0 +1,127 @@
+{
+    "title": "向主欢呼 SHOUT TO THE LORD",
+    "number": 231,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "主耶稣 我救主,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Zhu Ye Su Wo jiu Zhu,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "无一人能像你"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wu yi ren nen xiang ni"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "我愿一生 全心赞美,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wo yuan yi sheng quan xin zhan mei,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "你奇妙全能的大爱"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "ni qi miao quan nen de da ai"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "你是我 安慰师, 我避难所和力量"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Ni shi wo an wei shi wo bi nan suo he li liang"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "我的一切 每个气息, 永远不住敬拜你"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wo de yi qie mei ge qi xi yong yuan bu zhu jing bai ni"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "向主欢呼, 愿全地扬声唱"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Xiang zhu huan hu, yuan quan di yang sheng chang"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "颂赞 荣耀 能力归 于君王"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Song zhan tong yao neng li gui yu jun wang"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "众山跪拜 众海洋欢呼"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Zhong san gui bai Zhong hai yang huan hu"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "歌颂主 的圣名"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Ge song zhu de seng"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "我要歌唱你大能的作为"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wo yao ge chang ni da nen de zuo wei"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "我要永远爱你, 永远要坚定"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wo yao zong yuan ai ni, yong yuan yao jian ding"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "无一事物 能与你 的应许相比"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wu yi shi wu nen yu ni de ying xu xiang bi"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus"
+    ],
+    "link": ""
+}

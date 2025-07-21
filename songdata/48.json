@@ -1,0 +1,64 @@
+{
+    "title": "Father I Adore You",
+    "number": 48,
+    "lyrics": [
+        {
+            "id": "round1",
+            "label": "Round 1",
+            "lines": [
+                {
+                    "chords": "E  F#m   B  E",
+                    "lyrics": "Father I adore You"
+                },
+                {
+                    "chords": "E    F#m   B7  E",
+                    "lyrics": "Lay my life before You"
+                },
+                {
+                    "chords": "E F#m7 B7 E",
+                    "lyrics": "How I love You"
+                }
+            ]
+        },
+        {
+            "id": "round2",
+            "label": "Round 2",
+            "lines": [
+                {
+                    "chords": "E  F#m   B  E",
+                    "lyrics": "Jesus I adore You"
+                },
+                {
+                    "chords": "E    F#m   B7  E",
+                    "lyrics": "Lay my life before You"
+                },
+                {
+                    "chords": "E F#m7 B7 E",
+                    "lyrics": "How I love You"
+                }
+            ]
+        },
+        {
+            "id": "round3",
+            "label": "Round 3",
+            "lines": [
+                {
+                    "chords": "E  F#m   B  E",
+                    "lyrics": "Spirit I adore You"
+                },
+                {
+                    "chords": "E    F#m   B7  E",
+                    "lyrics": "Lay my life before You"
+                },
+                {
+                    "chords": "E F#m7 B7 E",
+                    "lyrics": "How I love You"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "round"
+    ],
+    "link": ""
+}

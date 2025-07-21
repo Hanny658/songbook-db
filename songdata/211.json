@@ -1,0 +1,119 @@
+{
+    "title": "Praise Him! Praise Him!",
+    "number": 211,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G            C           G",
+                    "lyrics": "Praise Him! praise Him! Jesus, our blessed Re-deemer!"
+                },
+                {
+                    "chords": "    Em     A7         D",
+                    "lyrics": "Sing, O Earth, His wonderful love pro-claim!"
+                },
+                {
+                    "chords": "G          C           G",
+                    "lyrics": "Hail Him! hail Him! highest archangels in glory;"
+                },
+                {
+                    "chords": "     G7 C   G      D7  G",
+                    "lyrics": "Strength and honor give to His holy Name!"
+                },
+                {
+                    "chords": "D  G D     D7          G  D7",
+                    "lyrics": "Like a shepherd, Jesus will guard His chil-dren,"
+                },
+                {
+                    "chords": "G   Em   A7          D",
+                    "lyrics": "In His arms He carries them all day long:"
+                }
+            ]
+        },
+        {
+            "id": "refrain",
+            "label": "Refrain",
+            "lines": [
+                {
+                    "chords": "G           C           G",
+                    "lyrics": "Praise Him! Praise Him! Tell of His excellent greatness."
+                },
+                {
+                    "chords": "   G7  C      G    D7   G",
+                    "lyrics": "Praise Him! Praise Him! Ever in joyful song!"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Praise Him! Praise Him! Jesus, our blessed Redeemer!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "For our sins He suffered, and bled, and died."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "He our Rock, our hope of eternal salvation,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Hail Him! hail Him! Jesus the Crucified."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Sound His praises! Jesus who bore our sorrows,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Love unbounded, wonderful, deep and strong."
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Praise Him! Praise Him! Jesus, our blessed Redeemer!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Heavenly portals loud with hosannas ring!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Jesus, Savior, reigneth forever and ever."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Crown Him! Crown Him! Prophet, and Priest, and King!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Christ is coming! over the world victorious,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Power and glory unto the Lord belong."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "refrain",
+        "verse2",
+        "refrain",
+        "verse3",
+        "refrain"
+    ],
+    "link": "https://www.youtube.com/watch?v=BB27OjUFZjs"
+}

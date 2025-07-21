@@ -1,0 +1,55 @@
+{
+    "title": "天父我们爱你 (Glorify Thy Name)",
+    "number": 229,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "天父我们爱你，我们敬拜尊崇你，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "在全地上荣耀你的名。"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "荣耀你的名，荣耀你的名，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "在全地上荣耀你的名。"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "耶稣我们爱你，我们敬拜尊崇你，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "在全地上荣耀你的名。"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "荣耀你的名，荣耀你的名，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "在全地上荣耀你的名。"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2"
+    ],
+    "link": ""
+}

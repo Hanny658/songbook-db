@@ -1,0 +1,118 @@
+{
+    "title": "Oceans (Where Feet May Fail)",
+    "number": 205,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "Em              D/F#     G",
+                    "lyrics": "You call me out upon the waters"
+                },
+                {
+                    "chords": "            D                    C",
+                    "lyrics": "The great unknown where feet may fail"
+                },
+                {
+                    "chords": "Em                   D/F#   G",
+                    "lyrics": "And there I find you in the mystery"
+                },
+                {
+                    "chords": "          D                   C",
+                    "lyrics": "In oceans deep, my faith will stand"
+                }
+            ]
+        },
+        {
+            "id": "chorus1",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "C          G              D",
+                    "lyrics": "And I will call upon Your name"
+                },
+                {
+                    "chords": "C           G              D",
+                    "lyrics": "And keep my eyes above the waves"
+                },
+                {
+                    "chords": "            C",
+                    "lyrics": "When oceans rise"
+                },
+                {
+                    "chords": "             G              D",
+                    "lyrics": "my soul will rest in Your embrace"
+                },
+                {
+                    "chords": "         C         D       Em",
+                    "lyrics": "For I am Yours and You are mine"
+                },
+                {
+                    "chords": "D/F# G",
+                    "lyrics": ""
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Your grace abounds in deepest waters"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Your sovereign hand will be my guide"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Where feet may fail and fear surrounds me"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "You’ve never failed and You won’t start now"
+                }
+            ]
+        },
+        {
+            "id": "bridge",
+            "label": "Bridge",
+            "lines": [
+                {
+                    "chords": "Em                      C",
+                    "lyrics": "Spirit lead me where my trust is without borders"
+                },
+                {
+                    "chords": "       G",
+                    "lyrics": "Let me walk upon the water"
+                },
+                {
+                    "chords": "    D/F#",
+                    "lyrics": "wherever You would call me"
+                },
+                {
+                    "chords": "Em                     C",
+                    "lyrics": "Take me deeper than my feet could ever wander"
+                },
+                {
+                    "chords": "       G",
+                    "lyrics": "And my faith will be made stronger"
+                },
+                {
+                    "chords": "       D/F#",
+                    "lyrics": "in the presence of my Savior"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus1",
+        "verse2",
+        "chorus1",
+        "bridge"
+    ],
+    "link": ""
+}

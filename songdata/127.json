@@ -1,0 +1,77 @@
+{
+    "title": "I Have Decided",
+    "number": 127,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "C                        C7",
+                    "lyrics": "I have decided to follow Jesus"
+                },
+                {
+                    "chords": "       F                 C",
+                    "lyrics": "I have decided to follow Jesus"
+                },
+                {
+                    "chords": "                         Am",
+                    "lyrics": "I have decided to follow Jesus"
+                },
+                {
+                    "chords": "           C     G7         C",
+                    "lyrics": "No turning back, no turning back"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "C                                C7",
+                    "lyrics": "The world behind me, the cross before me"
+                },
+                {
+                    "chords": "          F                      C",
+                    "lyrics": "The world behind me, the cross before me"
+                },
+                {
+                    "chords": "                                 Am",
+                    "lyrics": "The world behind me, the cross before me"
+                },
+                {
+                    "chords": "           C     G7         C",
+                    "lyrics": "No turning back, no turning back"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "C                                 C7",
+                    "lyrics": "Tho none go with me, I still will follow"
+                },
+                {
+                    "chords": "         F                        C",
+                    "lyrics": "Tho none go with me, I still will follow"
+                },
+                {
+                    "chords": "                                  Am",
+                    "lyrics": "Tho none go with me, I still will follow"
+                },
+                {
+                    "chords": "           C     G7         C",
+                    "lyrics": "No turning back, no turning back"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2"
+    ],
+    "link": "https://www.youtube.com/watch?v=S8jvfdDtoqY"
+}

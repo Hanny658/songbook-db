@@ -1,0 +1,143 @@
+{
+    "title": "To God Be the Glory",
+    "number": 65,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "   G",
+                    "lyrics": "To God be the glory"
+                },
+                {
+                    "chords": "      D              G",
+                    "lyrics": "Great things He hath done"
+                },
+                {
+                    "chords": "   C            G",
+                    "lyrics": "So loved He the world"
+                },
+                {
+                    "chords": "        A7          D",
+                    "lyrics": "that He gave us His Son"
+                },
+                {
+                    "chords": "     G",
+                    "lyrics": "Who yielded His life"
+                },
+                {
+                    "chords": "   D              G",
+                    "lyrics": "an atonement for sin"
+                },
+                {
+                    "chords": "     C         G",
+                    "lyrics": "And opened the life gate"
+                },
+                {
+                    "chords": "D7              G",
+                    "lyrics": "That all may go in"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Praise the Lord! Praise the Lord!"
+                },
+                {
+                    "chords": "                       D",
+                    "lyrics": "Let the earth hear His voice"
+                },
+                {
+                    "chords": "           Am7",
+                    "lyrics": "Praise the Lord! Praise the Lord!"
+                },
+                {
+                    "chords": "        D      G",
+                    "lyrics": "Let the people rejoice"
+                },
+                {
+                    "chords": "   G",
+                    "lyrics": "O come to the Father"
+                },
+                {
+                    "chords": "        D      G",
+                    "lyrics": "through Jesus the Son"
+                },
+                {
+                    "chords": "    C          G",
+                    "lyrics": "and give Him the glory"
+                },
+                {
+                    "chords": "      D7          G",
+                    "lyrics": "Great things He hath done!"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "          G",
+                    "lyrics": "O perfect redemption,"
+                },
+                {
+                    "chords": "    D           G",
+                    "lyrics": "The purchase of blood!"
+                },
+                {
+                    "chords": "   C      G            A7        D",
+                    "lyrics": "To every believer the promise of God;"
+                },
+                {
+                    "chords": "    G                   D      G7",
+                    "lyrics": "The vilest offender who truly believes"
+                },
+                {
+                    "chords": "     C           G       D        G",
+                    "lyrics": "That moment from Jesus a pardon receives."
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "                G",
+                    "lyrics": "Great things He hath taught us,"
+                },
+                {
+                    "chords": "      G              D",
+                    "lyrics": "Great things He hath done,"
+                },
+                {
+                    "chords": "    C            G              A7        D",
+                    "lyrics": "And great our rejoicing Through Jesus the Son"
+                },
+                {
+                    "chords": "    D                    D            G7",
+                    "lyrics": "But purer and higher And greater will be"
+                },
+                {
+                    "chords": "    C           G            D        G",
+                    "lyrics": "Our wonder, our worship When Jesus we see!"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus"
+    ],
+    "link": "https://www.youtube.com/watch?v=g18AOsCw754"
+}

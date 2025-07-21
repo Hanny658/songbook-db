@@ -1,0 +1,57 @@
+{
+    "title": "Therefore the Redeemed",
+    "number": 10,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "    G",
+                    "lyrics": "Therefore the redeemed"
+                },
+                {
+                    "chords": "                  G7",
+                    "lyrics": "of the Lord shall return,"
+                },
+                {
+                    "chords": "              C         C#dim",
+                    "lyrics": "And come with singing unto Zion,"
+                },
+                {
+                    "chords": "    G           Em",
+                    "lyrics": "And everlasting joy"
+                },
+                {
+                    "chords": "Am         D7       G",
+                    "lyrics": "Shall be upon their heads"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "G7            C                 G",
+                    "lyrics": "They shall obtain gladness and joy,"
+                },
+                {
+                    "chords": "      Em         A",
+                    "lyrics": "And sorrow and mourning"
+                },
+                {
+                    "chords": "           D    D7",
+                    "lyrics": "shall flee away"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse1",
+        "verse2",
+        "verse1"
+    ],
+    "link": "https://www.youtube.com/watch?v=bFOdKTM0INc"
+}

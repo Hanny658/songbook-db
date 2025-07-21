@@ -1,0 +1,167 @@
+{
+  "title": "Yes I Thank You Lord",
+  "number": 85,
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "G              C       D7",
+          "lyrics": "Yes, I thank You, Lord"
+        },
+        {
+          "chords": "D                   Bm7        Em",
+          "lyrics": "For the trials that come my way"
+        },
+        {
+          "chords": "                  Am7         D7",
+          "lyrics": "In that way I can grow each day"
+        },
+        {
+          "chords": "             G",
+          "lyrics": "As I let You lead"
+        },
+        {
+          "chords": "                 C   D7",
+          "lyrics": "And I thank You, Lord"
+        },
+        {
+          "chords": "D                      Bm7",
+          "lyrics": "For the patience those trials bring"
+        },
+        {
+          "chords": "Em              Am7    D",
+          "lyrics": "In that process of growing"
+        },
+        {
+          "chords": "               G",
+          "lyrics": "I can learn to care"
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "label": "Chorus",
+      "lines": [
+        {
+          "chords": "            C                 D",
+          "lyrics": "But it goes against the way I am"
+        },
+        {
+          "chords": "          Bm7          Em",
+          "lyrics": "To put my human nature down"
+        },
+        {
+          "chords": "            Am7         D7",
+          "lyrics": "And let the Spirit take control"
+        },
+        {
+          "chords": "         G   G7",
+          "lyrics": "Of all I do"
+        },
+        {
+          "chords": "                 C",
+          "lyrics": "Cause when those trials come"
+        },
+        {
+          "chords": "   D              Bm",
+          "lyrics": "My human nature shouts"
+        },
+        {
+          "chords": "B7         Em",
+          "lyrics": "the things to do"
+        },
+        {
+          "chords": "               Am7",
+          "lyrics": "and God's soft prompting"
+        },
+        {
+          "chords": "       D       G",
+          "lyrics": "Can be easily ignored"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "G                C   D7",
+          "lyrics": "But I thank You, Lord"
+        },
+        {
+          "chords": "          Bm7          Em",
+          "lyrics": "With each trial I feel inside"
+        },
+        {
+          "chords": "                     Am7",
+          "lyrics": "That You're there to help"
+        },
+        {
+          "chords": "            D7             G   G7",
+          "lyrics": "lead and guide my way from wrong"
+        },
+        {
+          "chords": "                    C  D7",
+          "lyrics": "Cause You promised, Lord"
+        },
+        {
+          "chords": "                Am    Em",
+          "lyrics": "That with every testing"
+        },
+        {
+          "chords": "                 Am       D7           G",
+          "lyrics": "That Your way of escaping is easier to bear"
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "G                C   D7",
+          "lyrics": "Yes I thank You, Lord"
+        },
+        {
+          "chords": "                     Bm7          Em",
+          "lyrics": "For the victory that growing brings"
+        },
+        {
+          "chords": "             Am7        D7",
+          "lyrics": "In surrender of everything"
+        },
+        {
+          "chords": "                G",
+          "lyrics": "Life is so worthwhile"
+        },
+        {
+          "chords": "G7               C   D7",
+          "lyrics": "And I thank You, Lord ---"
+        },
+        {
+          "chords": "              Bm7             Em",
+          "lyrics": "That when everything's put in place"
+        },
+        {
+          "chords": "               Am7          D7",
+          "lyrics": "Out in front I can see Your face…."
+        },
+        {
+          "chords": "                   G",
+          "lyrics": "And it's there You belong"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "chorus",
+    "verse2",
+    "chorus",
+    "verse3",
+    "chorus"
+  ],
+  "link": "https://www.youtube.com/watch?v=9kuFuuFxzd4"
+}

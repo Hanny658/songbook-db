@@ -1,0 +1,51 @@
+{
+    "title": "Hallelu-Hallelu",
+    "number": 196,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G                       C",
+                    "lyrics": "Hallelu, Hallelu, Hallelu"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Hallelujah!"
+                },
+                {
+                    "chords": "D             G",
+                    "lyrics": "Praise ye the Lord (repeat)"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "G             D",
+                    "lyrics": "Praise ye the Lord, Hallelujah"
+                },
+                {
+                    "chords": "              G",
+                    "lyrics": "Praise ye the Lord, Hallelujah"
+                },
+                {
+                    "chords": "              Am",
+                    "lyrics": "Praise ye the Lord, Hallelujah"
+                },
+                {
+                    "chords": "D             G",
+                    "lyrics": "Praise ye the Lord!"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2"
+    ],
+    "link": ""
+}

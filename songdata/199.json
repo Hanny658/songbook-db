@@ -1,0 +1,48 @@
+{
+    "title": "O-B-E-D-I-E-N-C-E",
+    "number": 199,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "E               B",
+                    "lyrics": "O-B-E-D-I-E-N-C-E"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Obedience is the very best way to"
+                },
+                {
+                    "chords": "                E",
+                    "lyrics": "show that you believe"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Doing exactly what the Lord"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "commands"
+                },
+                {
+                    "chords": "              B",
+                    "lyrics": "doing it joyfully, Yippee!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Obedience is the very best way"
+                },
+                {
+                    "chords": "                   E",
+                    "lyrics": "to show that you believe"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1"
+    ],
+    "link": ""
+}

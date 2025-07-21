@@ -1,0 +1,135 @@
+{
+    "title": "Kuasa Kasih-Mu",
+    "number": 223,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G  D/F# Em7     Bm Em",
+                    "lyrics": "Tuhan Kudatang, Baharui Hatiku"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Lord, I Come To You, Let My Heart Be Changed, Renewed"
+                },
+                {
+                    "chords": "   Am7    D    G D11",
+                    "lyrics": "Dengan Anug'rah, Kudapat Dalam-Mu"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Flowing From The Grace, That I Found In You"
+                },
+                {
+                    "chords": "G  D/F# Em7    Bm7  Em7",
+                    "lyrics": "Tuhan Kutahu S'gala Kelemahanku"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Lord, I've Come To Know, The Weakness I See In Me"
+                },
+                {
+                    "chords": "      C  D       G",
+                    "lyrics": "T'lah Dihapuskan Oleh Kuasa Kasih-Mu"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Will Be Stripped Away By The Power Of Your Love"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": " C  D        C/G G",
+                    "lyrics": "Dekapku, Penuhi Dengan Kasih-Mu"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Hold Me Close, Let Your Love Surround Me"
+                },
+                {
+                    "chords": " C  D      G (Am G/B)",
+                    "lyrics": "Bawaku Dekat Pada-Mu"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Bring Me Near, Draw Me To Your Side"
+                },
+                {
+                    "chords": " C   D       C/G G",
+                    "lyrics": "Ku 'Kan Terbang, Bagai Rajawali"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And As I Wait, I'll Rise Up Like The Eagle"
+                },
+                {
+                    "chords": "        Em7     C",
+                    "lyrics": "Roh-Mu Mengangkatku, Terbang Lebih Tinggi"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And I Will Soar With You, Your Spirit Leads Me On"
+                },
+                {
+                    "chords": "   D11  D   G",
+                    "lyrics": "Dalam Kuasa Kasih-Mu"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "In The Power Of Your Love"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Lord Unveil My Eyes"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Let Me See You Face To Face"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The Knowledge Of Your Love"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "As You Live In Me"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Lord Renew My Mind"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "As Your Will Unfolds In My Life"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "In Living Every Day"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "By The Power Of Your Love"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus"
+    ],
+    "link": ""
+}

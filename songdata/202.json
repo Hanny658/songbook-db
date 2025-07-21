@@ -1,0 +1,48 @@
+{
+    "title": "Read Your Bible Pray Everyday",
+    "number": 202,
+    "lyrics": [
+        {
+            "id": "verse",
+            "label": "Verse",
+            "lines": [
+                {
+                    "chords": "C",
+                    "lyrics": "Read your Bible, pray everyday"
+                },
+                {
+                    "chords": "G              C",
+                    "lyrics": "Pray everyday, Pray everyday"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Read your Bible, pray everyday and"
+                },
+                {
+                    "chords": "       G           C",
+                    "lyrics": "you’ll grow, grow, grow"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And you’ll grow, grow, grow"
+                },
+                {
+                    "chords": "           F           C",
+                    "lyrics": "And you’ll grow, grow, grow"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Read your Bible, pray everyday and"
+                },
+                {
+                    "chords": "       G           C",
+                    "lyrics": "you’ll grow, grow, grow"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse"
+    ],
+    "link": ""
+}

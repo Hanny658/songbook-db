@@ -1,0 +1,150 @@
+{
+    "title": "Hark the Herald Angels Sing",
+    "number": 219,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " G",
+                    "lyrics": "Hark the herald angels sing"
+                },
+                {
+                    "chords": "  D         G",
+                    "lyrics": "“Glory to the new born King"
+                },
+                {
+                    "chords": "  G",
+                    "lyrics": "Peace on earth and mercy mild"
+                },
+                {
+                    "chords": " D       G",
+                    "lyrics": "God and sinners reconciled”"
+                },
+                {
+                    "chords": "  D         G",
+                    "lyrics": "Joyful all ye nations rise."
+                },
+                {
+                    "chords": " D           G",
+                    "lyrics": "Join the triumph of the skies"
+                },
+                {
+                    "chords": " E         C",
+                    "lyrics": "With angelic host proclaim"
+                },
+                {
+                    "chords": "  G     D       G",
+                    "lyrics": "\"Christ is born in Bethlehem”"
+                },
+                {
+                    "chords": " E            C",
+                    "lyrics": "Hark the herald angels sing"
+                },
+                {
+                    "chords": "  G         D       G",
+                    "lyrics": "\"Glory to the new born King”"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Christ, by highest heaven adored;"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Christ the everlasting Lord;"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Late in time behold him come,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Offspring of the favored one."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Veiled in flesh, the Godhead see;"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "hail the incarnate Diety"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Pleased as man with men to dwell,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Jesus, our Immanuel"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Hark the herald angels sing,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "\"Glory to the new born King”"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Hail! the heaven-born Prince of Peace."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Hail the son of Righteousness"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Light and life to all He brings,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "risen with healing in His wings"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Mild He lays His glory by,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "born that man no more may die"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Born to raise the sons of earth,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "born to five them second birth"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Hark the herald angels sing,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "\"Glory to the new born King”"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3"
+    ],
+    "link": "https://www.youtube.com/watch?v=Xw38pGhPXIk"
+}

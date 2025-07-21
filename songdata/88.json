@@ -1,0 +1,138 @@
+{
+  "title": "Sweet Hour of Prayer",
+  "number": 88,
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "C           C7",
+          "lyrics": "Sweet hour of prayer"
+        },
+        {
+          "chords": "      F      Dm",
+          "lyrics": "Sweet hour of prayer"
+        },
+        {
+          "chords": "     C        Am     Dm7   G",
+          "lyrics": "That calls me from a world of care"
+        },
+        {
+          "chords": "    C       C7    F",
+          "lyrics": "And bids me at my Father's throne"
+        },
+        {
+          "chords": "       C   Am      Dm  G      C",
+          "lyrics": "Makes all my wants and wishes known"
+        },
+        {
+          "chords": "  C      F    C",
+          "lyrics": "In seasons of distress and grief"
+        },
+        {
+          "chords": "   Am      F    C       G",
+          "lyrics": "My soul has often found relief"
+        },
+        {
+          "chords": "    C    C7         F",
+          "lyrics": "And oft escaped the tempter's snare"
+        },
+        {
+          "chords": "   C    Am           G       C",
+          "lyrics": "By Thy return, sweet hour of prayer"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "C",
+          "lyrics": "Sweet hour of prayer"
+        },
+        {
+          "chords": "      F",
+          "lyrics": "Sweet hour of prayer"
+        },
+        {
+          "chords": "    C              G7",
+          "lyrics": "Thy wings shall my petition bear"
+        },
+        {
+          "chords": "       C",
+          "lyrics": "To Him whose truth and faithfulness"
+        },
+        {
+          "chords": "       C           G7      C",
+          "lyrics": "Engage the waiting soul to bless"
+        },
+        {
+          "chords": "    C             F    C",
+          "lyrics": "And since He bids me seek His face"
+        },
+        {
+          "chords": "                     Am  D7    G7",
+          "lyrics": "Believe His word and trust His grace"
+        },
+        {
+          "chords": "     C       C7",
+          "lyrics": "I'll cast on Him my every care"
+        },
+        {
+          "chords": "    C                    G7      C",
+          "lyrics": "And wait for Thee, Sweet hour of prayer"
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "C",
+          "lyrics": "Sweet hour of prayer"
+        },
+        {
+          "chords": "       F",
+          "lyrics": "Sweet hour of prayer"
+        },
+        {
+          "chords": "    C          G7",
+          "lyrics": "May I Thy consolation share"
+        },
+        {
+          "chords": "     C",
+          "lyrics": "Till from Mount Pisgah's lofty heights"
+        },
+        {
+          "chords": "  C                G7      C",
+          "lyrics": "I view my home and take my flight"
+        },
+        {
+          "chords": "",
+          "lyrics": "This robe of flesh I'll drop and rise"
+        },
+        {
+          "chords": "   C         F      C",
+          "lyrics": "To seize the everlasting prize"
+        },
+        {
+          "chords": "    Am          D7      G7",
+          "lyrics": "And shout while passing thru' the air"
+        },
+        {
+          "chords": "    C                     G7      C",
+          "lyrics": "Farewell, farewell, Sweet hour of prayer"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "verse2",
+    "verse3"
+  ],
+  "link": "https://www.youtube.com/watch?v=xg282my5QyU"
+}

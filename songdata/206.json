@@ -1,0 +1,134 @@
+{
+    "title": "O Come to the Altar",
+    "number": 206,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G       C/G                    G",
+                    "lyrics": "Are you hurting and broken within?"
+                },
+                {
+                    "chords": "    C/G                           Em",
+                    "lyrics": "Overwhelmed by the weight of your sin?"
+                },
+                {
+                    "chords": "         Cadd9",
+                    "lyrics": "Jesus is calling."
+                },
+                {
+                    "chords": "G        C/G",
+                    "lyrics": "Have you come to the"
+                },
+                {
+                    "chords": "           G",
+                    "lyrics": "end of yourself?"
+                },
+                {
+                    "chords": "       C/G",
+                    "lyrics": "do you thirst for a drink"
+                },
+                {
+                    "chords": "         Em",
+                    "lyrics": "From the well?"
+                },
+                {
+                    "chords": "         Cadd9",
+                    "lyrics": "Jesus is calling."
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "G          Am7          Em",
+                    "lyrics": "O come to,   the altar,"
+                },
+                {
+                    "chords": "             C             G",
+                    "lyrics": "the Father's arms are open wide,"
+                },
+                {
+                    "chords": "              Am7            Em",
+                    "lyrics": "Forgiveness,    was bought with,"
+                },
+                {
+                    "chords": "             C              G",
+                    "lyrics": "the precious blood of Jesus Christ."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Leave behind your regrets and mistakes,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "come today there’s no reason to wait,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Jesus is calling"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Bring your sorrows and trade them for joy,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "from the ashes a new life is born,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Jesus is calling."
+                }
+            ]
+        },
+        {
+            "id": "bridge",
+            "label": "Bridge",
+            "lines": [
+                {
+                    "chords": "          Gsus4 G",
+                    "lyrics": "Oh what a Saviour,"
+                },
+                {
+                    "chords": "         Em",
+                    "lyrics": "isn't He wonderful,"
+                },
+                {
+                    "chords": "          Cadd9                G",
+                    "lyrics": "sing hallelujah Christ is risen,"
+                },
+                {
+                    "chords": "           Gsus4 G",
+                    "lyrics": "bow down before Him,"
+                },
+                {
+                    "chords": "          Em",
+                    "lyrics": "for He is Lord of all,"
+                },
+                {
+                    "chords": "          Cadd9                G",
+                    "lyrics": "sing hallelujah Christ is risen."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge"
+    ],
+    "link": ""
+}

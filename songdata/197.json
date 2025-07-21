@@ -1,0 +1,67 @@
+{
+    "title": "Father Abraham",
+    "number": 197,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "C",
+                    "lyrics": "Father Abraham had many sons"
+                },
+                {
+                    "chords": "                     G",
+                    "lyrics": "Many sons had father Abraham"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I am one of them and so are you"
+                },
+                {
+                    "chords": "    G7                   C",
+                    "lyrics": "So let’s just praise the Lord"
+                }
+            ]
+        },
+        {
+            "id": "actions",
+            "label": "Actions",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Right arm;"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Left Arm;"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Right foot;"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Left foot;"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Chin up;"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Turn around..."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "SIT DOWN!"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "actions"
+    ],
+    "link": ""
+}

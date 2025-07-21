@@ -1,0 +1,203 @@
+{
+    "title": "The Wise Man Built",
+    "number": 200,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "E",
+                    "lyrics": "The wise man"
+                },
+                {
+                    "chords": "E                      B",
+                    "lyrics": "Built his house upon the rock"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The wise man"
+                },
+                {
+                    "chords": "          E",
+                    "lyrics": "Built his house upon the rock"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The wise man"
+                },
+                {
+                    "chords": "          B",
+                    "lyrics": "Built his house upon the rock"
+                },
+                {
+                    "chords": "                            E",
+                    "lyrics": "And the rains came tumbling down"
+                }
+            ]
+        },
+        {
+            "id": "chorus1",
+            "label": "Chorus 1",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "The rains came down"
+                },
+                {
+                    "chords": "        B",
+                    "lyrics": "and the floods came up"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The rains came down"
+                },
+                {
+                    "chords": "        E",
+                    "lyrics": "and the floods came up"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The rains came down"
+                },
+                {
+                    "chords": "        B",
+                    "lyrics": "and the floods came up"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And the house on the rock"
+                },
+                {
+                    "chords": "      E",
+                    "lyrics": "stood firm"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "The foolish man"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Built his house upon the sand"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The foolish man"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Built his house upon the sand"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The foolish man"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Built his house upon the sand"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And the rains came tumbling down"
+                }
+            ]
+        },
+        {
+            "id": "chorus2",
+            "label": "Chorus 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "The rains came down"
+                },
+                {
+                    "chords": "        B",
+                    "lyrics": "and the floods came up"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The rains came down"
+                },
+                {
+                    "chords": "        E",
+                    "lyrics": "and the floods came up"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The rains came down"
+                },
+                {
+                    "chords": "        B",
+                    "lyrics": "and the floods came up"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And the foolish man's house"
+                },
+                {
+                    "chords": "      E",
+                    "lyrics": "Went splat!"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "So build your house on the Lord Jesus Christ"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "So build your house on the Lord Jesus Christ"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "So build your house on the Lord Jesus Christ"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And the blessings will come raining down"
+                }
+            ]
+        },
+        {
+            "id": "chorus3",
+            "label": "Chorus 3",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "The blessings will come down as your prayers go up"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The blessings will come down as your prayers go up"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The blessings will come down as your prayers go up"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "So build your house on the Lord"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus1",
+        "verse2",
+        "chorus2",
+        "verse3",
+        "chorus3"
+    ],
+    "link": ""
+}

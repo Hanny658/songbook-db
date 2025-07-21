@@ -1,0 +1,59 @@
+{
+  "title": "Beloved (1 Jn 4:7-8)",
+  "number": 96,
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "D                        A7",
+          "lyrics": "Beloved, let us love one another"
+        },
+        {
+          "chords": "    Em",
+          "lyrics": "For love is of God"
+        },
+        {
+          "chords": "    A7",
+          "lyrics": "And everyone that loveth"
+        },
+        {
+          "chords": "   D               A       D",
+          "lyrics": "Is born of God and knoweth God"
+        },
+        {
+          "chords": "        Am7",
+          "lyrics": "He that loveth not, "
+        }
+      ]
+    }, 
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "  D7",
+          "lyrics": "Knoweth not God"
+        },
+        {
+          "chords": "    G      Em",
+          "lyrics": "For God is love"
+        },
+        {
+          "chords": "  Asus7  A7              D",
+          "lyrics": "Beloved, let us love one another"
+        },
+        {
+          "chords": "      Bb         A7        D",
+          "lyrics": "First John four: seven and eight"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "verse2"
+  ],
+  "link": "https://www.youtube.com/watch?v=GRjiOVsUF6o"
+}

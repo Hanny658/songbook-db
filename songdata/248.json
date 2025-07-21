@@ -1,0 +1,159 @@
+{
+    "title": "Knowing the Time",
+    "number": 248,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "   A",
+                    "lyrics": "In this world that we are traveling"
+                },
+                {
+                    "chords": "     D           A",
+                    "lyrics": "Full of sorrows and pain,"
+                },
+                {
+                    "chords": "         E",
+                    "lyrics": "There's a time when journey's gentle"
+                },
+                {
+                    "chords": "     Bm         E        A",
+                    "lyrics": "Or a time when strong winds blow."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "    A",
+                    "lyrics": "But I know that there's a Jesus"
+                },
+                {
+                    "chords": "     D             A",
+                    "lyrics": "Who has traveled this path"
+                },
+                {
+                    "chords": "        E               A",
+                    "lyrics": "And His grace is sufficient for me."
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "     A",
+                    "lyrics": "Well you know that this same Jesus"
+                },
+                {
+                    "chords": "    D            A",
+                    "lyrics": "He is still standing here,"
+                },
+                {
+                    "chords": "     E",
+                    "lyrics": "With His arms opened wide"
+                },
+                {
+                    "chords": "        Bm      A",
+                    "lyrics": "Calling us all for home."
+                }
+            ]
+        },
+        {
+            "id": "verse4",
+            "label": "Verse 4",
+            "lines": [
+                {
+                    "chords": "     A",
+                    "lyrics": "So my brothers and sisters"
+                },
+                {
+                    "chords": "             D      B/D#",
+                    "lyrics": "What's your answer to Him"
+                },
+                {
+                    "chords": "         E          Bm  E",
+                    "lyrics": "As He's knocking at the door of your"
+                },
+                {
+                    "chords": "   A",
+                    "lyrics": "Heart."
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "         D            A     D",
+                    "lyrics": "He said “Come, come, My children all come\""
+                },
+                {
+                    "chords": "          F#m       B7      E",
+                    "lyrics": "From the darkness unto the great light"
+                },
+                {
+                    "chords": "           A           C#",
+                    "lyrics": "Knowing the time it is a high time"
+                },
+                {
+                    "chords": " D            Dm",
+                    "lyrics": "to wake up and rise"
+                },
+                {
+                    "chords": "     A         Bm   E   A",
+                    "lyrics": "For salvation is nearer today."
+                }
+            ]
+        },
+        {
+            "id": "verse5",
+            "label": "Verse 5",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Now I see this world is dying"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "and soon Jesus will come,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Are you ready to meet Him"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "When He calls out your name?"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "He will gather all His children to a place He's prepared."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "No more death, no more pain,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "We'll all be going home."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3",
+        "verse4",
+        "chorus",
+        "verse5"
+    ],
+    "link": ""
+}

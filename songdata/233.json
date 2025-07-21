@@ -1,0 +1,59 @@
+{
+  "title": "Love, I Do",
+  "number": 233,
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "D      Bm7         G  A7",
+          "lyrics": "十字架上的光芒  温柔又慈祥"
+        },
+        {
+          "chords": "D      Bm7        G   A7",
+          "lyrics": "带着主爱的力量  向着我照亮"
+        },
+        {
+          "chords": "D      Bm7         G  A7",
+          "lyrics": "我的心不再隐藏  完全地摆上"
+        },
+        {
+          "chords": "D     Em7       Em7        A7 A",
+          "lyrics": "愿主爱来浇灌我  在爱中得自由释放"
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "label": "Chorus",
+      "lines": [
+        {
+          "chords": "D     Bm7       G      F7",
+          "lyrics": "我愿意降服     我愿意降服"
+        },
+        {
+          "chords": "G      Fm       Em7    A7",
+          "lyrics": "在祢爱的怀抱中  我愿意降服"
+        },
+        {
+          "chords": "D     Bm7       G      Fm",
+          "lyrics": "祢是我的主     祢是我的主"
+        },
+        {
+          "chords": "G      Fm    Bm7",
+          "lyrics": "永远在祢 怀抱中"
+        },
+        {
+          "chords": "Em7            Em7/A    D",
+          "lyrics": "祢是我       祢是我的主"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "chorus"
+  ],
+  "link": ""
+}

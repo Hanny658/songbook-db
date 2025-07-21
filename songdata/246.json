@@ -1,0 +1,145 @@
+{
+    "title": "More to Life",
+    "number": 246,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "   D",
+                    "lyrics": "Are there things inside your heart, you think"
+                },
+                {
+                    "chords": " F#m      Bm",
+                    "lyrics": "no one understands"
+                },
+                {
+                    "chords": " G    A",
+                    "lyrics": "Do you smile, and face them on your own?"
+                },
+                {
+                    "chords": "    F#m             Bm",
+                    "lyrics": "But when it's late at night, when there's no one"
+                },
+                {
+                    "chords": "      G",
+                    "lyrics": "else around"
+                },
+                {
+                    "chords": "     Em",
+                    "lyrics": "Does your smile, disappear when you're"
+                },
+                {
+                    "chords": " A",
+                    "lyrics": "alone?"
+                }
+            ]
+        },
+        {
+            "id": "chorus1",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "              D              G",
+                    "lyrics": "There's more to life, than what you see my friends"
+                },
+                {
+                    "chords": "             Em              A",
+                    "lyrics": "There's more to life, with joys that know no end"
+                },
+                {
+                    "chords": "     D                         G",
+                    "lyrics": "And more to life than you and I could ever"
+                },
+                {
+                    "chords": " Gm",
+                    "lyrics": "dream"
+                },
+                {
+                    "chords": "   D    A         D",
+                    "lyrics": "In Jesus Christ our Saviour and friend"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Are there storms of life too strong, and you can't seem to break through."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Do you laugh, to forget it all each day"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "But when it's late at night, when no sleep will rest your eyes"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Does your smile, disappear when you're alone?"
+                }
+            ]
+        },
+        {
+            "id": "bridge1",
+            "label": "Bridge",
+            "lines": [
+                {
+                    "chords": " G               A    F#m   Bm7",
+                    "lyrics": "Will you make way for him today"
+                },
+                {
+                    "chords": "    G   A",
+                    "lyrics": "To refine you and make you new"
+                },
+                {
+                    "chords": " (modulate) A/B  B",
+                    "lyrics": ""
+                }
+            ]
+        },
+        {
+            "id": "chorus2",
+            "label": "Chorus (modulated)",
+            "lines": [
+                {
+                    "chords": "              E              A",
+                    "lyrics": "There's more to life, than what you see my friends"
+                },
+                {
+                    "chords": "             F#m             B",
+                    "lyrics": "There's more to life, with joys that know no end"
+                },
+                {
+                    "chords": "     E                         A",
+                    "lyrics": "And more to life than you and I could ever"
+                },
+                {
+                    "chords": " Am",
+                    "lyrics": "dream"
+                },
+                {
+                    "chords": "    E   A     G#  C#m   F#7",
+                    "lyrics": "In Jesus Christ our Saviour and friend"
+                },
+                {
+                    "chords": "    E      A    B   E",
+                    "lyrics": "Oh come to Him your Saviour and friend"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus1",
+        "verse2",
+        "chorus1",
+        "bridge1",
+        "chorus2"
+    ],
+    "link": ""
+}

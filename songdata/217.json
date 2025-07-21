@@ -1,0 +1,98 @@
+{
+    "title": "Joy to the World",
+    "number": 217,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " D                 G  A7 D",
+                    "lyrics": "Joy to the world! The Lord is come!"
+                },
+                {
+                    "chords": "    G     A       D",
+                    "lyrics": "Let earth receive her King!"
+                },
+                {
+                    "chords": "    G    D         G   D",
+                    "lyrics": "Let every heart prepare Him room,"
+                },
+                {
+                    "chords": " D",
+                    "lyrics": "and heav'n and nature sing,"
+                },
+                {
+                    "chords": " A             A7",
+                    "lyrics": "and heav'n and nature sing,"
+                },
+                {
+                    "chords": "     G        D        A7   D",
+                    "lyrics": "and heav'n and heav'n and nature sing!"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Joy to the world! the Savior reigns;"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Let men their songs employ;"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "While field and floods, rocks, hills, and plains. Repeat the sounding joy,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Repeat the sounding joy,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "repeat, repeat the sounding joy."
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "He rules the world with truth and grace."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And makes the nations prove."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The glories of His righteousness,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And wonders of His love,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And wonders of His love,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And wonders, wonders of His love."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3"
+    ],
+    "link": "https://www.youtube.com/watch?v=VDmIddF7DfQ"
+}

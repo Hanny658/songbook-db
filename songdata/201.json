@@ -1,0 +1,86 @@
+{
+    "title": "How Did Moses Cross the Red Sea",
+    "number": 201,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G",
+                    "lyrics": "How did Moses cross the red sea?"
+                },
+                {
+                    "chords": "C                       G",
+                    "lyrics": "How did Moses cross the red sea?"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "How did Moses cross the red sea?"
+                },
+                {
+                    "chords": "    D7         G",
+                    "lyrics": "How did he get across?"
+                }
+            ]
+        },
+        {
+            "id": "bridge",
+            "label": "Bridge",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Did he swim no, no!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Did he fly no, no!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Did he sail no, no, no, no!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Did he walk no, no"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Did he run no, no"
+                }
+                ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "    A          D",
+                    "lyrics": "How did he get across?"
+                },
+                {
+                    "chords": "                  C",
+                    "lyrics": "God blew with His wind puff puff puff"
+                },
+                {
+                    "chords": "   Am               D",
+                    "lyrics": "He blew just enough nuff nuff nuff nuff"
+                },
+                {
+                    "chords": "    G               C",
+                    "lyrics": "And through the sea He made a path"
+                },
+                {
+                    "chords": "       D",
+                    "lyrics": "That’s how He got across"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "bridge",
+        "verse2"
+    ],
+    "link": "https://youtu.be/s7DR2fApRxQ"
+}

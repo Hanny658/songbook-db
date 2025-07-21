@@ -1,0 +1,110 @@
+{
+  "title": "God Rest Ye Merry Gentlemen",
+  "number": 216,
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "    Em                       C",
+          "lyrics": "God rest you merry, gentlemen, let nothing"
+        },
+        {
+          "chords": "     B7",
+          "lyrics": "you dismay"
+        },
+        {
+          "chords": "    Em                      C",
+          "lyrics": "For Jesus Christ our Saviour was born upon"
+        },
+        {
+          "chords": "    B7",
+          "lyrics": "this day"
+        },
+        {
+          "chords": " Am           G             Em",
+          "lyrics": "To save us all from Satan's pow'r when we"
+        },
+        {
+          "chords": "           D",
+          "lyrics": "were gone astray"
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "label": "Chorus",
+      "lines": [
+        {
+          "chords": "   G        B7     Em            D",
+          "lyrics": "O tidings of comfort and joy, comfort and joy"
+        },
+        {
+          "chords": "    G       B7      Em",
+          "lyrics": "O tidings of comfort and joy"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "",
+          "lyrics": "From God our heavenly Father a blessed angel came"
+        },
+        {
+          "chords": "",
+          "lyrics": "And unto certain shepherds brought tidings of the same"
+        },
+        {
+          "chords": "",
+          "lyrics": "How that in Bethlehem was born the Son of God by name"
+        },
+        {
+          "chords": "",
+          "lyrics": "The shepherds at those tidings rejoiced much in mind"
+        },
+        {
+          "chords": "",
+          "lyrics": "And left their flocks a-feeding in tempest, storm and wind"
+        },
+        {
+          "chords": "",
+          "lyrics": "And went to Bethlehem straightway this blessed Babe to find"
+        },
+        {
+          "chords": "",
+          "lyrics": "But when to Bethlehem they came whereat this Infant lay"
+        },
+        {
+          "chords": "",
+          "lyrics": "They found Him in a manger where oxen feed on hay"
+        },
+        {
+          "chords": "",
+          "lyrics": "His mother Mary kneeling unto the Lord did pray"
+        },
+        {
+          "chords": "",
+          "lyrics": "Now to the Lord sing praises, all you within this place"
+        },
+        {
+          "chords": "",
+          "lyrics": "And with true love and brotherhood each other now embrace"
+        },
+        {
+          "chords": "",
+          "lyrics": "This holy tide of Christmas all other doth deface"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "chorus",
+    "verse2"
+  ],
+  "link": "https://www.youtube.com/watch?v=FlfHyb397VY"
+}

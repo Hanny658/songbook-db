@@ -1,0 +1,117 @@
+{
+  "title": "Love Was When",
+  "number": 87,
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "D        DMaj7    E        E7",
+          "lyrics": "Love was when God became a man"
+        },
+        {
+          "chords": "          Asus4      A7",
+          "lyrics": "Locked in time and space"
+        },
+        {
+          "chords": "        D       Asus47  A7",
+          "lyrics": "Without rank or place"
+        },
+        {
+          "chords": "D        DMaj7  E           E7",
+          "lyrics": "Love was God born of Jewish king"
+        },
+        {
+          "chords": "       Asus4     A7        D     D7",
+          "lyrics": "Just a carpenter with some fishermen"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": " G            A               F#m  B7",
+          "lyrics": "Love was when Jesus walked in history"
+        },
+        {
+          "chords": "Em                A7",
+          "lyrics": "Lovingly He brought"
+        },
+        {
+          "chords": "    F#m    Em  Asus47  A7",
+          "lyrics": "A new life that's free"
+        },
+        {
+          "chords": "D            DMaj7     E         E7",
+          "lyrics": "Love was God nailed to bleed and die"
+        },
+        {
+          "chords": "  A          Em       A7      D",
+          "lyrics": "To reach and love one such as I"
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "D                 E",
+          "lyrics": "Love was when God became a man"
+        },
+        {
+          "chords": "           A       A7",
+          "lyrics": "Down where I could see"
+        },
+        {
+          "chords": "          D           A7",
+          "lyrics": "Love that reached to me"
+        },
+        {
+          "chords": "D                      E",
+          "lyrics": "Love was God dying for my sin"
+        },
+        {
+          "chords": "                A7             D            D7",
+          "lyrics": "And so trapped was I, My whole world caved in"
+        }
+      ]
+    },
+    {
+      "id": "verse4",
+      "label": "Verse 4",
+      "lines": [
+        {
+          "chords": "D             A",
+          "lyrics": "Love was when Jesus Rose to walk with me"
+        },
+        {
+          "chords": "Em7                 A7  F#m7      F#7   Em  A",
+          "lyrics": "Lovinging He brought A new life that's free"
+        },
+        {
+          "chords": "D",
+          "lyrics": "Love was God; only He would try"
+        },
+        {
+          "chords": "   A         Em7      A7     D",
+          "lyrics": "To reach and love one such as I"
+        },
+        {
+          "chords": "",
+          "lyrics": "To love one such as I..."
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "verse2",
+    "verse3",
+    "verse4"
+  ],
+  "link": "https://www.youtube.com/watch?v=I86WVvMDTB8"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Lord I Offer My Life",
+    "number": 209,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G              C",
+                    "lyrics": "All that I am, all that I have"
+                },
+                {
+                    "chords": "D                      C      G",
+                    "lyrics": "I lay them down before You, o Lord"
+                },
+                {
+                    "chords": "Em              C",
+                    "lyrics": "All my regrets, all my acclaim"
+                },
+                {
+                    "chords": "    Am          G        C",
+                    "lyrics": "the joy and the pain I'm making"
+                },
+                {
+                    "chords": "     D",
+                    "lyrics": "them Yours"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "G                Em",
+                    "lyrics": "Lord, I offer my life to You"
+                },
+                {
+                    "chords": "     Am              G",
+                    "lyrics": "Everything I've been through"
+                },
+                {
+                    "chords": "C               D",
+                    "lyrics": "Use it for Your glory"
+                },
+                {
+                    "chords": "G                Em",
+                    "lyrics": "Lord, I offer my days to You"
+                },
+                {
+                    "chords": "           Am        G",
+                    "lyrics": "Lifting my praise to You"
+                },
+                {
+                    "chords": "C             D Em",
+                    "lyrics": "As a pleasing sacrifice"
+                },
+                {
+                    "chords": "C         D          G",
+                    "lyrics": "Lord, I offer You my life"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Things in the past, things yet unseen"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wishes and dreams that are yet to come true"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "All of my hopes, all of my plans"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "My heart and my hand are lifted to You"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus"
+    ],
+    "link": ""
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Give Thanks",
+    "number": 19,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "     G             D",
+                    "lyrics": "Give thanks with a grateful heart"
+                },
+                {
+                    "chords": "     Em            Bm",
+                    "lyrics": "Give thanks to the Holy One"
+                },
+                {
+                    "chords": "     C                   G",
+                    "lyrics": "Give thanks because He's given"
+                },
+                {
+                    "chords": "      F           D",
+                    "lyrics": "Jesus Christ, His Son"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "    Bm           Em7           Am",
+                    "lyrics": "And now, let the weak say, I am strong"
+                },
+                {
+                    "chords": "        D7             Gmaj7",
+                    "lyrics": "Let the poor say, I am rich"
+                },
+                {
+                    "chords": "            Em",
+                    "lyrics": "Because of what the Lord has"
+                },
+                {
+                    "chords": "F        D",
+                    "lyrics": "done for us"
+                }
+            ]
+        },
+        {
+            "id": "ending",
+            "label": "Ending",
+            "lines": [
+                {
+                    "chords": "     G    C G",
+                    "lyrics": "Give thanks (x3)"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse1",
+        "verse2",
+        "verse2",
+        "ending"
+    ],
+    "link": "https://www.youtube.com/watch?v=blbslHDgceY"
+}

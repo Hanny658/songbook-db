@@ -1,0 +1,87 @@
+{
+    "title": "主你的慈爱 THY LOVING KINDNESS",
+    "number": 232,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "主，你的慈愛比生命更好，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Zhu ni de ci ai bi sheng ming gen hao,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "主，你的慈愛比生命更好，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Zhu ni de ci ai bi sheng ming gen hao,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "我要用咀唇來讚美你名，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wo yao yong zui chun lai zan mei ni ming,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "因你慈愛比生命更好。"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "yin ni de ci ai bi sheng ming gen hao."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "我要奉你名，來舉起我手，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wo yao feng ni ming, lai ju qi Shuang shou,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "我要奉你名，來舉起我手，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "wo yao feng ni ming, lai ju qi wo shou."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "我要用咀唇來讚美你名，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wo yao yong zui chun lai zan mei ni ming,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "因你慈愛比生命更好。"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "yin ni de ci ai bi sheng ming gen hao."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2"
+    ],
+    "link": ""
+}

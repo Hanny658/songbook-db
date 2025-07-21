@@ -1,0 +1,128 @@
+{
+    "title": "Amazing Love",
+    "number": 247,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " G         D/F#         Em     G/D",
+                    "lyrics": "I packed my precious things and left without a trace"
+                },
+                {
+                    "chords": " C        G/B",
+                    "lyrics": "Am7  D"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Leaving the safety of my home"
+                },
+                {
+                    "chords": " G       D/F#         C/E        G/D",
+                    "lyrics": "Not noticing that there were tears on my Dad's face"
+                },
+                {
+                    "chords": " C              D     G",
+                    "lyrics": "So eager now, to make it on my own"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "I've tried so many times and come to realize"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "This journey's futile on my own"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Struggling to make it now, I think of Dad and Home"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I wonder if He'll still call me His own"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "      G  D/F#   Em   Bm7",
+                    "lyrics": "In the day, in the night"
+                },
+                {
+                    "chords": "      C      G/B   Am7        D",
+                    "lyrics": "He is waiting for you – to come and realise"
+                },
+                {
+                    "chords": "        G  D/F#     Em   Bm7",
+                    "lyrics": "That his arms are open wide"
+                },
+                {
+                    "chords": "         C       D             G",
+                    "lyrics": "Embracing you today, our God amazing love"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": " A",
+                    "lyrics": "His blessings everyday, His guidance as I pray"
+                },
+                {
+                    "chords": " D   A/C#    Bm7  E",
+                    "lyrics": "Remind me never to forget"
+                },
+                {
+                    "chords": " A   E/G#    F#m   A/E",
+                    "lyrics": "A loving Father who has given everything"
+                },
+                {
+                    "chords": " D           E       A",
+                    "lyrics": "I will rejoice my song an offering"
+                }
+            ]
+        },
+        {
+            "id": "chorus2",
+            "label": "Chorus (Reprise)",
+            "lines": [
+                {
+                    "chords": " A  E/G#   F#m   C#m7",
+                    "lyrics": "In the day, in the night"
+                },
+                {
+                    "chords": "      D   A/C#   Bm7     E",
+                    "lyrics": "He is waiting for you – to come and realise"
+                },
+                {
+                    "chords": " A   E/G#     F#m   C#m7",
+                    "lyrics": "That his arms are open wide"
+                },
+                {
+                    "chords": "          D         E              A",
+                    "lyrics": "Embracing you today, our God amazing love"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus2"
+    ],
+    "link": ""
+}

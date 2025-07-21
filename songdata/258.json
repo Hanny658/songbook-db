@@ -1,0 +1,147 @@
+{
+    "title": "Be Still and Know",
+    "number": 258,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "C          Em  Am    Em",
+                    "lyrics": "Winter's so dark and cold"
+                },
+                {
+                    "chords": "  F                G      F#",
+                    "lyrics": "I long for the sun to shine"
+                },
+                {
+                    "chords": "           Em                       Am",
+                    "lyrics": "Though the rain falls and winds blow my way"
+                },
+                {
+                    "chords": "   F         G         C",
+                    "lyrics": "I hear his still small voice speak"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "   C.     Em.            F",
+                    "lyrics": "Be still my child, Spring can bring new life"
+                },
+                {
+                    "chords": "   F.                       G",
+                    "lyrics": "Be still my child, storms won't last always"
+                },
+                {
+                    "chords": "       F# Em                Am",
+                    "lyrics": "' Peace be still', my child why are you afraid?"
+                },
+                {
+                    "chords": "      F                        G",
+                    "lyrics": "When will you have faith? You can always trust in me"
+                },
+                {
+                    "chords": " C.               F",
+                    "lyrics": "I am the truth, the life, the way"
+                },
+                {
+                    "chords": "     G",
+                    "lyrics": "Your heart can find"
+                },
+                {
+                    "chords": "   C",
+                    "lyrics": "A home in me"
+                },
+                {
+                    "chords": "   Am     Em.      F    C",
+                    "lyrics": "Be still, and know that I am God"
+                },
+                {
+                    "chords": "        F            G     C",
+                    "lyrics": "Blessed be those who trust in me"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "To be the stars that shine"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Lord help me be light in the dark"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Thorns grow to hinder the truth"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "But your promises will never change"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Be still my soul, spring can bring new life"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Be still my soul, storms won't last always"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Be still my soul, know He is God"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I will not be afraid, I can always trust in Him"
+                }
+            ]
+        },
+        {
+            "id": "verse4",
+            "label": "Verse 4",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Jesus you are my hope and strength"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "My heart can find a home in You"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I'll be still, and know that You are God"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Blessed be those who trust in you"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus",
+        "verse4",
+        "chorus"
+    ],
+    "link": ""
+}

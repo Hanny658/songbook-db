@@ -1,0 +1,87 @@
+{
+    "title": "日升之处 FROM THE RISING OF THE SUN",
+    "number": 230,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "齐声赞美耶和华，赞美他圣名，哦！"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Qi sheng zan mei ye he hua, zan mei ta sheng ming, o!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "赞美他，全地赞美！"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Zan mei ta, quan di zan mei!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "赞美耶和华的名，在日升之处，哦！"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Zan mei ye he hua de ming, zai ri sheng zhi chu, o!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "到日落，全地赞美！"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Dao ri luo, quan di zan mei!"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "赞美我主，全地人类都当赞美他！"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Zan mei wo zhu, quan di ren lei dou dang zan mei ta!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "赞美我主的圣名"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Zan mei wo zhu de sheng ming"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "齐声赞美，赞美我主，"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Qi sheng zan mei, zan mei wo zhu,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "赞美我 主，直 到永永远远。"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Zan mei wo zhu, zi dao yong yong yuan yuan."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus"
+    ],
+    "link": ""
+}

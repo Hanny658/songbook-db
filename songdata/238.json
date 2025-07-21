@@ -1,0 +1,115 @@
+{
+    "title": "What a Day That Will Be",
+    "number": 238,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "  D",
+                    "lyrics": "There is coming a day"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "When no heartache shall come"
+                },
+                {
+                    "chords": "         A",
+                    "lyrics": "No more clouds in the sky"
+                },
+                {
+                    "chords": "        D",
+                    "lyrics": "No more tears to dim the eye"
+                },
+                {
+                    "chords": "     G",
+                    "lyrics": "All is peace forever more"
+                },
+                {
+                    "chords": "        D    F#m  Bm",
+                    "lyrics": "On that happy golden shore"
+                },
+                {
+                    "chords": "       A         Em  A     D D7",
+                    "lyrics": "What a day, glorious day that will be"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "       G",
+                    "lyrics": "What a day that will be"
+                },
+                {
+                    "chords": "         D   F#m  Bm",
+                    "lyrics": "When my Jesus I shall see"
+                },
+                {
+                    "chords": "     A",
+                    "lyrics": "And I look upon His face"
+                },
+                {
+                    "chords": "             D            D7",
+                    "lyrics": "The One who saved my by His grace"
+                },
+                {
+                    "chords": "         G",
+                    "lyrics": "When He takes me by the hand"
+                },
+                {
+                    "chords": "             D        F#m    Bm",
+                    "lyrics": "And leads me through the Promised Land"
+                },
+                {
+                    "chords": "       A         G   A     D",
+                    "lyrics": "What a day, glorious day that will be"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "There'll be no sorrow there"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "No more burdens to bear"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "No more sickness, no pain"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "No more parting over there"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And forever I will be"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "With the One who died for me"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "What a day, glorious day that will be."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus"
+    ],
+    "link": "https://www.youtube.com/watch?v=ycz4s2xwDhc"
+}

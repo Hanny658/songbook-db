@@ -1,0 +1,94 @@
+{
+    "title": "The Sweetest Name of All",
+    "number": 77,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "C      Cmaj7      F",
+                    "lyrics": "Jesus, You're the sweetest name of all"
+                },
+                {
+                    "chords": "Dm7    G7         F       C",
+                    "lyrics": "Jesus, You always hear me when I call"
+                },
+                {
+                    "chords": "G  Am7                F",
+                    "lyrics": "Oh Jesus, You pick me up"
+                },
+                {
+                    "chords": "            Dm",
+                    "lyrics": "Each time I fall"
+                },
+                {
+                    "chords": "           G",
+                    "lyrics": "You're the sweetest,"
+                },
+                {
+                    "chords": "    G7            Cfine  (Dm7 G7)",
+                    "lyrics": "The sweetest name of all"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "C     Cmaj7  F",
+                    "lyrics": "Jesus, how I love to praise Your name"
+                },
+                {
+                    "chords": "Dm7    G7               F          C",
+                    "lyrics": "Jesus, You're still the first, the last, the same"
+                },
+                {
+                    "chords": "G  Am7                 F            Dm",
+                    "lyrics": "Oh Jesus, You died and took away my shame"
+                },
+                {
+                    "chords": "                G",
+                    "lyrics": "You're the sweetest"
+                },
+                {
+                    "chords": "             G7      Cfine  (Dm7 G7)",
+                    "lyrics": "The sweetest name of all"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "C      Cmaj7      F",
+                    "lyrics": "Jesus, You're the soon and coming King"
+                },
+                {
+                    "chords": "Dm7    G7         F       C",
+                    "lyrics": "Jesus, we need the love That You can bring"
+                },
+                {
+                    "chords": "G  Am7                F             Dm",
+                    "lyrics": "Oh Jesus, we lift our voices up and sing"
+                },
+                {
+                    "chords": "                G",
+                    "lyrics": "You're the sweetest"
+                },
+                {
+                    "chords": "             G7      Cfine  (Dm7 G7)",
+                    "lyrics": "The sweetest name of all"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3"
+    ],
+    "link": "https://www.youtube.com/watch?v=ZoVQsGah3tg"
+}

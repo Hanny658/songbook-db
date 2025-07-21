@@ -1,0 +1,126 @@
+{
+    "title": "God Will Make a Way",
+    "number": 204,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G               D",
+                    "lyrics": "God will make a way"
+                },
+                {
+                    "chords": "            C              G",
+                    "lyrics": "Where there seems to be no way"
+                },
+                {
+                    "chords": "   C                G",
+                    "lyrics": "He works in ways we cannot see"
+                },
+                {
+                    "chords": "C              D",
+                    "lyrics": "He will make a way for me"
+                },
+                {
+                    "chords": "G             D",
+                    "lyrics": "He will be my guide"
+                },
+                {
+                    "chords": "        C              G",
+                    "lyrics": "Hold me closely to His side"
+                },
+                {
+                    "chords": "     C                     G",
+                    "lyrics": "With love and strength for each new day"
+                },
+                {
+                    "chords": "C              D",
+                    "lyrics": "He will make a way"
+                },
+                {
+                    "chords": "C       D      G",
+                    "lyrics": "He will make a way (repeat)"
+                }
+            ]
+        },
+        {
+            "id": "bridge1",
+            "label": "Bridge",
+            "lines": [
+                {
+                    "chords": "     Eb             F",
+                    "lyrics": "By a roadway in the wilderness"
+                },
+                {
+                    "chords": "      Bbsus4 Bb",
+                    "lyrics": "He'll lead me"
+                },
+                {
+                    "chords": "    Eb            F             G",
+                    "lyrics": "And rivers in the desert will I see"
+                },
+                {
+                    "chords": "C                     D",
+                    "lyrics": "Heaven and earth will fade"
+                },
+                {
+                    "chords": "        Bm        B      Em",
+                    "lyrics": "But His word will still remain"
+                },
+                {
+                    "chords": "    C          D               E",
+                    "lyrics": "And He will do something new today"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "   A               E",
+                    "lyrics": "Oh God will make a way"
+                },
+                {
+                    "chords": "            D              A",
+                    "lyrics": "Where there seems to be no way"
+                },
+                {
+                    "chords": "   D                A",
+                    "lyrics": "He works in ways we cannot see"
+                },
+                {
+                    "chords": "D              E",
+                    "lyrics": "He will make a way for me"
+                },
+                {
+                    "chords": "A             E",
+                    "lyrics": "He will be my guide"
+                },
+                {
+                    "chords": "        D              A",
+                    "lyrics": "Hold me closely to His side"
+                },
+                {
+                    "chords": "     D                     A",
+                    "lyrics": "With love and strength for each new day"
+                },
+                {
+                    "chords": "D              E",
+                    "lyrics": "He will make a way"
+                },
+                {
+                    "chords": "D       E      A",
+                    "lyrics": "He will make a way"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "bridge1",
+        "verse2"
+    ],
+    "link": ""
+}

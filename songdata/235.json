@@ -1,0 +1,87 @@
+{
+    "title": "Swing Low Sweet Chariot",
+    "number": 235,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "      G   G7   C   G",
+                    "lyrics": "Swing low, sweet char - iot"
+                },
+                {
+                    "chords": " Em         Bm      G",
+                    "lyrics": "Comin' for to carry me home"
+                },
+                {
+                    "chords": " D7    G   G7   C   G",
+                    "lyrics": "Swing low, Sweet char - iot"
+                },
+                {
+                    "chords": "  Em7      D7      G",
+                    "lyrics": "Comin' for to carry me home"
+                },
+                {
+                    "chords": "   G         Em      C       G",
+                    "lyrics": "I looked over Jordan and what did I see"
+                },
+                {
+                    "chords": " G          Em      D7",
+                    "lyrics": "Comin' for to carry me home"
+                },
+                {
+                    "chords": "   G      G7    C   Am7 D7",
+                    "lyrics": "A band of angels comin' after  me"
+                },
+                {
+                    "chords": " G           E      D7   G",
+                    "lyrics": "Comin' for to carry me home"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "We can go together, I pray that we do"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Comin’ for to carry me home"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I hope all my friends are comin’ too"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Comin’ for to carry me home"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Sometimes I’m up and sometimes I’m down,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Comin' for to carry me home"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "But still my heart feels Heavenly bound"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Comin' for to carry me home"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2"
+    ],
+    "link": "https://www.youtube.com/watch?v=Thz1zDAytzU"
+}

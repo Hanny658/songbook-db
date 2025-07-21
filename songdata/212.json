@@ -1,0 +1,101 @@
+{
+    "title": "This Little Light of Mine",
+    "number": 212,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " G",
+                    "lyrics": "This little light of mine, I’m gonna let it shine"
+                },
+                {
+                    "chords": " C                              G",
+                    "lyrics": "This little light of mine, I’m gonna let it shine"
+                },
+                {
+                    "chords": " G                 D           Em",
+                    "lyrics": "This little light of mine, I’m gonna let it shine"
+                },
+                {
+                    "chords": "      G        D        G",
+                    "lyrics": "Let it shine, let it shine, let it shine."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Jesus is the Light, I’m gonna let Him shine,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Jesus is the Light, I’m gonna let Him shine,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Jesus is the Light, I’m gonna let Him shine,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Let Him shine, let Him shine, let Him shine."
+                }
+            ]
+        },
+        {
+            "id": "bridge",
+            "label": "Bridge",
+            "lines": [
+                {
+                    "chords": " G",
+                    "lyrics": "I will stomp my feet, and I will clap my hands"
+                },
+                {
+                    "chords": "     D     G",
+                    "lyrics": "and shout! Shout!"
+                },
+                {
+                    "chords": " G",
+                    "lyrics": "I will run around I will jump off the ground"
+                },
+                {
+                    "chords": "     D     G",
+                    "lyrics": "and shout! Shout!"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": " G",
+                    "lyrics": "This little light of mine, I’m gonna let it shine"
+                },
+                {
+                    "chords": " C                              G",
+                    "lyrics": "This little light of mine, I’m gonna let it shine"
+                },
+                {
+                    "chords": " G                 D           Em",
+                    "lyrics": "This little light of mine, I’m gonna let it shine"
+                },
+                {
+                    "chords": "      G        D        G",
+                    "lyrics": "Let it shine, let it shine, let it shine."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "bridge",
+        "verse3"
+    ],
+    "link": "https://www.youtube.com/watch?v=cKkbIZtqhyQ"
+}

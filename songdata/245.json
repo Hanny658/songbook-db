@@ -1,0 +1,49 @@
+{
+    "title": "God’s Love",
+    "number": 245,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G",
+                    "lyrics": "God’s Love is so wonderful,"
+                },
+                {
+                    "chords": " D",
+                    "lyrics": "God’s Love is so wonderful,"
+                },
+                {
+                    "chords": " G",
+                    "lyrics": "God’s Love is so wonderful,"
+                },
+                {
+                    "chords": " D           G",
+                    "lyrics": "Oh! Wonderful love!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "So high you can’t get over it,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "So deep you can’t get under it,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "So wide you can’t get around it,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Oh! Wonderful love!"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse1"
+    ],
+    "link": "https://www.youtube.com/watch?v=Ju38Sdc2cSg"
+}

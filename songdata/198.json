@@ -1,0 +1,48 @@
+{
+    "title": "And Jesus Grew",
+    "number": 198,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "C",
+                    "lyrics": "And Jesus grew (and Jesus grew)"
+                },
+                {
+                    "chords": "   G",
+                    "lyrics": "In wisdom (in wisdom)"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And Jesus grew (and Jesus grew)"
+                },
+                {
+                    "chords": "   C",
+                    "lyrics": "In stature (in stature)"
+                },
+                {
+                    "chords": "    C7",
+                    "lyrics": "And Jesus grew (and Jesus grew)"
+                },
+                {
+                    "chords": "   F",
+                    "lyrics": "In favour (in favour)"
+                },
+                {
+                    "chords": "     G",
+                    "lyrics": "With God (with God)"
+                },
+                {
+                    "chords": "    C",
+                    "lyrics": "And men (and men)"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1"
+    ],
+    "link": ""
+}

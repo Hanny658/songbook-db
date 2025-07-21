@@ -1,0 +1,127 @@
+{
+    "title": "So You Would Come",
+    "number": 236,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "   C",
+                    "lyrics": "Before the world began"
+                },
+                {
+                    "chords": " F      G     C",
+                    "lyrics": "You were on His mind"
+                },
+                {
+                    "chords": "     F          C",
+                    "lyrics": "And ev’ry tear you cry"
+                },
+                {
+                    "chords": "   Dsus4  D    Gsus   G",
+                    "lyrics": "is previous in His eyes"
+                },
+                {
+                    "chords": "   F               C",
+                    "lyrics": "Because of His great love"
+                },
+                {
+                    "chords": "   Asus2   E7  Am7",
+                    "lyrics": "He gave His only  Son"
+                },
+                {
+                    "chords": " F            G",
+                    "lyrics": "Ev’rything was done"
+                },
+                {
+                    "chords": "             C    C7",
+                    "lyrics": "so you would come"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "             F      G",
+                    "lyrics": "Come to the Father"
+                },
+                {
+                    "chords": "  Em7           Am7",
+                    "lyrics": "though your gift is small"
+                },
+                {
+                    "chords": " Dm7          Em7",
+                    "lyrics": "Broken hearts, broken lives"
+                },
+                {
+                    "chords": " F            Gsus4",
+                    "lyrics": "He will take them all"
+                },
+                {
+                    "chords": " G   F          G",
+                    "lyrics": "The power of the Word"
+                },
+                {
+                    "chords": "    Em7       Am7",
+                    "lyrics": "the power of His blood"
+                },
+                {
+                    "chords": " Dm7        Gsus4",
+                    "lyrics": "Ev’rything was done"
+                },
+                {
+                    "chords": "   G        C",
+                    "lyrics": "so you would come"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Nothing you can do"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Could make Him love you more"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And nothing that you’ve done"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Could make Him close the door"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Because of His great love"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "He gave his only Son"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Everything was done"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "So you would come"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus"
+    ],
+    "link": "https://www.youtube.com/watch?v=VVh96S7Fd40"
+}

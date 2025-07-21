@@ -1,0 +1,154 @@
+{
+    "title": "Being Real",
+    "number": 257,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " G",
+                    "lyrics": "Ever feel like in a maze"
+                },
+                {
+                    "chords": "   D",
+                    "lyrics": "Running in an endless race"
+                },
+                {
+                    "chords": "  E",
+                    "lyrics": "To find out the truth in life"
+                },
+                {
+                    "chords": " B",
+                    "lyrics": "In a world full of lies"
+                },
+                {
+                    "chords": " C",
+                    "lyrics": "Ever feel sick sometimes"
+                },
+                {
+                    "chords": " E  D",
+                    "lyrics": "Hiding under a mask"
+                },
+                {
+                    "chords": " A        D       G",
+                    "lyrics": "Do I know how to be real?"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": " C",
+                    "lyrics": "You may be amazed"
+                },
+                {
+                    "chords": " D             G",
+                    "lyrics": "by this unseen Grace"
+                },
+                {
+                    "chords": "           C",
+                    "lyrics": "Oh through faith"
+                },
+                {
+                    "chords": "      D          G",
+                    "lyrics": "He’ll show you His face"
+                },
+                {
+                    "chords": "         C",
+                    "lyrics": "Then one day"
+                },
+                {
+                    "chords": "      D    B    E",
+                    "lyrics": "You’ll find yourself too"
+                },
+                {
+                    "chords": "       C   D         G",
+                    "lyrics": "True to Him, that is being real."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "You ask me what is real"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And I’ll say that He is truth"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "To find that God made you"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "He will guide and renew"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "In the dark, He’ll be light"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Always by your side"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "When none can be there to see you through"
+                }
+            ]
+        },
+        {
+            "id": "bridge",
+            "label": "Bridge",
+            "lines": [
+                {
+                    "chords": "       C",
+                    "lyrics": "Will you let Him shine in"
+                },
+                {
+                    "chords": " D  C#",
+                    "lyrics": "you"
+                },
+                {
+                    "chords": "       B",
+                    "lyrics": "Will you let Him shine"
+                },
+                {
+                    "chords": "        E  D C",
+                    "lyrics": "through you today~~"
+                },
+                {
+                    "chords": "     D",
+                    "lyrics": "My friend"
+                }
+            ]
+        },
+        {
+            "id": "ending",
+            "label": "Ending",
+            "lines": [
+                {
+                    "chords": "     C  D             G",
+                    "lyrics": "True to Him, that is being real."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "link": ""
+}

@@ -1,0 +1,95 @@
+{
+    "title": "讓愛走動 Love Overflows",
+    "number": 224,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "         G          Bm",
+                    "lyrics": "走 過 傷 心， 走 過 淚 水，"
+                },
+                {
+                    "chords": "       C    A           D",
+                    "lyrics": "讓 每 一 顆 心 再 次 飛 起 來。"
+                },
+                {
+                    "chords": "         G           Bm",
+                    "lyrics": "用 你 的 心， 伸 出 你 手，"
+                },
+                {
+                    "chords": "        C     A         D",
+                    "lyrics": "讓 每 個 靈 魂 再 次 活 過 來。"
+                },
+                {
+                    "chords": "        G   G7",
+                    "lyrics": "讓 愛 走 動，"
+                },
+                {
+                    "chords": "              C             G",
+                    "lyrics": "讓 你 的 愛 化 成 希 望 的 種 子，"
+                },
+                {
+                    "chords": "         Am  A7           D",
+                    "lyrics": "隨 風 揚 起， 編 織 美 麗 的 夢。"
+                },
+                {
+                    "chords": "         G    G7",
+                    "lyrics": "讓 愛 走 動，"
+                },
+                {
+                    "chords": "              C             Am",
+                    "lyrics": "讓 你 的 愛 化 成 溫 暖 的 擁 抱，"
+                },
+                {
+                    "chords": "          C            Am       G",
+                    "lyrics": "綻 放 陽 光， 編 織 神 所 造 的 夢。"
+                }
+            ]
+        },
+        {
+            "id": "english",
+            "label": "English Verse",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Though there were sorrows and many tears"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Let hope and courage be restored again"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Lift your hands up, let faith arise,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Let every spirit be revived again"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Love overflows, and that love is the seed of hope in our hearts"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "The spirit flows, giving life to your dreams"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Love overflows, let your love be a warm and tender embrace"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "His love will show, like the sunshine on your face."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "english"
+    ],
+    "link": "https://www.youtube.com/watch?v=glIEsTt2A84"
+}

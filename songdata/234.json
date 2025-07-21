@@ -1,0 +1,59 @@
+{
+    "title": "The Lord’s Joy Is My Strength",
+    "number": 234,
+    "lyrics": [
+        {
+            "id": "verse",
+            "label": "Verse",
+            "lines": [
+                {
+                    "chords": "Emaj7    Amaj7  Emaj7  Bsus4",
+                    "lyrics": "主的喜樂是我力量，你的救恩是我盼望；"
+                },
+                {
+                    "chords": "       A2          E/G#",
+                    "lyrics": "雖然橄欖樹不效力，也許葡萄樹不結果，"
+                },
+                {
+                    "chords": "     F#m7       Bsus4",
+                    "lyrics": "我仍因救我的神歡欣快樂。"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "     E        A        Bsus4",
+                    "lyrics": "我要讚美，無論得時或不得時，"
+                },
+                {
+                    "chords": "     E        A        Bsus4",
+                    "lyrics": "我要讚美，每天從日出到日落；"
+                },
+                {
+                    "chords": "   F#m7 Bsus4  G#m C#m",
+                    "lyrics": "我心堅定於你，每天贊美不停，"
+                },
+                {
+                    "chords": "     A       E/G#      A       E/G#",
+                    "lyrics": "我要讚美，跳舞讚美，我要讚美，自由讚美，"
+                },
+                {
+                    "chords": "    F#m7   Bsus4   E",
+                    "lyrics": "大聲歡呼你是永遠得勝君王。"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse",
+        "verse",
+        "chorus",
+        "verse",
+        "verse",
+        "chorus"
+    ],
+    "link": ""
+}

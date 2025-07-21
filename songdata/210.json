@@ -1,0 +1,62 @@
+{
+    "title": "Praise Him, All Ye Little Children",
+    "number": 210,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " A",
+                    "lyrics": "Praise Him, praise Him,"
+                },
+                {
+                    "chords": " D          A",
+                    "lyrics": "All ye little children,"
+                },
+                {
+                    "chords": "       D    A    E",
+                    "lyrics": "God is love, God is love,"
+                },
+                {
+                    "chords": " A",
+                    "lyrics": "Praise Him, praise Him,"
+                },
+                {
+                    "chords": " D       A",
+                    "lyrics": "All ye little children,"
+                },
+                {
+                    "chords": "       D    A    E",
+                    "lyrics": "God is love, God is love."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Love Him..."
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Serve Him.."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3"
+    ],
+    "link": "https://www.youtube.com/watch?v=bTmXj9eDqms"
+}

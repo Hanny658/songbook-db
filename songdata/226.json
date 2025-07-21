@@ -1,0 +1,101 @@
+{
+    "title": "Kasih (Indo/Malay)",
+    "number": 226,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " G        C      G",
+                    "lyrics": "Kasih itu lemah lembut"
+                },
+                {
+                    "chords": " G         Am   D",
+                    "lyrics": "Tulus dan mulia"
+                },
+                {
+                    "chords": " Am        D",
+                    "lyrics": "Kasih itu murah hati"
+                },
+                {
+                    "chords": "  C     D      G    G7",
+                    "lyrics": "Sabar sederhana"
+                }
+            ]
+        },
+        {
+            "id": "chorus1",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": " C                 G",
+                    "lyrics": "Ajarilah kami bahasa cintamu"
+                },
+                {
+                    "chords": " D                   C      G",
+                    "lyrics": "Agar kami dekat padamu ya Tuhanku"
+                },
+                {
+                    "chords": " C                G   Em",
+                    "lyrics": "Ajarilah kami bahasa cintamu"
+                },
+                {
+                    "chords": "      Am       D   G",
+                    "lyrics": "Agar kami dekat padamu"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": " G        Am",
+                    "lyrics": "Kasih pasti lemah lembut"
+                },
+                {
+                    "chords": " D        G",
+                    "lyrics": "Kasih pasti murah hati"
+                },
+                {
+                    "chords": " G        C",
+                    "lyrics": "Kasih kasih-Mu ya Tuhan"
+                },
+                {
+                    "chords": "  G      D        G  D",
+                    "lyrics": "Kasihmu tulus tiada batasnya"
+                }
+            ]
+        },
+        {
+            "id": "chorus2",
+            "label": "Chorus 2",
+            "lines": [
+                {
+                    "chords": "  G            Am",
+                    "lyrics": "Ajarilah kami ini saling mengasihi"
+                },
+                {
+                    "chords": "  D            C           G",
+                    "lyrics": "Ajarilah kami ini saling mengampuni"
+                },
+                {
+                    "chords": "  G            C        Am",
+                    "lyrics": "Ajarilah kami ini kasihmu ya Tuhan"
+                },
+                {
+                    "chords": "   G         D        G",
+                    "lyrics": "Kasihmu tulus tiada batasnya"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus1",
+        "verse2",
+        "chorus2"
+    ],
+    "link": ""
+}

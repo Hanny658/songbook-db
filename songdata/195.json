@@ -1,0 +1,80 @@
+{
+    "title": "Only a Boy Named David",
+    "number": 195,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "E",
+                    "lyrics": "Only a boy named David"
+                },
+                {
+                    "chords": "              B7",
+                    "lyrics": "Only a little sling"
+                },
+                {
+                    "chords": "E",
+                    "lyrics": "Only a boy named David"
+                },
+                {
+                    "chords": "    F#m               B7",
+                    "lyrics": "But he could pray and sing"
+                },
+                {
+                    "chords": "E",
+                    "lyrics": "Only a boy named David"
+                },
+                {
+                    "chords": "E7              A",
+                    "lyrics": "Only a rippling brook"
+                },
+                {
+                    "chords": "E",
+                    "lyrics": "Only a boy named David"
+                },
+                {
+                    "chords": "    F#m         B7        E",
+                    "lyrics": "But five little stones he took"
+                },
+                {
+                    "chords": "    A",
+                    "lyrics": "And one little stone went in the sling"
+                },
+                {
+                    "chords": "        E",
+                    "lyrics": "And the sling went round & round"
+                },
+                {
+                    "chords": "    F#",
+                    "lyrics": "And one little stone went in the sling"
+                },
+                {
+                    "chords": "                           B7",
+                    "lyrics": "And the sling went round & round"
+                },
+                {
+                    "chords": "  E                       E7",
+                    "lyrics": "& round & round & round & round"
+                },
+                {
+                    "chords": "                  A",
+                    "lyrics": "& round & round & round"
+                },
+                {
+                    "chords": "    E",
+                    "lyrics": "And one little stone went in the sling"
+                },
+                {
+                    "chords": "        B7",
+                    "lyrics": "And the giant came tumbling down"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1"
+    ],
+    "link": ""
+}

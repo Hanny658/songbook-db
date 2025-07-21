@@ -1,0 +1,201 @@
+{
+    "title": "At The Cross",
+    "number": 242,
+    "lyrics": [
+        {
+            "id": "intro",
+            "label": "Intro",
+            "lines": [
+                {
+                    "chords": "| A    E/G# A | B        | x4",
+                    "lyrics": ""
+                }
+            ]
+        },
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "E/G#     A2           B      C#m7",
+                    "lyrics": "Oh Lord You’ve searched me"
+                },
+                {
+                    "chords": "E/G#      A2     B",
+                    "lyrics": "You know my way"
+                },
+                {
+                    "chords": "E/G#       A2     B    C#m7",
+                    "lyrics": "Even when I fail You"
+                },
+                {
+                    "chords": "A2         Bsus  B",
+                    "lyrics": "I know You love me"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "E/G#      A2   B    C#m7",
+                    "lyrics": "Your holy presence"
+                },
+                {
+                    "chords": "E/G#    A2       B",
+                    "lyrics": "Surrounding me"
+                },
+                {
+                    "chords": "E/G#   A2     B   C#m7",
+                    "lyrics": "In every season"
+                },
+                {
+                    "chords": "A2         Bsus  B",
+                    "lyrics": "I know You love me"
+                },
+                {
+                    "chords": "A2         Bsus  B",
+                    "lyrics": "I know You love me"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "E                B/D#   C#m",
+                    "lyrics": "At the cross I bow my knee"
+                },
+                {
+                    "chords": "                     E/G#     A",
+                    "lyrics": "Where Your blood was shed for me"
+                },
+                {
+                    "chords": "                            B",
+                    "lyrics": "There’s no greater love than this"
+                },
+                {
+                    "chords": "E              B/D#      C#m",
+                    "lyrics": "You have overcome the grave"
+                },
+                {
+                    "chords": "                     E/G#      A",
+                    "lyrics": "Your glory fills the highest place"
+                },
+                {
+                    "chords": "                    B",
+                    "lyrics": "What can separate me now"
+                }
+            ]
+        },
+        {
+            "id": "instrumental",
+            "label": "Instrumental",
+            "lines": [
+                {
+                    "chords": "| A    E/G# A | B        | x2",
+                    "lyrics": ""
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "E/G#     A2   B    C#m7",
+                    "lyrics": "You go before me"
+                },
+                {
+                    "chords": "E/G#      A2       B",
+                    "lyrics": "You shield my way"
+                },
+                {
+                    "chords": "E/G#      A2     B     C#m7",
+                    "lyrics": "Your hand upholds me"
+                },
+                {
+                    "chords": "A2         Bsus  B",
+                    "lyrics": "I know You love me"
+                }
+            ]
+        },
+        {
+            "id": "bridge",
+            "label": "Bridge",
+            "lines": [
+                {
+                    "chords": "              A2   B           C#m7",
+                    "lyrics": "You tore the veil, You made a way"
+                },
+                {
+                    "chords": "           A        C#m7  B",
+                    "lyrics": "When You said that it is done"
+                }
+            ]
+        },
+        {
+            "id": "verse4",
+            "label": "Verse 4",
+            "lines": [
+                {
+                    "chords": "E/G#     A2       B       C#m7",
+                    "lyrics": "And when the earth fades"
+                },
+                {
+                    "chords": "E/G#       A2       B",
+                    "lyrics": "Falls from my eyes,"
+                },
+                {
+                    "chords": "E/G#         A2      B    C#m7",
+                    "lyrics": "And You stand before me"
+                },
+                {
+                    "chords": "A2         Bsus  B",
+                    "lyrics": "I know You love me"
+                },
+                {
+                    "chords": "A2         Bsus  B",
+                    "lyrics": "I know You love me"
+                }
+            ]
+        },
+        {
+            "id": "outro",
+            "label": "Outro",
+            "lines": [
+                {
+                    "chords": "| A    E/G# A | B        |",
+                    "lyrics": ""
+                },
+                {
+                    "chords": "| A    E/G# A | B (hold)",
+                    "lyrics": ""
+                }
+            ]
+        }
+    ],
+    "song": [
+        "intro",
+        "verse1",
+        "verse2",
+        "chorus",
+        "instrumental",
+        "verse3",
+        "chorus",
+        "chorus",
+        "bridge",
+        "bridge",
+        "verse4",
+        "chorus",
+        "chorus",
+        "bridge",
+        "bridge",
+        "bridge",
+        "bridge",
+        "outro"
+    ],
+    "link": "https://www.youtube.com/watch?v=icmHBODALrQ"
+}

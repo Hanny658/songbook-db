@@ -1,0 +1,134 @@
+{
+    "title": "For Those Tears I Died",
+    "number": 250,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "     Eb             Cm",
+                    "lyrics": "You said You'd come and share all"
+                },
+                {
+                    "chords": "    Ab  Bb7",
+                    "lyrics": "my sorrows"
+                },
+                {
+                    "chords": "     Eb",
+                    "lyrics": "You said You'd be there for all my"
+                },
+                {
+                    "chords": "Ab  Bb7",
+                    "lyrics": "tomorrows,"
+                },
+                {
+                    "chords": " Eb       Bb6",
+                    "lyrics": "I came so close to sending You away;"
+                },
+                {
+                    "chords": "Ab        Bb",
+                    "lyrics": ""
+                },
+                {
+                    "chords": " Ab  Eb    Cm    Ab",
+                    "lyrics": "But just like You promised, You came"
+                },
+                {
+                    "chords": "         Bb7",
+                    "lyrics": "there to stay"
+                },
+                {
+                    "chords": "           Eb",
+                    "lyrics": "I just had to pray."
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "     Eb7     Ab",
+                    "lyrics": "And Jesus said, “Come to the water,"
+                },
+                {
+                    "chords": " Eb",
+                    "lyrics": "stand by my side."
+                },
+                {
+                    "chords": "   Bb             Bb7",
+                    "lyrics": "I know you are thirsty, you won't be"
+                },
+                {
+                    "chords": " Eb",
+                    "lyrics": "denied."
+                },
+                {
+                    "chords": "   Eb7     Ab",
+                    "lyrics": "I felt ev'ry tear drop when in darkness"
+                },
+                {
+                    "chords": " Eb",
+                    "lyrics": "you cried,"
+                },
+                {
+                    "chords": "                      Bb7",
+                    "lyrics": "And I strove to remind you that for those"
+                },
+                {
+                    "chords": "          Eb",
+                    "lyrics": "tears I died."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Your goodness so great I can't understand."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And dear Lord, I know that all this was planned."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Your love loosed my chains and in You I am free."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "But Jesus, why me?"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Jesus, I give You my heart and my soul."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I know that without God I'd never be whole."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Saviour, You opened all the right doors."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And I thank You, and praise You from earth's humble shores."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Take me, I'm Yours."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2"
+    ],
+    "link": ""
+}

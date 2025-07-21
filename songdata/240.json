@@ -1,0 +1,59 @@
+{
+  "title": "Go Light Your World",
+  "number": 240,
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "          G           D",
+          "lyrics": "There is a candle in every soul"
+        },
+        {
+          "chords": "              C            Dsus  D",
+          "lyrics": "Some brightly burning some dark and cold"
+        },
+        {
+          "chords": "          G             D",
+          "lyrics": "There is a Spirit who brings a fire"
+        },
+        {
+          "chords": "         C    D        G  C/D",
+          "lyrics": "Ignites a candle and makes His home"
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "label": "Chorus",
+      "lines": [
+        {
+          "chords": "             G   G/B        C2",
+          "lyrics": "So carry your candle run to the darkness"
+        },
+        {
+          "chords": "            G/D      D       C/E",
+          "lyrics": "Seek out the hopeless confused and torn"
+        },
+        {
+          "chords": " D/F#         G     G/B  C",
+          "lyrics": "Hold out your candle for all to see it"
+        },
+        {
+          "chords": "         G/D         D7      B7",
+          "lyrics": "Take your candle and go light your world"
+        },
+        {
+          "chords": " C2       G/D       Am7/E     G",
+          "lyrics": "Take your candle and go light your world"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "chorus"
+  ],
+  "link": "https://www.youtube.com/watch?v=CVqR6kTu8lE"
+}

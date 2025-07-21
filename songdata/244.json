@@ -1,0 +1,174 @@
+{
+    "title": "How Great Thou Art",
+    "number": 244,
+    "lyrics": [
+        {
+            "id": "intro",
+            "label": "Intro",
+            "lines": [
+                {
+                    "chords": "G   Gsus",
+                    "lyrics": ""
+                }
+            ]
+        },
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "           G             C/G",
+                    "lyrics": "O Lord my God, When I in awesome wonder,"
+                },
+                {
+                    "chords": "         G                  D/F#      G",
+                    "lyrics": "consider all the Worlds Thy hand hath made."
+                },
+                {
+                    "chords": "           G                C/G",
+                    "lyrics": "I see the stars, I hear the rolling thunder"
+                },
+                {
+                    "chords": "               G            D/F#     G",
+                    "lyrics": "Thy pow'r throughout the universe displayed"
+                }
+            ]
+        },
+        {
+            "id": "chorus1",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "               G        C/G         G",
+                    "lyrics": "Then sings my soul, my Savior God, to Thee"
+                },
+                {
+                    "chords": "               Am7                 G",
+                    "lyrics": "How great Thou art! How great Thou art!"
+                },
+                {
+                    "chords": "                      C/G             G",
+                    "lyrics": "Then sings my soul, my Savior God, to Thee"
+                },
+                {
+                    "chords": "               Am7    C/G            G",
+                    "lyrics": "How great Thou art! How great Thou art!"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "            G                  C/G",
+                    "lyrics": "And when I think that God, His Son not sparing"
+                },
+                {
+                    "chords": "             G                D/F#    G",
+                    "lyrics": "Sent Him to die, I scarce can take it in"
+                },
+                {
+                    "chords": "               G              C/G",
+                    "lyrics": "That on the cross, my burden gladly bearing"
+                },
+                {
+                    "chords": "             G            D/F#    G",
+                    "lyrics": "He bled and died to take away my sin"
+                }
+            ]
+        },
+        {
+            "id": "chorus2",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "               G        C/G         G",
+                    "lyrics": "Then sings my soul, my Savior God, to Thee"
+                },
+                {
+                    "chords": "               Am7                 G",
+                    "lyrics": "How great Thou art! How great Thou art!"
+                },
+                {
+                    "chords": "                      C/G             G",
+                    "lyrics": "Then sings my soul, my Savior God, to Thee"
+                },
+                {
+                    "chords": "               Am7    C/G            G",
+                    "lyrics": "How great Thou art! How great Thou art!"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "                  G                    C/G",
+                    "lyrics": "When Christ shall come, with shouts of acclamation"
+                },
+                {
+                    "chords": "            G                   D/F#      G",
+                    "lyrics": "And take me home, what joy shall fill my heart"
+                },
+                {
+                    "chords": "              G             C/G",
+                    "lyrics": "Then I shall bow in humble adoration"
+                },
+                {
+                    "chords": "             G                  D/F#       G",
+                    "lyrics": "And there proclaim, My God, how great You are!"
+                }
+            ]
+        },
+        {
+            "id": "chorus3",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "               G        C/G         G",
+                    "lyrics": "Then sings my soul, my Savior God, to Thee"
+                },
+                {
+                    "chords": "               Am7                 G",
+                    "lyrics": "How great Thou art! How great Thou art!"
+                },
+                {
+                    "chords": "                      C/G             G",
+                    "lyrics": "Then sings my soul, my Savior God, to Thee"
+                },
+                {
+                    "chords": "               Am7    C/G            G",
+                    "lyrics": "How great Thou art! How great Thou art!"
+                },
+                {
+                    "chords": "               G        C/G         G",
+                    "lyrics": "Then sings my soul, my Savior God, to Thee"
+                },
+                {
+                    "chords": "               Am7                 G",
+                    "lyrics": "How great Thou art! How great Thou art!"
+                },
+                {
+                    "chords": "                      C/G             G",
+                    "lyrics": "Then sings my soul, my Savior God, to Thee"
+                },
+                {
+                    "chords": "               Am7    C/G            G",
+                    "lyrics": "How great Thou art! How great Thou art!"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "intro",
+        "verse1",
+        "chorus1",
+        "verse2",
+        "chorus2",
+        "verse3",
+        "chorus3"
+    ],
+    "link": "https://www.youtube.com/watch?v=VffdBR4kDM0"
+}

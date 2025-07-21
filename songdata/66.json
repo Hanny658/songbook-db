@@ -1,0 +1,33 @@
+{
+    "title": "Something Beautiful",
+    "number": 66,
+    "lyrics": [
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "D         Dmaj7   Em7      Adm7  A",
+                    "lyrics": "Something beautiful, - something good"
+                },
+                {
+                    "chords": "       A7      D        D7",
+                    "lyrics": "All my confusion, -  he understood"
+                },
+                {
+                    "chords": "G                            D       F#7        Bm",
+                    "lyrics": "All I had to offer Him - was brokenness and strife"
+                },
+                {
+                    "chords": "    Em7     D         A7              D",
+                    "lyrics": "But He made something beautiful of my life"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "chorus",
+        "chorus"
+    ],
+    "link": "https://www.youtube.com/watch?v=DMQqSarDf8Y"
+}

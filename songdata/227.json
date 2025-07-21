@@ -1,0 +1,70 @@
+{
+    "title": "S’perti Rusa",
+    "number": 227,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " C      Em    Am   C7",
+                    "lyrics": "S'Perti rusa rindu sungai-mu"
+                },
+                {
+                    "chords": "     F    G7    C  G7",
+                    "lyrics": "Jiwaku rindu engkau"
+                },
+                {
+                    "chords": " C      Em   Am   C7",
+                    "lyrics": "Kaulah Tuhan hasrat hatiku"
+                },
+                {
+                    "chords": "      F     G7       C",
+                    "lyrics": "Kurindu menyembah-mu"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "  Am             F     C",
+                    "lyrics": "Engkau kekuatan dan perisaiku"
+                },
+                {
+                    "chords": "   F             Dm E",
+                    "lyrics": "Kepada-mu Rohku berserah"
+                },
+                {
+                    "chords": " C      Em     Am  C7",
+                    "lyrics": "Kaulah Tuhan hasrat hatiku"
+                },
+                {
+                    "chords": "      F     G7       C  C7",
+                    "lyrics": "Kurindu menyembah-mu"
+                }
+            ]
+        },
+        {
+            "id": "bridge",
+            "label": "Bridge",
+            "lines": [
+                {
+                    "chords": " Am  Em F  C     F    Em   D  G7",
+                    "lyrics": "Yesus,   Yesus Kau berarti bagiku"
+                },
+                {
+                    "chords": " Am Em  F  C     Dm    G7   C",
+                    "lyrics": "Yesus,  Yesus Kau segalanya bagiku"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "bridge"
+    ],
+    "link": ""
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Jesus Loves the Little Children",
+    "number": 259,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " D",
+                    "lyrics": "Jesus loves the little children,"
+                },
+                {
+                    "chords": " A",
+                    "lyrics": "All the children of the world,"
+                },
+                {
+                    "chords": "         D",
+                    "lyrics": "Red and yellow black and white,"
+                },
+                {
+                    "chords": "       G",
+                    "lyrics": "All are precious in His sight."
+                },
+                {
+                    "chords": "      D            A",
+                    "lyrics": "Jesus loves the little children of the"
+                },
+                {
+                    "chords": "  D",
+                    "lyrics": "world."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Jesus died for all the children..."
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Serve Him all the little children..."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3"
+    ],
+    "link": "https://www.youtube.com/watch?v=cg6W76q6a2E"
+}

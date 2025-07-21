@@ -1,0 +1,115 @@
+{
+    "title": "Deeper In Love",
+    "number": 239,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " C              F         C",
+                    "lyrics": "There is longing only You can fill"
+                },
+                {
+                    "chords": "        Am    F         G",
+                    "lyrics": "A raging tempest only you can still"
+                },
+                {
+                    "chords": " F",
+                    "lyrics": "My soul is thristy Lord"
+                },
+                {
+                    "chords": "   C",
+                    "lyrics": "To know you as I'm known"
+                },
+                {
+                    "chords": " F             Am",
+                    "lyrics": "Drink from the river"
+                },
+                {
+                    "chords": "     F                   G",
+                    "lyrics": "That flows before Your throne"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": " C",
+                    "lyrics": "Take me deeper"
+                },
+                {
+                    "chords": " Em      Am",
+                    "lyrics": "Deeper in love with You"
+                },
+                {
+                    "chords": " F                        G",
+                    "lyrics": "Jesus hold me close in your embrace"
+                },
+                {
+                    "chords": " C",
+                    "lyrics": "Take me deeper"
+                },
+                {
+                    "chords": "              C        Am",
+                    "lyrics": "Deeper that I've ever been before"
+                },
+                {
+                    "chords": "            C              Am",
+                    "lyrics": "I just want to love you more and more"
+                },
+                {
+                    "chords": " F             G       C",
+                    "lyrics": "How I long to be deeper in Love"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Sunrise to sunrise"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I will seek your face"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Drown by the spirit"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "To the promise of your grace"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "My heart has found in you"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "A hope that will abide"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Here in your presence"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Forever satisfied"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus"
+    ],
+    "link": "https://www.youtube.com/watch?v=O9Hoij2kXrU"
+}

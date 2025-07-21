@@ -1,0 +1,127 @@
+{
+    "title": "Did You Ever Talk to God Above",
+    "number": 62,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G                     Am7   D",
+                    "lyrics": "Did you ever talk to God above"
+                },
+                {
+                    "chords": "                  G                Em7",
+                    "lyrics": "Tell Him that you need a friend to love"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Pray in Jesus' name,"
+                },
+                {
+                    "chords": "   Am       D              G    G7",
+                    "lyrics": "Believing that God answers prayers"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "                           Am        D/F#",
+                    "lyrics": "Have you told Him all your cares and woes"
+                },
+                {
+                    "chords": "                  G      Em7",
+                    "lyrics": "Every tiny little fear He knows"
+                },
+                {
+                    "chords": "                            Am",
+                    "lyrics": "You can know He'll always hear"
+                },
+                {
+                    "chords": "    D            G  Cadd9 G",
+                    "lyrics": "And He will answer prayers"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "G                    Am7      D",
+                    "lyrics": "You can whisper in a crowd to Him"
+                },
+                {
+                    "chords": "                         Bm      Em",
+                    "lyrics": "You can cry when you're alone to Him"
+                },
+                {
+                    "chords": "                           Am7       D",
+                    "lyrics": "You don't have to pray out loud to Him"
+                },
+                {
+                    "chords": "                G     G7",
+                    "lyrics": "He knows your thoughts"
+                }
+            ]
+        },
+        {
+            "id": "verse4",
+            "label": "Verse 4",
+            "lines": [
+                {
+                    "chords": "                     Am        D",
+                    "lyrics": "On a lofty mountain peak, He's there"
+                },
+                {
+                    "chords": "                  G           Em",
+                    "lyrics": "In a meadow by a stream, He's there"
+                },
+                {
+                    "chords": "                      Am",
+                    "lyrics": "Anywhere on earth you go"
+                },
+                {
+                    "chords": "     D                  G Cadd9 G",
+                    "lyrics": "He's been there from the start"
+                }
+            ]
+        },
+        {
+            "id": "verse5",
+            "label": "Verse 5",
+            "lines": [
+                {
+                    "chords": "                    Am      D",
+                    "lyrics": "Find the answer in His word, it's true"
+                },
+                {
+                    "chords": "                            G          Em",
+                    "lyrics": "You'll be strong because He walks with you"
+                },
+                {
+                    "chords": "                      Am         D",
+                    "lyrics": "By faithfulness He'll change you too"
+                },
+                {
+                    "chords": "            G",
+                    "lyrics": "God answers prayers"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3",
+        "verse4",
+        "verse5",
+        "verse3",
+        "verse4",
+        "verse5"
+    ],
+    "link": "https://www.youtube.com/watch?v=-2MdukdPn3g"
+}

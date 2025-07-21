@@ -1,0 +1,67 @@
+{
+    "title": "Lord I Lift Your Name on High",
+    "number": 207,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G       C                 D   C",
+                    "lyrics": "Lord, I lift Your name on high"
+                },
+                {
+                    "chords": "G       C                 D",
+                    "lyrics": "Lord, I love to sing Your praises"
+                },
+                {
+                    "chords": "G      C                 D  C",
+                    "lyrics": "I'm so glad You're in my life"
+                },
+                {
+                    "chords": "G      C                Dsus4  D",
+                    "lyrics": "I'm so glad You came to save us"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "G             C         D",
+                    "lyrics": "You came from heaven to earth"
+                },
+                {
+                    "chords": "   C        G",
+                    "lyrics": "To show the way"
+                },
+                {
+                    "chords": "         C            D",
+                    "lyrics": "From the earth to the cross"
+                },
+                {
+                    "chords": "   C       G",
+                    "lyrics": "My debt to pay"
+                },
+                {
+                    "chords": "         Am7          D",
+                    "lyrics": "From the cross to the grave"
+                },
+                {
+                    "chords": "         Em           Am7",
+                    "lyrics": "From the grave to the sky"
+                },
+                {
+                    "chords": "        Dsus4  D          G",
+                    "lyrics": "Lord, I lift Your name on high"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus"
+    ],
+    "link": ""
+}

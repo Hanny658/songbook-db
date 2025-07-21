@@ -1,0 +1,127 @@
+{
+    "title": "Give Me Oil",
+    "number": 7,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "     D            D7              G",
+                    "lyrics": "Give me oil in my lamp, keep me burning"
+                },
+                {
+                    "chords": "        D         Bm      Em  A",
+                    "lyrics": "Give me oil in my lamp, I pray"
+                },
+                {
+                    "chords": "        D         D7            G    Em",
+                    "lyrics": "Give me oil in my lamp, keep me burning"
+                },
+                {
+                    "chords": "        D                A7       D",
+                    "lyrics": "Keep me burning till the break of day"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "     D              D7             G",
+                    "lyrics": "Make me a fisher of men, Keep me fishing"
+                },
+                {
+                    "chords": "          D         Bm      Em  A",
+                    "lyrics": "Make me a fisher of men, I pray"
+                },
+                {
+                    "chords": "          D         D7           G    Em",
+                    "lyrics": "Make me a fisher of men, Keep me fishing"
+                },
+                {
+                    "chords": "        D                A7       D",
+                    "lyrics": "Keep me fishing till the break of day"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "     D            D7              G",
+                    "lyrics": "Give me joy in my heart, Keep me praising"
+                },
+                {
+                    "chords": "        D         Bm      Em  A",
+                    "lyrics": "Give me joy in my heart, I pray"
+                },
+                {
+                    "chords": "        D         D7            G    Em",
+                    "lyrics": "Give me joy in my heart, Keep me praising"
+                },
+                {
+                    "chords": "        D                 A7       D",
+                    "lyrics": "Keep me praising till the break of day"
+                }
+            ]
+        },
+        {
+            "id": "verse4",
+            "label": "Verse 4",
+            "lines": [
+                {
+                    "chords": "     D             D7              G",
+                    "lyrics": "Give me love in my heart, Keep me serving"
+                },
+                {
+                    "chords": "        D          Bm      Em  A",
+                    "lyrics": "Give me love in my heart, I pray"
+                },
+                {
+                    "chords": "        D          D7            G    Em",
+                    "lyrics": "Give me love in my heart, Keep me serving"
+                },
+                {
+                    "chords": "        D                A7       D",
+                    "lyrics": "Keep me serving till the break of day"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "D             G",
+                    "lyrics": "Sing Hosanna, Sing Hosanna"
+                },
+                {
+                    "chords": " A7                 D    G  D",
+                    "lyrics": "Sing Hosanna to the King of Kings"
+                },
+                {
+                    "chords": "D             G",
+                    "lyrics": "Sing Hosanna, Sing Hosanna"
+                },
+                {
+                    "chords": "A7                  D",
+                    "lyrics": "Sing Hosanna to the King"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus",
+        "verse4",
+        "chorus"
+    ],
+    "link": "https://www.youtube.com/watch?v=3OGMjDllEJM"
+}

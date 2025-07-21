@@ -1,0 +1,78 @@
+{
+    "title": "Silent Night, Holy Night",
+    "number": 218,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " G                 D   D7  G",
+                    "lyrics": "Silent night! Holy night! All is calm all is"
+                },
+                {
+                    "chords": " G7",
+                    "lyrics": "bright"
+                },
+                {
+                    "chords": "   C             G",
+                    "lyrics": "Round yon virgin mother and child"
+                },
+                {
+                    "chords": " C           G",
+                    "lyrics": "Holy infant so tender and mild"
+                },
+                {
+                    "chords": "  D       D7    G   Em  G",
+                    "lyrics": "Sleep in heavenly pea - ce! Sleep in"
+                },
+                {
+                    "chords": "   D     G",
+                    "lyrics": "heavenly peace!"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Silent night! Holy night! Shepherds quake at the sight"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Glories stream from heaven afar Heavenly hosts sing Hallelujah"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Christ the Saviour is born! Christ the Saviour is born!"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Silent night! Holy night! Son of God love's pure light"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Radiant beams from thy holy face With the dawn of redeeming grace"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Jesus lord at thy birth! Jesus lord at thy birth!"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3"
+    ],
+    "link": "https://www.youtube.com/watch?v=nEH7_2c644Q"
+}

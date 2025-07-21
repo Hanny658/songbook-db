@@ -1,0 +1,126 @@
+{
+    "title": "Christ as My Personal Saviour",
+    "number": 249,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " D              A      G",
+                    "lyrics": "As the sun sets when evening comes, I ask"
+                },
+                {
+                    "chords": "      D",
+                    "lyrics": "who paints the skies?"
+                },
+                {
+                    "chords": " D         A",
+                    "lyrics": "When the night and the darkness falls, who"
+                },
+                {
+                    "chords": " G          A",
+                    "lyrics": "makes the countless stars?"
+                },
+                {
+                    "chords": "      D                 F#m",
+                    "lyrics": "Every time this comes to mind, I know it's"
+                },
+                {
+                    "chords": " G  F#m    Bm",
+                    "lyrics": "someone divine"
+                },
+                {
+                    "chords": "      F#m  Bm",
+                    "lyrics": "For a book tells me the answer, There is a"
+                },
+                {
+                    "chords": " G   A7",
+                    "lyrics": "God as our Creator"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "  D       A  G",
+                    "lyrics": "He made man with His hands, and gave the"
+                },
+                {
+                    "chords": "  D",
+                    "lyrics": "breath of life."
+                },
+                {
+                    "chords": "      F#m         Bm      G             A",
+                    "lyrics": "When they're short of His glory, He took the"
+                },
+                {
+                    "chords": "  A",
+                    "lyrics": "penalty."
+                },
+                {
+                    "chords": "   D   A    G   A",
+                    "lyrics": "For the sake of our lives, He died for you"
+                },
+                {
+                    "chords": "    D",
+                    "lyrics": "and me."
+                },
+                {
+                    "chords": " G       A    D",
+                    "lyrics": "Christ as my personal saviour, He will be."
+                },
+                {
+                    "chords": "   G       A  D",
+                    "lyrics": "* (Last) My personal Saviour, He will always be."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Once He walked on dusty roads, To seek and save the lost."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "To heal, comfort, and give peace, Proclaiming who He is."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "He's the way, the truth, the life, A shepherd that leads and guides."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "A saviour that remembers us, for eternity long."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "(Chorus and *)"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "from the weak to the strong."
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I'm not worthy to be here,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "but praise God, I belong."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2"
+    ],
+    "link": ""
+}

@@ -1,0 +1,123 @@
+{
+    "title": "My Hope Is Built On Nothing Less",
+    "number": 261,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "D                           Em",
+                    "lyrics": "My hope is built on nothing less"
+                },
+                {
+                    "chords": "           G       A7          D",
+                    "lyrics": "Than Jesus Christ, my righteousness;"
+                },
+                {
+                    "chords": "  D                           Em",
+                    "lyrics": "I dare not trust the sweetest frame,"
+                },
+                {
+                    "chords": "           G    A7        D",
+                    "lyrics": "But wholly lean on Jesus’ name."
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "   D                         G",
+                    "lyrics": "On Christ, the solid Rock, I stand;"
+                },
+                {
+                    "chords": "          D      Bm         A",
+                    "lyrics": "All other ground is sinking sand,"
+                },
+                {
+                    "chords": "D         G      D  A7      D",
+                    "lyrics": "All other ground is sinking sand."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "     D                         Em",
+                    "lyrics": "When darkness veils His lovely face,"
+                },
+                {
+                    "chords": "          G      A7      D",
+                    "lyrics": "I rest on His unchanging grace;"
+                },
+                {
+                    "chords": "   D                     Em",
+                    "lyrics": "In every high and stormy gale,"
+                },
+                {
+                    "chords": "          G         A7     D",
+                    "lyrics": "My anchor holds within the veil."
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "    D                       Em",
+                    "lyrics": "His oath, His covenant, His blood,"
+                },
+                {
+                    "chords": "           G      A7       D",
+                    "lyrics": "Support me in the whelming flood;"
+                },
+                {
+                    "chords": "     D                        Em",
+                    "lyrics": "When all around my soul gives way,"
+                },
+                {
+                    "chords": "           G      A7       D",
+                    "lyrics": "He then is all my hope and stay."
+                }
+            ]
+        },
+        {
+            "id": "verse4",
+            "label": "Verse 4",
+            "lines": [
+                {
+                    "chords": "     D                          Em",
+                    "lyrics": "When He shall come with trumpet sound,"
+                },
+                {
+                    "chords": "          G       A7     D",
+                    "lyrics": "Oh, may I then in Him be found;"
+                },
+                {
+                    "chords": "   D                       Em",
+                    "lyrics": "In Him, my righteousness, alone,"
+                },
+                {
+                    "chords": "             G       A7       D",
+                    "lyrics": "Faultless to stand before the throne."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus",
+        "verse4",
+        "chorus"
+    ],
+    "link": ""
+}

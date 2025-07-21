@@ -1,0 +1,71 @@
+{
+    "title": "I've Got the Joy",
+    "number": 203,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "A",
+                    "lyrics": "I’ve got the joy, joy, joy, joy"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Down in my heart (where?)"
+                },
+                {
+                    "chords": "E",
+                    "lyrics": "Down in my heart (where?)"
+                },
+                {
+                    "chords": "A",
+                    "lyrics": "Down in my heart"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I’ve got the joy, joy, joy, joy"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Down in my heart (where)"
+                },
+                {
+                    "chords": "E                   A",
+                    "lyrics": "Down in my heart to stay!"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "        D              A",
+                    "lyrics": "I am so happy, so very happy"
+                },
+                {
+                    "chords": "     E",
+                    "lyrics": "I’ve got the love of Jesus"
+                },
+                {
+                    "chords": "      A",
+                    "lyrics": "in my heart"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I am so happy, so very happy"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I’ve got the love of Jesus in my heart"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2"
+    ],
+    "link": ""
+}

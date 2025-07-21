@@ -1,0 +1,149 @@
+{
+    "title": "Just Let Me Say",
+    "number": 237,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " C        F       C        Dm",
+                    "lyrics": "Just let me say how much I love You"
+                },
+                {
+                    "chords": "      Db         Gm7      C",
+                    "lyrics": "Let me speak of Your mercy and grace"
+                },
+                {
+                    "chords": " C         F        C",
+                    "lyrics": "Just let me live, in the shadow"
+                },
+                {
+                    "chords": "       Dm   Dm7",
+                    "lyrics": "of Your beauty"
+                },
+                {
+                    "chords": "      Gm     Bb   C7",
+                    "lyrics": "Let me see You face to face"
+                },
+                {
+                    "chords": "        C7     Am7",
+                    "lyrics": "And the earth will shake as Your"
+                },
+                {
+                    "chords": " Dm       Dm7      Gm7",
+                    "lyrics": "Word goes forth and the heavens"
+                },
+                {
+                    "chords": "    Gm7      C",
+                    "lyrics": "will tremble and fall"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": " C        F",
+                    "lyrics": "Just let me say"
+                },
+                {
+                    "chords": "     C    Dm    Dm7",
+                    "lyrics": "How much I love You"
+                },
+                {
+                    "chords": "      Bb        C       F",
+                    "lyrics": "O my Saviour, my Lord and Friend"
+                },
+                {
+                    "chords": " C        F        C    Dm",
+                    "lyrics": "Just let me hear Your finest whispers"
+                },
+                {
+                    "chords": "      Db   Gm7    C",
+                    "lyrics": "As You gently call my name"
+                },
+                {
+                    "chords": " C         F       C",
+                    "lyrics": "And let me see Your power"
+                },
+                {
+                    "chords": "        Dm   Dm7",
+                    "lyrics": "and Your glory"
+                },
+                {
+                    "chords": "      Gm      Bb   C7",
+                    "lyrics": "Let me feel Your Spirit’s flame"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "       C7         Am7",
+                    "lyrics": "Let me find You in the desert"
+                },
+                {
+                    "chords": "       Dm   Dm7  Gm7",
+                    "lyrics": "‘Til this sand is holy  ground"
+                },
+                {
+                    "chords": "        Gm7              C",
+                    "lyrics": "And I am found completely surrendered"
+                },
+                {
+                    "chords": "  Dm7    Bb        C       F",
+                    "lyrics": "To You, my Lord and Friend"
+                },
+                {
+                    "chords": " C       F      C        Dm",
+                    "lyrics": "So let me say how much I love You"
+                },
+                {
+                    "chords": "          Db   Gm7   C",
+                    "lyrics": "with all my heart I long for You"
+                },
+                {
+                    "chords": " C        F          C      Dm Dm7",
+                    "lyrics": "For I am caught in this passion of knowing"
+                },
+                {
+                    "chords": "           Gm     Bb     C7",
+                    "lyrics": "This endless love I’ve found in You"
+                }
+            ]
+        },
+        {
+            "id": "verse4",
+            "label": "Verse 4",
+            "lines": [
+                {
+                    "chords": "        C7             Am7",
+                    "lyrics": "And the depth of grace, the forgiveness found"
+                },
+                {
+                    "chords": "      Dm    Dm7  Gm7",
+                    "lyrics": "To be called a child of God"
+                },
+                {
+                    "chords": " C            F       C    Dm  Dm7",
+                    "lyrics": "Just makes me say how much I love You"
+                },
+                {
+                    "chords": "       Bb        C       F",
+                    "lyrics": "O my Saviour, my Lord and Friend."
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3",
+        "verse4"
+    ],
+    "link": "https://www.youtube.com/watch?v=TrzylZfHpFE"
+}

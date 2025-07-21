@@ -1,0 +1,82 @@
+{
+    "title": "Away in a Manger",
+    "number": 220,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " G       G7       C      G",
+                    "lyrics": "Away in a manger, no crib for a bed,"
+                },
+                {
+                    "chords": "     D        D       C           G",
+                    "lyrics": "The little Lord Jesus, lay down his sweet head."
+                },
+                {
+                    "chords": "     G        G7             C",
+                    "lyrics": "The stars in the bright sky, looked down where"
+                },
+                {
+                    "chords": "   G",
+                    "lyrics": "he lay"
+                },
+                {
+                    "chords": "     D7      G     Am     D7  G",
+                    "lyrics": "The little Lord Jesus, asleep on the  hay."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "The cattle are lowing, the Baby awakes"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "But little Lord Jesus, no crying He makes"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I love You, Lord Jesus, look down from the sky"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And stay by my side, until morning is nigh"
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "Be near me, Lord Jesus, I ask You to stay"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Close by me forever, and love me I pray"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Bless all the dear children, in Your tender care"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "And fit us for heaven, to live with You there"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3"
+    ],
+    "link": "https://www.youtube.com/watch?v=AnwO_0DrpCk"
+}

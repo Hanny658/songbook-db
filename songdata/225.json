@@ -1,0 +1,48 @@
+{
+    "title": "Ubah Hatiku",
+    "number": 225,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " Cmaj7     Dm7 G7      F   G C2 C  Am7",
+                    "lyrics": "  Ubah hatiku,    menjadi baru"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Change my heart oh God, Make it ever true"
+                },
+                {
+                    "chords": "          Dm7   G7          C",
+                    "lyrics": "Ubah hatiku, s'perti diri-ku"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Change my heart oh God, May I be like you"
+                },
+                {
+                    "chords": " E7sus/B E7       Am Dm7 G7    C2  G",
+                    "lyrics": "      Engkau penjunan, ku tanah liat"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "You are the potter, I am the clay"
+                },
+                {
+                    "chords": " E7sus/B            E7 Am D/F#    D7 G7",
+                    "lyrics": "       Bentuk jadikan        ini doaku"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Mold me and make me, this is what I pray"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1"
+    ],
+    "link": "https://www.youtube.com/watch?v=yG1-YDhO_4o"
+}

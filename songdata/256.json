@@ -1,0 +1,119 @@
+{
+    "title": "In Real Life",
+    "number": 256,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": " C/G        F              G",
+                    "lyrics": "no longer knowing what is real,"
+                },
+                {
+                    "chords": "    C    C/B   Am    C/G",
+                    "lyrics": "Connected in countless ways"
+                },
+                {
+                    "chords": "      F           G",
+                    "lyrics": "still lonelier than before"
+                },
+                {
+                    "chords": "        Fmaj7         G",
+                    "lyrics": "Is this the way we wanna live,"
+                },
+                {
+                    "chords": "           Em7             Am",
+                    "lyrics": "Is there true love, true love for me?"
+                },
+                {
+                    "chords": "     Am/G    F     G       C",
+                    "lyrics": "Lord, help me find You in real life"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": " C        C/E           F",
+                    "lyrics": "There is so much in real life"
+                },
+                {
+                    "chords": "                    Em",
+                    "lyrics": "More than we can comprehend"
+                },
+                {
+                    "chords": " Am                 Dm",
+                    "lyrics": "There is beauty all around"
+                },
+                {
+                    "chords": " G                  C  Dm",
+                    "lyrics": "When we trust His  ha - nd"
+                },
+                {
+                    "chords": " C/E      C           F",
+                    "lyrics": "His Word lights the way"
+                },
+                {
+                    "chords": " G/F                  Em",
+                    "lyrics": "Have faith and never let"
+                },
+                {
+                    "chords": " Em Em/G",
+                    "lyrics": "Him  go."
+                },
+                {
+                    "chords": " C/E             F     G",
+                    "lyrics": "Today He calls you come to Me,"
+                },
+                {
+                    "chords": "         C",
+                    "lyrics": "Living real life."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "It’s just an old book some may say"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "no longer valid for today"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Wealth and wisdom we can find"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "in many other ways"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Will knowledge and power bring us joy?"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Family and friends bring true peace?"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Contentment in all of life"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus"
+    ],
+    "link": ""
+}
