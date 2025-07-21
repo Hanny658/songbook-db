@@ -1,6 +1,7 @@
 import express, { Request, Response } from 'express';
 import fs from 'fs';
 import path, { dirname, join } from 'path';
+import cors from 'cors';
 import { LowSync } from 'lowdb';
 import { JSONFileSync } from 'lowdb/node';
 import { fileURLToPath } from 'url';
@@ -13,6 +14,10 @@ import {
 
 const app = express();
 app.use(express.json());
+app.use(cors({
+    origin: 'https://cgsongbook.org',   // only main site is allowed
+    methods: ['GET','POST','DELETE']
+}));
 
 // ESM __filename/__dirname shims and database dir
 const __filename = fileURLToPath(import.meta.url);
