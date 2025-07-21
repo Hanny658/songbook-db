@@ -6,7 +6,8 @@ import { JSONFileSync } from 'lowdb/node';
 import { fileURLToPath } from 'url';
 import {
     ChristianSong,
-    SongMeta
+    SongMeta,
+    User
 } from './types.js';
 
 
@@ -17,6 +18,7 @@ app.use(express.json());
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const SONG_DIR = join(__dirname, '../songdata');
+const USER_DIR = join(__dirname, '../user');
 
 //
 // ─── HELPERS ───────────────────────────────────────────────────────────────────
@@ -85,6 +87,24 @@ function listAllSongs(): SongMeta[] {
         });
 }
 
+/**
+ * Load a user JSON by username.
+ * @returns the User object, or null if not found or invalid JSON.
+ */
+function loadUser(username: string): User | null {
+    const filePath = join(USER_DIR, `${username}.json`);
+    if (!fs.existsSync(filePath)) return null;
+
+    // LowDB adapter for this one file
+    const adapter = new JSONFileSync<User>(filePath);
+    // supply a stub so the constructor type-checks
+    const db = new LowSync<User>(adapter, {} as User);
+    db.read();
+
+    return db.data ?? null;
+}
+
+
 //
 // ─── ROUTES ────────────────────────────────────────────────────────────────────
 //
@@ -141,7 +161,7 @@ app.post('/songs/:number', (req: Request, res: Response) => {
     };
 
     saveSong(num, song);
-    res.json({ message: 'Song saved successfully.'/*, song */});
+    res.json({ message: 'Song saved successfully.'/*, song */ });
 });
 
 /**
@@ -156,6 +176,36 @@ app.delete('/songs/:number', (req: Request, res: Response) => {
     if (!ok) return res.status(404).json({ error: 'Song not found.' });
 
     res.json({ message: 'Song deleted successfully.' });
+});
+
+/**
+ * POST /users/login
+ * Body: { username: string; password: string }
+ * — Returns 200 + { message } if credentials match,
+ *   or 401 + { error } otherwise.
+ */
+app.post('/user-verify', (req, res) => {
+    const { username, password } = req.body as Partial<User>;
+
+    // 1) Basic request validation
+    if (typeof username !== 'string' || typeof password !== 'string') {
+        return res.status(400).json({ error: 'Request Error [data type], contact dev for help..' });
+    }
+
+    // 2) Attempt to load the user file
+    const user = loadUser(username);
+    if (!user) {
+        // no such user
+        return res.status(401).json({ error: 'User is not found.' });
+    }
+
+    // 3) Verify password (plaintext match here; replace with hash check if needed)
+    if (user.password !== password) {
+        return res.status(401).json({ error: 'Incorrect Password' });
+    }
+
+    // 4) Success!
+    return res.status(200).json({ message: 'Login successful.' });
 });
 
 

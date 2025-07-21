@@ -1,4 +1,4 @@
-// types.ts
+// types.ts (import as .js anw)
 
 export interface SongLine {
     /** e.g. "F    G7" */
@@ -30,4 +30,11 @@ export interface SongMeta {
     number: number;
     title: string;
     link: string;
+}
+
+export interface User {
+    /** must match the filename: user/[username].json */
+    username: string;
+    /** in this example stored in plaintext; you can upgrade to hashed passwords */
+    password: string;
 }
