@@ -116,6 +116,7 @@ function loadUser(username: string): User | null {
 app.get('/songs', (req: Request, res: Response) => {
     try {
         const list = listAllSongs();
+        console.log(`Listed all songs.`);
         res.json(list);
     } catch (err) {
         console.error(err);
@@ -134,6 +135,7 @@ app.get('/songs/:number', (req: Request, res: Response) => {
     const song = loadSong(num);
     if (!song) return res.status(404).json({ error: 'Song not found.' });
 
+    console.log(`Got song No.${num}.`);
     res.json(song);
 });
 
@@ -161,6 +163,7 @@ app.post('/songs/:number', (req: Request, res: Response) => {
     };
 
     saveSong(num, song);
+    console.log(`Added/Updated song No.${num} ${body.title}.`);
     res.json({ message: 'Song saved successfully.'/*, song */ });
 });
 
@@ -175,6 +178,7 @@ app.delete('/songs/:number', (req: Request, res: Response) => {
     const ok = deleteSong(num);
     if (!ok) return res.status(404).json({ error: 'Song not found.' });
 
+    console.log(`Deleted song No.${num}.`);
     res.json({ message: 'Song deleted successfully.' });
 });
 
@@ -205,6 +209,7 @@ app.post('/user-verify', (req, res) => {
     }
 
     // 4) Success!
+    console.log(`User ${username} just logged in.`);
     return res.status(200).json({ message: 'Login successful.' });
 });
 
