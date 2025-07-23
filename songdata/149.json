@@ -7,35 +7,35 @@
       "label": "Verse 1",
       "lines": [
         {
-          "chords": "    C",
+          "chords": "C",
           "lyrics": "I don't know about tomorrow"
         },
         {
-          "chords": "C7   F            C",
+          "chords": "C7     F                C",
           "lyrics": "I just live from day to day"
         },
         {
-          "chords": "C7    F             C",
+          "chords": "C7      F               C",
           "lyrics": "I don't borrow from its sunshine"
         },
         {
-          "chords": "      D7            G",
+          "chords": "        D7                G",
           "lyrics": "For its skies may turn to grey"
         },
         {
-          "chords": "      C",
+          "chords": "        C",
           "lyrics": "I don't worry over the future"
         },
         {
-          "chords": "C7   F              C",
+          "chords": "C7    F               C",
           "lyrics": "For I know what Jesus said;"
         },
         {
-          "chords": "C7  F              C",
+          "chords": "C7  F                C",
           "lyrics": "And today, I'll walk beside Him"
         },
         {
-          "chords": "       G    G7      C",
+          "chords": "       G     G7      C",
           "lyrics": "For He knows what is ahead"
         }
       ]
@@ -45,19 +45,19 @@
       "label": "Chorus",
       "lines": [
         {
-          "chords": "C7   F           C",
+          "chords": "C7   F            C",
           "lyrics": "Many things about tomorrow"
         },
         {
-          "chords": "      D7           G",
+          "chords": "        D7           G",
           "lyrics": "I don't seem to understand"
         },
         {
-          "chords": "     C    C7        F",
+          "chords": "      C    C7        F",
           "lyrics": "But I know who holds tomorrow"
         },
         {
-          "chords": "     C/G      G7      C",
+          "chords": "      C/G      G7       C",
           "lyrics": "And I know who holds my hand"
         }
       ]

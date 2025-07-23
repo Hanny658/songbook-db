@@ -7,23 +7,23 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "Em                    D/E       Em",
+                    "chords": "Em                       D/E       Em",
                     "lyrics": "In heavenly armour we'll enter the land"
                 },
                 {
-                    "chords": "    C     D/E         Em",
+                    "chords": "    C      D/E            Em",
                     "lyrics": "the battle belongs to the Lord"
                 },
                 {
-                    "chords": "Em                     D/E",
+                    "chords": "Em                         D/E",
                     "lyrics": "No weapon that's fashioned against"
                 },
                 {
-                    "chords": "      Em",
+                    "chords": "        Em",
                     "lyrics": "us will stand,"
                 },
                 {
-                    "chords": "          C D/E       Em",
+                    "chords": "           C  D/E         Em",
                     "lyrics": "The battle belongs to the Lord"
                 }
             ]
@@ -33,19 +33,19 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "       D  G D C D G",
+                    "chords": "       D    G  D   C  D  G",
                     "lyrics": "And we sing glory, honour,"
                 },
                 {
-                    "chords": "          D           Em",
+                    "chords": "                   D        Em",
                     "lyrics": "Power and strength to the Lord"
                 },
                 {
-                    "chords": "    D  G D C D G",
+                    "chords": "   D    G  D   C  D  G",
                     "lyrics": "We sing glory, honour,"
                 },
                 {
-                    "chords": "          D           Em",
+                    "chords": "          D               Em  D/E  Em",
                     "lyrics": "Power and strength to the Lord"
                 }
             ]
@@ -55,27 +55,27 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "Em",
                     "lyrics": "When the power of darkness"
                 },
                 {
-                    "chords": "",
+                    "chords": "D/E             Em",
                     "lyrics": "Comes in like a flood"
                 },
                 {
-                    "chords": "",
+                    "chords": "    C      D/E            Em",
                     "lyrics": "The battle belongs to the Lord"
                 },
                 {
-                    "chords": "",
+                    "chords": "D/E   Em",
                     "lyrics": "He'll raise up a standard,"
                 },
                 {
-                    "chords": "",
+                    "chords": "    E/E          Em",
                     "lyrics": "The power of His blood"
                 },
                 {
-                    "chords": "",
+                    "chords": "    C      D/E            Em",
                     "lyrics": "The battle belongs to the Lord"
                 }
             ]
@@ -85,27 +85,27 @@
             "label": "Verse 3",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "Em                         D/E",
                     "lyrics": "When your enemy presses in hard,"
                 },
                 {
-                    "chords": "",
+                    "chords": "       Em",
                     "lyrics": "Do not fear"
                 },
                 {
-                    "chords": "",
+                    "chords": "    C      D/E            Em",
                     "lyrics": "The battle belongs to the Lord"
                 },
                 {
-                    "chords": "",
+                    "chords": "D/E  Em",
                     "lyrics": "Take courage my friend,"
                 },
                 {
-                    "chords": "",
+                    "chords": "     E/E           Em",
                     "lyrics": "Your redemption is near"
                 },
                 {
-                    "chords": "",
+                    "chords": "    C      D/E            Em",
                     "lyrics": "The battle belongs to the Lord"
                 }
             ]

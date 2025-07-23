@@ -7,19 +7,19 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": " D                   A",
+                    "chords": "D                   A",
                     "lyrics": "Whisper a prayer in the morning"
                 },
                 {
-                    "chords": "Em       A       D",
+                    "chords": "Em        A         D   D7",
                     "lyrics": "Whisper a prayer at noon"
                 },
                 {
-                    "chords": "G       A/G         F#m Bm",
+                    "chords": "G         A/G       D   F#m  Bm",
                     "lyrics": "Whisper a prayer in the evening"
                 },
                 {
-                    "chords": "   Em       A      D",
+                    "chords": "   Em        A        D",
                     "lyrics": "To keep your heart in tune"
                 }
             ]
@@ -29,19 +29,19 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "D                          A",
                     "lyrics": "God answers prayers in the morning"
                 },
                 {
-                    "chords": "",
+                    "chords": "            A7         D     D7",
                     "lyrics": "God answers prayers at noon"
                 },
                 {
-                    "chords": "",
+                    "chords": "G           Gm         D        Bm",
                     "lyrics": "God answers prayers in the evening"
                 },
                 {
-                    "chords": "",
+                    "chords": "   Dm        A        D",
                     "lyrics": "To keep your heart in tune"
                 }
             ]
@@ -51,19 +51,19 @@
             "label": "Verse 3",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "D                     A",
                     "lyrics": "Jesus may come in the morning"
                 },
                 {
-                    "chords": "",
+                    "chords": "          A7      D   D7",
                     "lyrics": "Jesus may come at noon"
                 },
                 {
-                    "chords": "",
+                    "chords": "G         Gm      D        Bm",
                     "lyrics": "Jesus may come in the evening"
                 },
                 {
-                    "chords": "",
+                    "chords": "   D#m       A        D",
                     "lyrics": "So keep your heart in tune"
                 }
             ]

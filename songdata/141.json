@@ -7,11 +7,11 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "   A",
+                    "chords": "A",
                     "lyrics": "I'd rather have Jesus"
                 },
                 {
-                    "chords": "     D      A",
+                    "chords": "     D         A",
                     "lyrics": "Than silver or gold"
                 },
                 {
@@ -19,23 +19,23 @@
                     "lyrics": "I'd rather be His"
                 },
                 {
-                    "chords": "               E",
+                    "chords": "                 E",
                     "lyrics": "Than have riches untold"
                 },
                 {
-                    "chords": "    A         A7",
+                    "chords": "    A           A7",
                     "lyrics": "I'd rather have Jesus"
                 },
                 {
-                    "chords": "     D        A",
+                    "chords": "     D         A",
                     "lyrics": "Than houses or land"
                 },
                 {
-                    "chords": "   A",
+                    "chords": "    A",
                     "lyrics": "I'd rather be led"
                 },
                 {
-                    "chords": "      E   E7      A",
+                    "chords": "       E    E7      A",
                     "lyrics": "By His nail pierced hand"
                 }
             ]
@@ -45,19 +45,19 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "       E     E7     D   A",
+                    "chords": "        E      E7        D    A",
                     "lyrics": "Than to be the king of a vast domain"
                 },
                 {
-                    "chords": "        E     E7        D  A",
+                    "chords": "       E    E7       D     A",
                     "lyrics": "And be held in sin's dread sway"
                 },
                 {
-                    "chords": "              A7      D   A",
+                    "chords": "                A7    D    A",
                     "lyrics": "I'd rather have Jesus than anything"
                 },
                 {
-                    "chords": "           E7     A",
+                    "chords": "           E7      A",
                     "lyrics": "This world affords today"
                 }
             ]

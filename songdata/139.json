@@ -7,31 +7,35 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "   D        Bm        Em",
-                    "lyrics": "I believe for every drop of rain that"
+                    "chords": "D             Bm ",
+                    "lyrics": "I believe for every"
                 },
                 {
-                    "chords": "   A       D",
-                    "lyrics": "falls, a flower grows"
+                    "chords": "        Em               A        D",
+                    "lyrics": "Drop of rain that falls, a flower grows"
                 },
                 {
-                    "chords": "           Bm",
-                    "lyrics": "I believe that somewhere in the"
+                    "chords": "               Bm",
+                    "lyrics": "I believe that somewhere"
                 },
                 {
-                    "chords": " Em       A7        D",
-                    "lyrics": "darkest night, a candle glows"
+                    "chords": "       Em      A7",
+                    "lyrics": "In the darkest night"
                 },
                 {
-                    "chords": "            F#m          G",
+                    "chords": "         D",
+                    "lyrics": "A candle glows"
+                },
+                {
+                    "chords": "              F#m          G        Em",
                     "lyrics": "I believe for everyone who goes astray"
                 },
                 {
-                    "chords": "              F#          Bm",
+                    "chords": "             F#               Bm",
                     "lyrics": "Someone will come to show the way"
                 },
                 {
-                    "chords": "   G     A7",
+                    "chords": "G         A7",
                     "lyrics": "I believe, I believe"
                 }
             ]
@@ -41,23 +45,31 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "I believe above the storm, the smallest prayer will still be heard"
+                    "chords": "D         Bm",
+                    "lyrics": "I believe above the storm"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "I believe that Someone in the great somewhere hears every word"
+                    "chords": "    Em                         A  D",
+                    "lyrics": "The smallest prayer will still be heard"
                 },
                 {
-                    "chords": "",
+                    "chords": "               Bm",
+                    "lyrics": "I believe that Someone"
+                },
+                {
+                    "chords": "       Em                          D",
+                    "lyrics": "In the great somewhere hears every word"
+                },
+                {
+                    "chords": "            F#m            G     Em",
                     "lyrics": "Everytime I hear a newborn baby cry"
                 },
                 {
-                    "chords": "",
+                    "chords": "           Em               Bm",
                     "lyrics": "Or touch a leaf, or see the sky"
                 },
                 {
-                    "chords": "",
+                    "chords": "     G           A",
                     "lyrics": "Then I know why, I believe"
                 }
             ]
@@ -67,20 +79,36 @@
             "label": "Verse 3",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "I believe that Jesus died upon the cross of Calvary"
+                    "chords": "D              Bm           Em",
+                    "lyrics": "I believe that Jesus died upon"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "I believe He suffered all the shame and loss for you and me"
+                    "chords": "          A  D",
+                    "lyrics": "The cross of Calvary"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "I believe that we like sheep have gone astray and Christ has come"
+                    "chords": "               Bm             Em           A",
+                    "lyrics": "I believe He suffered all the shame and loss"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "To show the way, I believe, I believe"
+                    "chords": "            D",
+                    "lyrics": "For you and me"
+                },
+                {
+                    "chords": "               F#m",
+                    "lyrics": "I believe that we like sheep"
+                },
+                {
+                    "chords": "     G        Em",
+                    "lyrics": "Have gone astray"
+                },
+                {
+                    "chords": "               F#                Bm",
+                    "lyrics": "And Christ has come To show the way"
+                },
+                {
+                    "chords": "G          A",
+                    "lyrics": "I believe, I believe"
                 }
             ]
         },
@@ -89,20 +117,32 @@
             "label": "Verse 4",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "I believe the humble prayer the sinner prays will still be heard"
+                    "chords": "D             Bm                Em         A",
+                    "lyrics": "I believe the humble prayer the sinner prays"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "I believe a soul is saved by faith in Him; this is His word"
+                    "chords": "              D",
+                    "lyrics": "Will still be heard"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "Every time He sees His children cry in prayer, and seek His will, and look"
+                    "chords": "            Bm               Em         A",
+                    "lyrics": "I believe a soul is saved by faith in Him;"
                 },
                 {
-                    "chords": "                      Em",
-                    "lyrics": "to Him, He answers prayers"
+                    "chords": "            D",
+                    "lyrics": "This is His word"
+                },
+                {
+                    "chords": "              F#m               G         Em",
+                    "lyrics": "Every time He sees His children cry in prayer"
+                },
+                {
+                    "chords": "             F#",
+                    "lyrics": "And seek His will, and look to Him"
+                },
+                {
+                    "chords": "           Em",
+                    "lyrics": "He answers prayers"
                 },
                 {
                     "chords": "Asus7  A7   D",

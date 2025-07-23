@@ -7,27 +7,27 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "   C            G",
+                    "chords": "C          G          F",
                     "lyrics": "When peace like a river"
                 },
                 {
-                    "chords": "  F   G     C",
+                    "chords": "G            C",
                     "lyrics": "Attendeth my way"
                 },
                 {
-                    "chords": "        Am    D        G G7",
+                    "chords": "     Am          D           G  G7",
                     "lyrics": "When sorrow like sea billows roll"
                 },
                 {
-                    "chords": "     C      F",
+                    "chords": "    C       F",
                     "lyrics": "Whatever my lot,"
                 },
                 {
-                    "chords": "          D7         G",
+                    "chords": "     A7   Dm        Dm  G",
                     "lyrics": "Thou hast taught me to say;"
                 },
                 {
-                    "chords": "    C       F   G      C",
+                    "chords": "      C     F     G             C",
                     "lyrics": "It is well, it is well, with my soul"
                 }
             ]
@@ -37,15 +37,15 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "               G",
+                    "chords": "           G",
                     "lyrics": "It is well, with my soul"
                 },
                 {
-                    "chords": "               C",
+                    "chords": "           C",
                     "lyrics": "It is well, with my soul"
                 },
                 {
-                    "chords": "   F       C/G G      C",
+                    "chords": "      F           C/G  G       C",
                     "lyrics": "It is well, it is well with my soul"
                 }
             ]
@@ -55,27 +55,31 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "My sin, O the joy of this glorious"
+                    "chords": "C          G              F  G7    C",
+                    "lyrics": "My sin, O the joy of this glorious thought"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "thought - my sin, not in part ,"
+                    "chords": "   Am",
+                    "lyrics": "my sin"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "But the whole, is nailed to the cross"
+                    "chords": "       D             G",
+                    "lyrics": "Not in part, but the whole"
                 },
                 {
-                    "chords": "",
+                    "chords": "    C        F      A7",
+                    "lyrics": "Is nailed to the cross"
+                },
+                {
+                    "chords": "      Dm      D7  G",
                     "lyrics": "And I bear it no more"
                 },
                 {
-                    "chords": "",
+                    "chords": "       C   F            C/G",
                     "lyrics": "Praise the Lord, praise the Lord,"
                 },
                 {
-                    "chords": "",
+                    "chords": "G    C",
                     "lyrics": "O my soul"
                 }
             ]
@@ -85,27 +89,27 @@
             "label": "Verse 3",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "And Lord haste the day when my"
+                    "chords": "C        G",
+                    "lyrics": "And Lord haste the day"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "faith shall be sight"
+                    "chords": "F       G7             C",
+                    "lyrics": "When my faith shall be sight"
                 },
                 {
-                    "chords": "",
+                    "chords": "    Am            D            G",
                     "lyrics": "The clouds be rolled back as a scroll"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "The trump shall resound and the"
+                    "chords": "    C     F          A7",
+                    "lyrics": "The trump shall resound"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "Lord shall descend"
+                    "chords": "        Dm         D7  G",
+                    "lyrics": "And the Lord shall descend"
                 },
                 {
-                    "chords": "",
+                    "chords": "          C    F  C/G   G       C",
                     "lyrics": "Even so - it is well with my soul"
                 }
             ]

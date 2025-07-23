@@ -7,27 +7,27 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": " D      A",
+                    "chords": "D        A",
                     "lyrics": "Father I thank You"
                 },
                 {
-                    "chords": "   Bm          F#m",
+                    "chords": "    Bm              F#m",
                     "lyrics": "For all that You've done"
                 },
                 {
-                    "chords": "    G            D       A",
+                    "chords": "    G             D          A",
                     "lyrics": "You gave Your Son freely for me"
                 },
                 {
-                    "chords": "      D           DMaj7",
+                    "chords": "      D              DMaj7",
                     "lyrics": "And I praise You for calling me"
                 },
                 {
-                    "chords": " G         Gm        D",
+                    "chords": "G          Gm           D",
                     "lyrics": "Drawing me near; out of blindness"
                 },
                 {
-                    "chords": "    Em    A     D",
+                    "chords": "    Em        A    D",
                     "lyrics": "You caused me to see"
                 }
             ]
@@ -37,32 +37,32 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "D         A",
                     "lyrics": "Spirit of Life,"
                 },
                 {
-                    "chords": "",
+                    "chords": "    Bm             F#m",
                     "lyrics": "You are God's holy fire"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "You've kindled my heart with Your"
+                    "chords": "       G",
+                    "lyrics": "You've kindled my heart"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "blaze; and I know You're"
+                    "chords": "D         A",
+                    "lyrics": "With Your blaze;"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "Refining me, changing my life"
+                    "chords": "      D           F#m",
+                    "lyrics": "And I know You're refining me, "
                 },
                 {
-                    "chords": "",
-                    "lyrics": "And by faith You're revealing Your"
+                    "chords": "G          Gm           D",
+                    "lyrics": "Changing my life and by faith"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "ways"
+                    "chords": "       Em        A    D",
+                    "lyrics": "You're revealing Your ways"
                 }
             ]
         },
@@ -71,23 +71,23 @@
             "label": "Verse 3",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "D       A           Bm         F#m",
                     "lyrics": "Jesus I need You as Lord of my Life"
                 },
                 {
-                    "chords": "",
+                    "chords": "  G               D    A",
                     "lyrics": "I give all I have unto You"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "Lord I want to come under Your"
+                    "chords": "       D       F#m        G             Gm",
+                    "lyrics": "Lord I want to come under Your heavenly hand"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "heavenly hand; and to praise You"
+                    "chords": "              D",
+                    "lyrics": "And to praise You"
                 },
                 {
-                    "chords": "",
+                    "chords": "   Em       A D",
                     "lyrics": "In all that I do"
                 }
             ]

@@ -1,5 +1,5 @@
 {
-    "title": "I Cast My Cares Upon You",
+    "title": "I Cast All My Cares Upon You",
     "number": 144,
     "lyrics": [
         {
@@ -17,19 +17,19 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "  C      G     F  C",
+                    "chords": "  C           G     F    C",
                     "lyrics": "I cast all my cares upon you"
                 },
                 {
-                    "chords": "  F       C     Dm Am Dm  F",
+                    "chords": "  F       C     Dm  Am  Dm           F",
                     "lyrics": "I lay all of my burdens down at Your feet"
                 },
                 {
-                    "chords": "   C   G        C    F",
-                    "lyrics": "and anytime I dont know just what to do"
+                    "chords": "    C              G          C       F",
+                    "lyrics": "and anytime I don't know just what to do"
                 },
                 {
-                    "chords": "    C    Dm  F    Am  F",
+                    "chords": "       C    Dm     F     Am   F",
                     "lyrics": "I will cast all my cares upon you"
                 }
             ]
@@ -39,23 +39,23 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "  C      G     F  C",
+                    "chords": "  C           G     F    C",
                     "lyrics": "I cast all my cares upon you"
                 },
                 {
-                    "chords": "  F       C     Dm Am Dm  F",
+                    "chords": "  F       C     Dm  Am  Dm           F",
                     "lyrics": "I lay all of my burdens down at Your feet"
                 },
                 {
-                    "chords": "   C   G        C    F",
+                    "chords": "    C              G         C       F",
                     "lyrics": "and anytime I dont know just what to do"
                 },
                 {
-                    "chords": "    C    Dm  F    Am  F",
+                    "chords": "       C    Dm     F          Am  F",
                     "lyrics": "I will cast all my cares upon you"
                 },
                 {
-                    "chords": "    C    Dm  F    Am  F",
+                    "chords": "       C    Dm     F          Am  F",
                     "lyrics": "I will cast all my cares upon you"
                 }
             ]
@@ -75,15 +75,15 @@
             "label": "Outro",
             "lines": [
                 {
-                    "chords": "   C   G        C    F",
+                    "chords": "    C              G         C       F",
                     "lyrics": "and anytime I dont know just what to do"
                 },
                 {
-                    "chords": "    C    Dm  F    Am  F",
+                    "chords": "       C    Dm     F          Am  F",
                     "lyrics": "I will cast all my cares upon you"
                 },
                 {
-                    "chords": "    C    Dm  F    Am  F  Dm  C",
+                    "chords": "       C    Dm  F             Am  F  Dm  C",
                     "lyrics": "I will cast all my cares upon you"
                 }
             ]

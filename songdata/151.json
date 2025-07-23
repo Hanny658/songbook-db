@@ -7,19 +7,19 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "G       C        D    G",
+                    "chords": "G          C          D     G",
                     "lyrics": "All things bright and beautiful"
                 },
                 {
-                    "chords": "    Am      D       G",
+                    "chords": "    Am        D         G",
                     "lyrics": "All creatures great and small"
                 },
                 {
-                    "chords": "G       C       D     Bm",
+                    "chords": "G7         G    Bm  C       G",
                     "lyrics": "All things wise and wonderful"
                 },
                 {
-                    "chords": "    Am       D         G",
+                    "chords": "E7  Am       D    D7   G  C G",
                     "lyrics": "The Lord God made them all"
                 }
             ]
@@ -29,19 +29,19 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "     G  G7        C    Am",
+                    "chords": "     G  G7         C    Am",
                     "lyrics": "Each little flower that opens"
                 },
                 {
-                    "chords": "     D    D/C    G",
+                    "chords": "     D      D/C       G",
                     "lyrics": "Each little bird that sings"
                 },
                 {
-                    "chords": "                      C Am",
+                    "chords": "                       C  Am",
                     "lyrics": "God made their glowing colours"
                 },
                 {
-                    "chords": "  G/B        D   G",
+                    "chords": "   G/B          D    G",
                     "lyrics": "He spread their tiny wings"
                 }
             ]
@@ -51,19 +51,19 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "    G  G7         C    Am",
                     "lyrics": "The purple headed mountain"
                 },
                 {
-                    "chords": "",
+                    "chords": "    G     D7      G",
                     "lyrics": "The river running by"
                 },
                 {
-                    "chords": "",
+                    "chords": "    G  B7      Em  Am  D",
                     "lyrics": "The sunset and the morning"
                 },
                 {
-                    "chords": "",
+                    "chords": "     G/B    C  D      G",
                     "lyrics": "That brightens up the sky"
                 }
             ]
@@ -73,19 +73,19 @@
             "label": "Verse 3",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "    G  G7        C   Am",
                     "lyrics": "The cold wind in the winter"
                 },
                 {
-                    "chords": "",
+                    "chords": "    G        D7     G",
                     "lyrics": "The pleasant summer rain"
                 },
                 {
-                    "chords": "",
+                    "chords": "    G    B7        Em  Am  D",
                     "lyrics": "The ripe fruits in the garden"
                 },
                 {
-                    "chords": "",
+                    "chords": "   G/B  C    D     G",
                     "lyrics": "He made them every one"
                 }
             ]
@@ -95,19 +95,19 @@
             "label": "Verse 4",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "           G       C        Am",
                     "lyrics": "He gave us eyes to see them"
                 },
                 {
-                    "chords": "",
+                    "chords": "    G         D7       G",
                     "lyrics": "And lips that we might tell"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "How great is God Almighty"
+                    "chords": "    G     B7     Em  Am  D",
+                    "lyrics": "How great is God Al-mighty"
                 },
                 {
-                    "chords": "",
+                    "chords": "    G/B   C      D      G",
                     "lyrics": "Who has made all things well"
                 }
             ]
