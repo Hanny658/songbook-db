@@ -1,0 +1,131 @@
+{
+  "title": "He Hideth My Soul",
+  "number": 267,
+  "link": "https://www.youtube.com/watch?v=6PtZsYsBbsI",
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "C                     F        C",
+          "lyrics": "A wonderful Savior is Jesus my Lord"
+        },
+        {
+          "chords": "                      G",
+          "lyrics": "A wonderful Savior to me"
+        },
+        {
+          "chords": "   C                     F",
+          "lyrics": "He hideth my soul in the cleft of the rock"
+        },
+        {
+          "chords": "      C             G7     C",
+          "lyrics": "Where rivers of pleasure I see"
+        }
+      ]
+    },
+    {
+      "id": "refrain",
+      "label": "Refrain",
+      "lines": [
+        {
+          "chords": "   G7                    C",
+          "lyrics": "He hideth my soul in the cleft of the rock"
+        },
+        {
+          "chords": "     G7                     C",
+          "lyrics": "That shadows a dry, thirsty land"
+        },
+        {
+          "chords": "                         F",
+          "lyrics": "He hideth my life in the depths of His love"
+        },
+        {
+          "chords": "    C         G7             C",
+          "lyrics": "And covers me there with His hand"
+        },
+        {
+          "chords": "              G7             C",
+          "lyrics": "And covers me there with His hand"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "C                     F        C",
+          "lyrics": "A wonderful Savior is Jesus my Lord"
+        },
+        {
+          "chords": "                    G",
+          "lyrics": "He taketh my burden away"
+        },
+        {
+          "chords": "   C                    F",
+          "lyrics": "He holdeth me up, and I shall not be moved"
+        },
+        {
+          "chords": "   C               G7       C",
+          "lyrics": "He giveth me strength as my day"
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "C                              F         C",
+          "lyrics": "With numberless blessings each moment He crowns"
+        },
+        {
+          "chords": "                           G",
+          "lyrics": "And filled with fullness divine"
+        },
+        {
+          "chords": "  C                       F",
+          "lyrics": "I sing in my rapture, Oh, glory to God"
+        },
+        {
+          "chords": "    C            G7    C",
+          "lyrics": "For such a Redeemer as mine"
+        }
+      ]
+    },
+    {
+      "id": "verse4",
+      "label": "Verse 4",
+      "lines": [
+        {
+          "chords": "C                                    F        C",
+          "lyrics": "When clothed in His brightness, transported I rise"
+        },
+        {
+          "chords": "                             G",
+          "lyrics": "To meet Him in clouds of the sky"
+        },
+        {
+          "chords": "    C                      F",
+          "lyrics": "His perfect salvation, His wonderful love"
+        },
+        {
+          "chords": "     C              G7      C",
+          "lyrics": "I'll shout with millions on high"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "refrain",
+    "verse2",
+    "refrain",
+    "verse3",
+    "refrain",
+    "verse4",
+    "refrain"
+  ]
+}

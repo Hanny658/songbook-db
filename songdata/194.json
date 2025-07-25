@@ -1,116 +1,102 @@
 {
-    "title": "All Through the Days",
-    "number": 194,
-    "lyrics": [
+  "title": "All Through the Days",
+  "number": 194,
+  "link": "",
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
         {
-            "id": "verse1",
-            "label": "Verse 1",
-            "lines": [
-                {
-                    "chords": "G D/F#     Em     C   D   G   D",
-                    "lyrics": "I once was blind, but now I see"
-                },
-                {
-                    "chords": "G  D/F#    Em     C   D       G",
-                    "lyrics": "I once was bound, but now I’m free"
-                }
-            ]
+          "chords": "G D/F#     Em     C   D   G   D",
+          "lyrics": "I once was blind, but now I see"
         },
         {
-            "id": "verse2",
-            "label": "Verse 2",
-            "lines": [
-                {
-                    "chords": "G               C       D  G",
-                    "lyrics": "All through the days of my life"
-                },
-                {
-                    "chords": "G               C       D       G",
-                    "lyrics": "All through the deepest darkest nights"
-                },
-                {
-                    "chords": "           C            D",
-                    "lyrics": "Surely his goodness and mercy"
-                },
-                {
-                    "chords": "     B7      Em",
-                    "lyrics": "will e--ever follow me"
-                },
-                {
-                    "chords": "Am7             D          G",
-                    "lyrics": "All through the days of my life"
-                }
-            ]
-        },
-        {
-            "id": "verse3",
-            "label": "Verse 3",
-            "lines": [
-                {
-                    "chords": "",
-                    "lyrics": "He took my shame, I’ve no more blame"
-                },
-                {
-                    "chords": "",
-                    "lyrics": "He took my pain, for all my gain"
-                }
-            ]
-        },
-        {
-            "id": "verse4",
-            "label": "Verse 4",
-            "lines": [
-                {
-                    "chords": "G               C       D     G",
-                    "lyrics": "All through the days of my life"
-                },
-                {
-                    "chords": "G               C       D       G",
-                    "lyrics": "All through the deepest darkest nights"
-                },
-                {
-                    "chords": "           C            D",
-                    "lyrics": "Surely his goodness and mercy"
-                },
-                {
-                    "chords": "     B7      Em",
-                    "lyrics": "will e--ever follow me"
-                },
-                {
-                    "chords": "Am7             D          G",
-                    "lyrics": "All through the days of my life"
-                }
-            ]
-        },
-        {
-            "id": "bridge",
-            "label": "Bridge",
-            "lines": [
-                {
-                    "chords": "G D/F#  Em        C",
-                    "lyrics": "Through the fire, through the waters"
-                },
-                {
-                    "chords": "D               G   D/F# Em",
-                    "lyrics": "He will be with me"
-                },
-                {
-                    "chords": "                 C",
-                    "lyrics": "Though unworthy, He still calls"
-                },
-                {
-                    "chords": "       F  D",
-                    "lyrics": "me His own"
-                }
-            ]
+          "chords": "G  D/F#    Em     C   D       G",
+          "lyrics": "I once was bound, but now I’m free"
         }
-    ],
-    "song": [
-        "verse1",
-        "verse2",
-        "verse3",
-        "verse4",
-        "bridge"
-    ],
-    "link": ""
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Chorus",
+      "lines": [
+        {
+          "chords": "G               C       D  G",
+          "lyrics": "All through the days of my life"
+        },
+        {
+          "chords": "G               C       D       G",
+          "lyrics": "All through the deepest darkest nights"
+        },
+        {
+          "chords": "           C            D",
+          "lyrics": "Surely his goodness and mercy"
+        },
+        {
+          "chords": "     B7      Em",
+          "lyrics": "will e--ever follow me"
+        },
+        {
+          "chords": "Am7             D          G",
+          "lyrics": "All through the days of my life"
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "G  D/F#    Em     C    D  G    D",
+          "lyrics": "He took my shame, I’ve no more blame"
+        },
+        {
+          "chords": "G  D/F#    Em    C   D       G",
+          "lyrics": "He took my pain, for all my gain"
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "label": "Bridge",
+      "lines": [
+        {
+          "chords": "G D/F#  Em        C",
+          "lyrics": "Through the fire, through the waters"
+        },
+        {
+          "chords": "D               G   D/F# Em",
+          "lyrics": "He will be with me"
+        },
+        {
+          "chords": "                 C",
+          "lyrics": "Though unworthy, He still calls"
+        },
+        {
+          "chords": "       F  D",
+          "lyrics": "me His own"
+        }
+      ]
+    },
+    {
+      "id": "73399077",
+      "label": "Repeat",
+      "lines": [
+        {
+          "chords": "Am7             D          G",
+          "lyrics": "All through the days of my life"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "verse2",
+    "verse3",
+    "verse2",
+    "bridge",
+    "verse2",
+    "73399077"
+  ]
 }

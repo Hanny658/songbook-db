@@ -1,0 +1,95 @@
+{
+  "title": "Leaning on the Everlasting Arms",
+  "number": 266,
+  "link": "https://www.youtube.com/watch?v=AXjAO4ILoGQ",
+  "lyrics": [
+    {
+      "id": "Verse 1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "G                    C",
+          "lyrics": "What a fel-low-ship, what a joy di-vine,"
+        },
+        {
+          "chords": "G                     D",
+          "lyrics": "Lean-ing on the ev-er-last-ing arms,"
+        },
+        {
+          "chords": "G                     C",
+          "lyrics": "What a bless-ed-ness, what a peace is mine,"
+        },
+        {
+          "chords": "G                     D        G",
+          "lyrics": "Lean-ing on the ev-er-last-ing arms."
+        }
+      ]
+    },
+    {
+      "id": "Chorus 1",
+      "label": "Chorus",
+      "lines": [
+        {
+          "chords": "G         C         G                     D",
+          "lyrics": "Lean-ing, lean-ing, Safe and se-cure from all a-larms,"
+        },
+        {
+          "chords": "G         C         G                     D        G",
+          "lyrics": "Lean-ing, lean-ing, lean-ing on the ev-er-last-ing arms."
+        }
+      ]
+    },
+    {
+      "id": "Verse 2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "G                     C",
+          "lyrics": "Oh, how sweet to walk in this pil-grim way,"
+        },
+        {
+          "chords": "G                     D",
+          "lyrics": "Lean-ing on the ev-er-last-ing arms,"
+        },
+        {
+          "chords": "G                       C",
+          "lyrics": "Oh, how bright the path grows from day to day,"
+        },
+        {
+          "chords": "G                     D        G",
+          "lyrics": "Lean-ing on the ev-er-last-ing arms."
+        }
+      ]
+    },
+    {
+      "id": "Verse 3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "G                     C",
+          "lyrics": "What have I to dread, what have I to fear,"
+        },
+        {
+          "chords": "G               D",
+          "lyrics": "Lean-ing on the ev-er-last-ing arms?"
+        },
+        {
+          "chords": "G                     C",
+          "lyrics": "I have bless-ed peace with my Lord so near,"
+        },
+        {
+          "chords": "G                     D        G",
+          "lyrics": "Lean-ing on the ev-er-last-ing arms."
+        }
+      ]
+    }
+  ],
+  "song": [
+    "Verse 1",
+    "Chorus 1",
+    "Verse 2",
+    "Chorus 1",
+    "Verse 3",
+    "Chorus 1"
+  ]
+}
