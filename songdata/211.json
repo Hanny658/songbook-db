@@ -7,16 +7,24 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "G            C           G",
-                    "lyrics": "Praise Him! praise Him! Jesus, our blessed Re-deemer!"
+                    "chords": "G            C",
+                    "lyrics": "Praise Him! praise Him!"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "Jesus, our blessed Re-deemer!"
                 },
                 {
                     "chords": "    Em     A7         D",
                     "lyrics": "Sing, O Earth, His wonderful love pro-claim!"
                 },
                 {
-                    "chords": "G          C           G",
-                    "lyrics": "Hail Him! hail Him! highest archangels in glory;"
+                    "chords": "G          C",
+                    "lyrics": "Hail Him! hail Him!"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "Highest archangels in glory;"
                 },
                 {
                     "chords": "     G7 C   G      D7  G",
@@ -37,12 +45,20 @@
             "label": "Refrain",
             "lines": [
                 {
-                    "chords": "G           C           G",
-                    "lyrics": "Praise Him! Praise Him! Tell of His excellent greatness."
+                    "chords": "G           C",
+                    "lyrics": "Praise Him! Praise Him!"
                 },
                 {
-                    "chords": "   G7  C      G    D7   G",
-                    "lyrics": "Praise Him! Praise Him! Ever in joyful song!"
+                    "chords": "G",
+                    "lyrics": "Tell of His excellent greatness."
+                },
+                {
+                    "chords": "   G7  C      G    D7",
+                    "lyrics": "Praise Him! Praise Him!"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "Ever in joyful song!"
                 }
             ]
         },
@@ -51,8 +67,12 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "Praise Him! Praise Him! Jesus, our blessed Redeemer!"
+                    "chords": "G            C",
+                    "lyrics": "Praise Him! praise Him!"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "Jesus, our blessed Redeemer!"
                 },
                 {
                     "chords": "",
