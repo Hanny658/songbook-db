@@ -1,0 +1,171 @@
+{
+  "title": "Count Your Blessings",
+  "number": 269,
+  "link": "https://www.youtube.com/watch?v=Hb4JBNDWhOA",
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "D",
+          "lyrics": "When upon life's billows"
+        },
+        {
+          "chords": "        A",
+          "lyrics": "you are tempest tossed"
+        },
+        {
+          "chords": "A7",
+          "lyrics": "When you are discouraged"
+        },
+        {
+          "chords": "         D",
+          "lyrics": "thinking all is lost"
+        },
+        {
+          "chords": "",
+          "lyrics": "Count your many blessings;"
+        },
+        {
+          "chords": "          A",
+          "lyrics": "name them one by one"
+        },
+        {
+          "chords": "A7",
+          "lyrics": "And it will surprise you"
+        },
+        {
+          "chords": "         D    A7  D",
+          "lyrics": "What the Lord has done"
+        }
+      ]
+    },
+    {
+      "id": "refrain",
+      "label": "Refrain",
+      "lines": [
+        {
+          "chords": "D",
+          "lyrics": "Count your blessings"
+        },
+        {
+          "chords": "          A",
+          "lyrics": "Name them one by one"
+        },
+        {
+          "chords": "A7",
+          "lyrics": "Count your blessings"
+        },
+        {
+          "chords": "         D",
+          "lyrics": "See what God hath done"
+        },
+        {
+          "chords": "           G",
+          "lyrics": "Count your blessings"
+        },
+        {
+          "chords": "A7",
+          "lyrics": "Name them one by one"
+        },
+        {
+          "chords": "D               G",
+          "lyrics": "Count your many blessings"
+        },
+        {
+          "chords": "         A   A7   D",
+          "lyrics": "See what God hath done"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "D                          A",
+          "lyrics": "Are you ever burdened with load of care"
+        },
+        {
+          "chords": "A7                                D",
+          "lyrics": "Does the cross seem heavy you are called to bear"
+        },
+        {
+          "chords": "                                 A",
+          "lyrics": "Count your many blessings; ev'ry doubt will fly"
+        },
+        {
+          "chords": "A7",
+          "lyrics": "And you will be singing"
+        },
+        {
+          "chords": "       D    A7 D",
+          "lyrics": "as the days go by"
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "D                                  A",
+          "lyrics": "When you look at others with their lands and gold"
+        },
+        {
+          "chords": "A7                                     D",
+          "lyrics": "Think that Christ has promised you His wealth untold"
+        },
+        {
+          "chords": "                                 A",
+          "lyrics": "Count your many blessings; money cannot buy"
+        },
+        {
+          "chords": "A7",
+          "lyrics": "Your reward in heaven"
+        },
+        {
+          "chords": "         D    A7 D",
+          "lyrics": "nor your home on high"
+        }
+      ]
+    },
+    {
+      "id": "verse4",
+      "label": "Verse 4",
+      "lines": [
+        {
+          "chords": "D                             A",
+          "lyrics": "So amid the conflict, whether great or small"
+        },
+        {
+          "chords": "A7                            D",
+          "lyrics": "Do not be discouraged; God is over all"
+        },
+        {
+          "chords": "                                  A",
+          "lyrics": "Count your many blessings; angels will attend"
+        },
+        {
+          "chords": "A7",
+          "lyrics": "Help and comfort give you"
+        },
+        {
+          "chords": "        D   A7    D",
+          "lyrics": "to your journey's end"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "refrain",
+    "verse2",
+    "refrain",
+    "verse3",
+    "refrain",
+    "verse4",
+    "refrain"
+  ]
+}

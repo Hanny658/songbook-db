@@ -8,20 +8,20 @@
       "label": "Verse 1",
       "lines": [
         {
-          "chords": "G                    C",
-          "lyrics": "What a fel-low-ship, what a joy di-vine,"
+          "chords": "G                  C",
+          "lyrics": "What a fellowship, what a joy divine,"
         },
         {
-          "chords": "G                     D",
-          "lyrics": "Lean-ing on the ev-er-last-ing arms,"
+          "chords": "G                  D",
+          "lyrics": "Leaning on the everlasting arms,"
         },
         {
-          "chords": "G                     C",
-          "lyrics": "What a bless-ed-ness, what a peace is mine,"
+          "chords": "G                   C",
+          "lyrics": "What a blessedness, what a peace is mine,"
         },
         {
-          "chords": "G                     D        G",
-          "lyrics": "Lean-ing on the ev-er-last-ing arms."
+          "chords": "G                  D       G",
+          "lyrics": "Leaning on the everlasting arms."
         }
       ]
     },
@@ -30,12 +30,20 @@
       "label": "Chorus",
       "lines": [
         {
-          "chords": "G         C         G                     D",
-          "lyrics": "Lean-ing, lean-ing, Safe and se-cure from all a-larms,"
+          "chords": "G        C",
+          "lyrics": "Leaning, leaning,"
         },
         {
-          "chords": "G         C         G                     D        G",
-          "lyrics": "Lean-ing, lean-ing, lean-ing on the ev-er-last-ing arms."
+          "chords": "G                    D",
+          "lyrics": "Safe and secure from all alarms,"
+        },
+        {
+          "chords": "G        C",
+          "lyrics": "Leaning, leaning"
+        },
+        {
+          "chords": "G                  D       G",
+          "lyrics": "Leaning on the everlasting arms."
         }
       ]
     },
@@ -45,19 +53,19 @@
       "lines": [
         {
           "chords": "G                     C",
-          "lyrics": "Oh, how sweet to walk in this pil-grim way,"
+          "lyrics": "Oh, how sweet to walk in this pilgrim way,"
         },
         {
-          "chords": "G                     D",
-          "lyrics": "Lean-ing on the ev-er-last-ing arms,"
+          "chords": "G                  D",
+          "lyrics": "Leaning on the everlasting arms,"
         },
         {
           "chords": "G                       C",
           "lyrics": "Oh, how bright the path grows from day to day,"
         },
         {
-          "chords": "G                     D        G",
-          "lyrics": "Lean-ing on the ev-er-last-ing arms."
+          "chords": "G                  D       G",
+          "lyrics": "Leaning on the everlasting arms."
         }
       ]
     },
@@ -70,16 +78,16 @@
           "lyrics": "What have I to dread, what have I to fear,"
         },
         {
-          "chords": "G               D",
-          "lyrics": "Lean-ing on the ev-er-last-ing arms?"
+          "chords": "G              D",
+          "lyrics": "Leaning on the everlasting arms?"
         },
         {
-          "chords": "G                     C",
-          "lyrics": "I have bless-ed peace with my Lord so near,"
+          "chords": "G                    C",
+          "lyrics": "I have blessed peace with my Lord so near,"
         },
         {
-          "chords": "G                     D        G",
-          "lyrics": "Lean-ing on the ev-er-last-ing arms."
+          "chords": "G                  D       G",
+          "lyrics": "Leaning on the everlasting arms."
         }
       ]
     }

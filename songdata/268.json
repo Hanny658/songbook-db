@@ -1,0 +1,103 @@
+{
+    "title": "Joy By and By",
+    "number": 268,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "G                            D7",
+                    "lyrics": "Oh, there’ll be joy when the work is done,"
+                },
+                {
+                    "chords": "                      G",
+                    "lyrics": "Joy when the reapers gather home,"
+                },
+                {
+                    "chords": "G7                      C",
+                    "lyrics": "Bringing the sheaves at set of sun"
+                },
+                {
+                    "chords": "       G       A  D  D7",
+                    "lyrics": "To the New Jerusalem."
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "G                     D",
+                    "lyrics": "Joy, joy, there’ll be joy by and by,"
+                },
+                {
+                    "chords": "D7                  G",
+                    "lyrics": "Joy, joy, where the joys never die;"
+                },
+                {
+                    "chords": "G7                     C",
+                    "lyrics": "Joy, joy, joy, for the day draweth nigh"
+                },
+                {
+                    "chords": "         G        D     G",
+                    "lyrics": "When the workers gather home."
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "  G                         D7",
+                    "lyrics": "Sweet are the songs that we hope to sing"
+                },
+                {
+                    "chords": "                        G",
+                    "lyrics": "Grateful the thanks our hearts shall bring"
+                },
+                {
+                    "chords": "G7               C",
+                    "lyrics": "Praising forever Christ our King"
+                },
+                {
+                    "chords": "       G       A  D D7",
+                    "lyrics": "In the New Jerusalem."
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "G                      D7",
+                    "lyrics": "Pure are the joys that await us there"
+                },
+                {
+                    "chords": "                G",
+                    "lyrics": "Many the golden mansions fair"
+                },
+                {
+                    "chords": "G7                 C",
+                    "lyrics": "Jesus Himself doth them prepare"
+                },
+                {
+                    "chords": "       G      A   D  D7",
+                    "lyrics": "In the New Jerusalem"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus"
+    ],
+    "link": "https://www.youtube.com/watch?v=UCg_vq-4xKg"
+}
