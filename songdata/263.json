@@ -1,0 +1,101 @@
+{
+  "title": "Holy, Holy, Holy",
+  "number": 263,
+  "link": "https://www.youtube.com/watch?v=AgHrNNM23p8",
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "G     Em    D G   C          G",
+          "lyrics": "Holy, holy, holy! Lord God Almighty!"
+        },
+        {
+          "chords": "D            Em      D    A          A7     D    D7",
+          "lyrics": "Early in the morning our song shall rise to Thee;"
+        },
+        {
+          "chords": "G     Em    D G   C            G",
+          "lyrics": "Holy, holy, holy! Merciful and mighty!"
+        },
+        {
+          "chords": "Em  G        C  Em    C       D   G",
+          "lyrics": "God in three Persons, blessed Trinity!"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "G     Em    D G   C                G",
+          "lyrics": "Holy, holy, holy! All the saints adore Thee,"
+        },
+        {
+          "chords": "D                  Em     D      A          A7     D  D7",
+          "lyrics": "Casting down their golden crowns around the glassy sea;"
+        },
+        {
+          "chords": "G    Em      D   G    C              G",
+          "lyrics": "Cherubim and seraphim falling down before Thee,"
+        },
+        {
+          "chords": "Em  G        C   Em  C   D          G",
+          "lyrics": "Who wert and art and evermore shalt be."
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "G     Em    D G   C                   G",
+          "lyrics": "Holy, holy, holy! Though the darkness hide Thee,"
+        },
+        {
+          "chords": "D          Em      D G    D      A     A7      D  D7",
+          "lyrics": "Though the eye of sinful man Thy glory may not see,"
+        },
+        {
+          "chords": "G    Em       D G   C               G",
+          "lyrics": "Only Thou art holy; there is none beside Thee,"
+        },
+        {
+          "chords": "Em  G       C     Em C         D    G",
+          "lyrics": "Perfect in power, in love, and purity."
+        }
+      ]
+    },
+    {
+      "id": "verse4",
+      "label": "Verse 4",
+      "lines": [
+        {
+          "chords": "G     Em    D G   C          G",
+          "lyrics": "Holy, holy, holy! Lord God Almighty!"
+        },
+        {
+          "chords": "D             Em    D      G   D        A          A7       D  D7",
+          "lyrics": "All thy works shall praise Thy name, in earth, and sky, and sea;"
+        },
+        {
+          "chords": "G     Em    D G   C            G",
+          "lyrics": "Holy, holy, holy! Merciful and mighty!"
+        },
+        {
+          "chords": "Em  G        C  Em    C       D   G",
+          "lyrics": "God in three Persons, blessed Trinity!"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "verse2",
+    "verse3",
+    "verse4"
+  ]
+}

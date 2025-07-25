@@ -7,28 +7,28 @@
       "label": "Verse 1",
       "lines": [
         {
-          "chords": "   F       Gm     Am    Gm",
+          "chords": "  F         Gm         Am      Gm",
           "lyrics": "A long time ago, I was walking alone"
         },
         {
-          "chords": " F        Dm   G7      C",
+          "chords": "   F        Dm     G7      C",
           "lyrics": "Waiting for joy to come my way"
         },
         {
-          "chords": " F           Gm",
+          "chords": "  F         Gm",
           "lyrics": "I was weary and lost"
         },
         {
-          "chords": "  A7       Dm",
+          "chords": "    A7         Dm",
           "lyrics": "all hope in me gone"
         },
         {
-          "chords": "     Bb             G7",
-          "lyrics": "Then Jesus came and showed me"
+          "chords": "     Bb",
+          "lyrics": "Then Jesus came"
         },
         {
-          "chords": "   C",
-          "lyrics": "the way"
+          "chords": "    G7            C",
+          "lyrics": "and showed me the way"
         }
       ]
     },
@@ -37,32 +37,32 @@
       "label": "Chorus",
       "lines": [
         {
-          "chords": "  F        Bb     F",
-          "lyrics": "He said come follow me for I know"
+          "chords": "        F           Bb",
+          "lyrics": "He said come follow me"
         },
         {
-          "chords": "Bb",
-          "lyrics": "the way,"
+          "chords": "    F          Bb",
+          "lyrics": "For I know the way,"
         },
         {
-          "chords": "   Gm    F/A      Eb  C",
+          "chords": "    Gm     F/A       Eb  C",
           "lyrics": "The way to peace and joy,"
         },
         {
-          "chords": "      F          Bb",
+          "chords": "      F             Bb",
           "lyrics": "Which path will you choose,"
         },
         {
-          "chords": "  F           Bb",
+          "chords": "     F           Bb",
           "lyrics": "He’s waiting for you,"
         },
         {
-          "chords": "   Gm               C",
-          "lyrics": "My friend you’ll find true joy in the"
+          "chords": "   Gm                      C",
+          "lyrics": "My friend you’ll find true joy"
         },
         {
-          "chords": " F",
-          "lyrics": "Lord."
+          "chords": "       F",
+          "lyrics": "in the Lord."
         }
       ]
     },
@@ -71,19 +71,19 @@
       "label": "Verse 2",
       "lines": [
         {
-          "chords": "",
+          "chords": "     F             Gm      Am            Gm",
           "lyrics": "As I cast my cares away, I begin to understand,"
         },
         {
-          "chords": "",
+          "chords": "F                Dm            G7           C",
           "lyrics": "What it means to live by God’s great divine plan,"
         },
         {
-          "chords": "",
+          "chords": "  F                  Gm         A7              Dm",
           "lyrics": "My dark world became light, no longer wondering lost,"
         },
         {
-          "chords": "",
+          "chords": "       Bb          G7   C",
           "lyrics": "Praise God I’m now free because."
         }
       ]

@@ -16,19 +16,19 @@
           "lyrics": "you stepped down into darkness,"
         },
         {
-          "chords": "D       A         G",
+          "chords": "D       A            G",
           "lyrics": "open my eyes, let me see"
         },
         {
-          "chords": "D         A",
+          "chords": "D           A",
           "lyrics": "Beauty that made"
         },
         {
-          "chords": "   Em     G",
+          "chords": "     Em          G",
           "lyrics": "this heart adore you,"
         },
         {
-          "chords": "D        A           Em G",
+          "chords": "D         A          Em   G",
           "lyrics": "hope of a life spent with you"
         }
       ]
@@ -38,27 +38,27 @@
       "label": "Chorus",
       "lines": [
         {
-          "chords": "               D",
+          "chords": "                 D",
           "lyrics": "And here I am to worship"
         },
         {
-          "chords": "            A",
+          "chords": "          A",
           "lyrics": "Here I am to bow down"
         },
         {
-          "chords": "          D/F#            G",
+          "chords": "             D/F#               G",
           "lyrics": "Here I am to say that you're my God"
         },
         {
-          "chords": "                D",
+          "chords": "                  D",
           "lyrics": "You're altogether lovely"
         },
         {
-          "chords": "          A",
+          "chords": "           A",
           "lyrics": "Altogether worthy"
         },
         {
-          "chords": "         D/F#        G",
+          "chords": "           D/F#         G",
           "lyrics": "Altogether wonderful to me"
         }
       ]
@@ -68,19 +68,19 @@
       "label": "Verse 2",
       "lines": [
         {
-          "chords": "",
+          "chords": "D           A         Em     G",
           "lyrics": "King of all days O so highly exalted"
         },
         {
-          "chords": "",
+          "chords": "D           A      G",
           "lyrics": "glorious in Heaven above"
         },
         {
-          "chords": "",
+          "chords": "D          A           Em",
           "lyrics": "Humbly you came to the earth you created,"
         },
         {
-          "chords": "",
+          "chords": "D              A           G",
           "lyrics": "all for love's sake became poor"
         }
       ]
@@ -90,12 +90,20 @@
       "label": "Bridge",
       "lines": [
         {
-          "chords": "    A   D/F#     G",
+          "chords": "     A          D/F#        G",
           "lyrics": "I'll never know how much it cost"
         },
         {
-          "chords": "  A     D/F# G",
-          "lyrics": "to see my sin upon that cross x2"
+          "chords": "   A          D/F#      G",
+          "lyrics": "to see my sin upon that cross"
+        },
+        {
+          "chords": "     A          D/F#        G",
+          "lyrics": "I'll never know how much it cost"
+        },
+        {
+          "chords": "   A          D/F#      G",
+          "lyrics": "to see my sin upon that cross"
         }
       ]
     }
@@ -105,6 +113,7 @@
     "chorus",
     "verse2",
     "chorus",
-    "bridge"
+    "bridge",
+    "chorus"
   ]
 }

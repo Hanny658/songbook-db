@@ -7,11 +7,11 @@
       "label": "Verse 1",
       "lines": [
         {
-          "chords": "G            D/F#",
+          "chords": "G                       D/F#      Em",
           "lyrics": "Have you ever felt that you were all alone,"
         },
         {
-          "chords": "         C          C/D",
+          "chords": "         C                  C/D",
           "lyrics": "Were you wondering lost not knowing"
         },
         {
@@ -19,19 +19,19 @@
           "lyrics": "where to turn"
         },
         {
-          "chords": "       C      D/C",
+          "chords": "        C               D/C",
           "lyrics": "Did you cry out loud in darkness,"
         },
         {
-          "chords": "Bm      Em",
+          "chords": "Bm              Em",
           "lyrics": "searching for a friend,"
         },
         {
-          "chords": "Am   C",
+          "chords": "Am               C",
           "lyrics": "Hoping some will hear your"
         },
         {
-          "chords": "         Dsus D",
+          "chords": "          Dsus  D",
           "lyrics": "trembling voice."
         }
       ]
@@ -41,20 +41,28 @@
       "label": "Verse 2",
       "lines": [
         {
-          "chords": "",
+          "chords": "G                   D/F#                Em",
           "lyrics": "Have you ever had a friend called Jesus Christ."
         },
         {
-          "chords": "",
+          "chords": "        C                 C/D     G",
           "lyrics": "The one who came to earth as holy Sacrifice."
         },
         {
-          "chords": "",
+          "chords": "     C               D/C",
           "lyrics": "Carrying burdens for all sinners for souls like you and me"
         },
         {
-          "chords": "",
-          "lyrics": "If you were the only sinner, He would still have come for you"
+          "chords": "Bm                 Em",
+          "lyrics": "For souls like you and me"
+        },
+        {
+          "chords": "Am              C",
+          "lyrics": "If you were the only sinner"
+        },
+        {
+          "chords": "                             C/D",
+          "lyrics": "He would still have come for you"
         }
       ]
     },
@@ -63,29 +71,35 @@
       "label": "Chorus",
       "lines": [
         {
-          "chords": "          G",
+          "chords": "             G",
           "lyrics": "For all your tears"
         },
         {
-          "chords": "      Bm7",
+          "chords": "        Bm7",
           "lyrics": "And all despair"
         },
         {
-          "chords": "         C         Dsus D  G D",
+          "chords": "          C          Dsus D     G  D",
           "lyrics": "Pray unto Him and He will carry you"
         },
         {
-          "chords": "              G           Bm7",
+          "chords": "                G               Bm7",
           "lyrics": "Throughout this time until this day"
         },
         {
-          "chords": "            Am",
+          "chords": "              Am",
           "lyrics": "His eyes were on"
         },
         {
-          "chords": "D              G",
+          "chords": "  D              G",
           "lyrics": "the one and only you"
-        },
+        }
+      ]
+    },
+    {
+      "id": "ending",
+      "label": "Ending",
+      "lines": [
         {
           "chords": "         Am7     D",
           "lyrics": "For this I know my God loves"
@@ -100,7 +114,9 @@
   "song": [
     "verse1",
     "verse2",
-    "chorus"
+    "chorus",
+    "chorus",
+    "ending"
   ],
   "link": ""
 }
