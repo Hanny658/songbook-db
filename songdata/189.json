@@ -15,15 +15,15 @@
                     "lyrics": "clothed in majesty,"
                 },
                 {
-                    "chords": "               C2",
+                    "chords": "                  C2",
                     "lyrics": "Let all the earth rejoice,"
                 },
                 {
-                    "chords": "            Dsus",
+                    "chords": "              Dsus",
                     "lyrics": "all the earth rejoice."
                 },
                 {
-                    "chords": "    G",
+                    "chords": "   G",
                     "lyrics": "He wraps Himself in light"
                 },
                 {
@@ -31,11 +31,11 @@
                     "lyrics": "and darkness tries to hide,"
                 },
                 {
-                    "chords": "                 C2",
+                    "chords": "                    C2",
                     "lyrics": "And trembles at his voice,"
                 },
                 {
-                    "chords": "             Dsus D",
+                    "chords": "                Dsus D",
                     "lyrics": "trembles at his voice."
                 }
             ]
@@ -45,7 +45,7 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "    G              D/F#",
+                    "chords": "    G                 D/F#",
                     "lyrics": "How great is our God, sing with me,"
                 },
                 {
@@ -53,7 +53,7 @@
                     "lyrics": "How great is our God and all will see"
                 },
                 {
-                    "chords": "    C        D         G",
+                    "chords": "    C          D            G",
                     "lyrics": "How great, how great is our God."
                 }
             ]
@@ -63,23 +63,23 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "G                         Em7",
                     "lyrics": "Age to age He stands, and time is in His hands,"
                 },
                 {
-                    "chords": "",
+                    "chords": "                  C2                     Dsus",
                     "lyrics": "Beginning and the end, beginning and the end."
                 },
                 {
-                    "chords": "",
+                    "chords": "    G",
                     "lyrics": "The Godhead, three in one:"
                 },
                 {
-                    "chords": "",
+                    "chords": "Em",
                     "lyrics": "Father, Spirit, Son,"
                 },
                 {
-                    "chords": "",
+                    "chords": "                 C                      Dsus  D",
                     "lyrics": "The Lion and the Lamb, the Lion and the Lamb"
                 }
             ]
@@ -97,11 +97,11 @@
                     "lyrics": "Worthy of all praise,"
                 },
                 {
-                    "chords": "C",
+                    "chords": "   C",
                     "lyrics": "My heart will sing"
                 },
                 {
-                    "chords": "    D         G",
+                    "chords": "    D            G",
                     "lyrics": "How great is our God."
                 }
             ]

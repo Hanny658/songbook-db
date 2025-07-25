@@ -7,35 +7,35 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "     D     G",
-                    "lyrics": "Life is easy, when you're"
+                    "chords": "        D",
+                    "lyrics": "Life is easy,"
                 },
                 {
-                    "chords": "         D",
-                    "lyrics": "up on the mountain"
+                    "chords": "G                     D",
+                    "lyrics": "When you're up on the mountain"
                 },
                 {
-                    "chords": "              Em         A7",
+                    "chords": "               Em         A7",
                     "lyrics": "And you've got peace of mind,"
                 },
                 {
-                    "chords": "               D    A",
+                    "chords": "                  D    A",
                     "lyrics": "like you've never known"
                 },
                 {
-                    "chords": "         D          G",
+                    "chords": "           D          G",
                     "lyrics": "But things change when"
                 },
                 {
-                    "chords": "                D   Bm",
+                    "chords": "                   D   Bm",
                     "lyrics": "You're down in the valley"
                 },
                 {
-                    "chords": "          Em  A7",
+                    "chords": "           Em   A7",
                     "lyrics": "Don't lose faith,"
                 },
                 {
-                    "chords": "               D   D7",
+                    "chords": "                 D   D7",
                     "lyrics": "for you're never alone"
                 }
             ]
@@ -45,35 +45,35 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "                 G",
+                    "chords": "                   G",
                     "lyrics": "For the God on the mountain"
                 },
                 {
-                    "chords": "A              D   Bm",
+                    "chords": "A                   D   Bm",
                     "lyrics": "is still God in the valley"
                 },
                 {
-                    "chords": "              Em   A",
+                    "chords": "               Em   A",
                     "lyrics": "When things go wrong"
                 },
                 {
-                    "chords": "               D  Em D/F#",
+                    "chords": "                D  Em D/F#",
                     "lyrics": "He'll make them right"
                 },
                 {
-                    "chords": "                  G",
+                    "chords": "                   G",
                     "lyrics": "And the God of the good times"
                 },
                 {
-                    "chords": "A              D       Bm",
+                    "chords": "A                   D       Bm",
                     "lyrics": "Is still God in the bad times"
                 },
                 {
-                    "chords": "              Em  A7",
+                    "chords": "               Em  A7",
                     "lyrics": "The God of the day"
                 },
                 {
-                    "chords": "               D",
+                    "chords": "                    D",
                     "lyrics": "is still God in the night"
                 }
             ]
@@ -83,20 +83,36 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "You talk of faith when you’re up on the mountain"
+                    "chords": "            D",
+                    "lyrics": "You talk of faith"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "Oh, but the talk comes easy when life's at its best"
+                    "chords": "G                     D",
+                    "lyrics": "When you’re up on the mountain"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "Now it’s down in the valleys, of trials and temptations"
+                    "chords": "            Em         A7",
+                    "lyrics": "Oh, but the talk comes easy"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "That's where your faith, is really put to the test"
+                    "chords": "                   D    A",
+                    "lyrics": "When life's at its best"
+                },
+                {
+                    "chords": "                 D          G",
+                    "lyrics": "Now it’s down in the valleys"
+                },
+                {
+                    "chords": "              D        Bm",
+                    "lyrics": "of trials and temptations"
+                },
+                {
+                    "chords": "                  Em   A7",
+                    "lyrics": "That's where your faith"
+                },
+                {
+                    "chords": "                     D  D7",
+                    "lyrics": "is really put to the test"
                 }
             ]
         }

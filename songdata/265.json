@@ -1,0 +1,99 @@
+{
+    "title": "Lovin’ Life",
+    "number": 265,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "D",
+                    "lyrics": "I’ve learnt some good news"
+                },
+                {
+                    "chords": "          Em                         A7",
+                    "lyrics": "Right here at Easter, There is a Saviour"
+                },
+                {
+                    "chords": "  D A7",
+                    "lyrics": "Who’ll guide me through"
+                },
+                {
+                    "chords": "        D         D7          G   Em",
+                    "lyrics": "His name is Jesus, His love will cover"
+                },
+                {
+                    "chords": "       Asus4 A7         D  G   D",
+                    "lyrics": "My past, my failure, Forevermore"
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "A",
+                    "lyrics": "I sure am…"
+                },
+                {
+                    "chords": "D",
+                    "lyrics": "Lovin life (lovin life)"
+                },
+                {
+                    "chords": "       Em",
+                    "lyrics": "with Jesus (with Jesus)"
+                },
+                {
+                    "chords": "A     D",
+                    "lyrics": "Lovin life, (lovin life) with Him"
+                },
+                {
+                    "chords": "A",
+                    "lyrics": "He’ll hold my (hand)"
+                },
+                {
+                    "chords": "D      G",
+                    "lyrics": ""
+                },
+                {
+                    "chords": "Em",
+                    "lyrics": "When the night (when the night) gets darkest"
+                },
+                {
+                    "chords": "A  A7           D",
+                    "lyrics": "He’s my Anchor in the storm"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "",
+                    "lyrics": "He is my Shepherd, a great provider"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I’ll never tire, He gives me strength"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Like mighty eagles, He’ll lift me up,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I’ll face my future, My Hope is sure"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus"
+    ],
+    "link": ""
+}

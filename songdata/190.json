@@ -7,15 +7,15 @@
             "label": "Verse",
             "lines": [
                 {
-                    "chords": "Am         Dm7     G",
+                    "chords": "Am         Dm7       G",
                     "lyrics": "You are my hiding place"
                 },
                 {
-                    "chords": "      Csus   C",
+                    "chords": "           Csus    C",
                     "lyrics": "You always fill my heart"
                 },
                 {
-                    "chords": "     F       Bm7(b5)",
+                    "chords": "G    F        Bm7(b5)",
                     "lyrics": "With songs of deliverance"
                 },
                 {
@@ -23,11 +23,11 @@
                     "lyrics": "Whenever I am afraid"
                 },
                 {
-                    "chords": "           Am Dm7",
+                    "chords": "                Am  Dm7",
                     "lyrics": "I will trust in You"
                 },
                 {
-                    "chords": "          G",
+                    "chords": "                G",
                     "lyrics": "I will trust in You"
                 },
                 {
@@ -39,7 +39,7 @@
                     "lyrics": "In the strength of the Lord"
                 },
                 {
-                    "chords": "           Am",
+                    "chords": "                Am  Dm7",
                     "lyrics": "I will trust in You"
                 }
             ]

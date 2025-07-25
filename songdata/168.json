@@ -7,35 +7,35 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "     D     A      D",
+                    "chords": "     D     A       D",
                     "lyrics": "Holy words long preserved"
                 },
                 {
-                    "chords": "       G      A",
+                    "chords": "        G            A",
                     "lyrics": "For our walk in this world"
                 },
                 {
-                    "chords": "      Bm        A/C#     D",
+                    "chords": "     Bm           A/C#      D",
                     "lyrics": "They resound with God's own heart"
                 },
                 {
-                    "chords": "    G      A      D",
+                    "chords": "        G       A      D",
                     "lyrics": "let the ancient words impart."
                 },
                 {
-                    "chords": "         D   A      D",
+                    "chords": "         D     A        D",
                     "lyrics": "Words of life, words of hope"
                 },
                 {
-                    "chords": " D/F#   G             A",
+                    "chords": "D/F#    G                 A",
                     "lyrics": "Give us strength, help us cope"
                 },
                 {
-                    "chords": "      Bm       A/C#  D",
+                    "chords": "        Bm       A/C#     D",
                     "lyrics": "In this world where’er we roam"
                 },
                 {
-                    "chords": " D/F#   G        A       D",
+                    "chords": "D/F#    G          D     A  D",
                     "lyrics": "Ancient words will guide us home"
                 }
             ]
@@ -45,19 +45,19 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "          D      A",
+                    "chords": "        D          A",
                     "lyrics": "Ancient words ever true"
                 },
                 {
-                    "chords": "         Em     D/F#    G",
+                    "chords": "         Em     D/F#     G",
                     "lyrics": "Changing me and changing you"
                 },
                 {
-                    "chords": "A       Bm       A/C# D",
+                    "chords": "A       Bm        A/C#  D",
                     "lyrics": "We have come with open hearts"
                 },
                 {
-                    "chords": "    D/F# G     A      D",
+                    "chords": "          D/F#    G     A     D",
                     "lyrics": "O let the ancient words impart."
                 }
             ]
@@ -67,35 +67,35 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "     D     A      D",
                     "lyrics": "Holy words of our faith"
                 },
                 {
-                    "chords": "",
+                    "chords": "       G            A",
                     "lyrics": "Handed down to this age"
                 },
                 {
-                    "chords": "",
+                    "chords": "        Bm         A/C#    D",
                     "lyrics": "Came to us through sacrifice"
                 },
                 {
-                    "chords": "",
+                    "chords": "           G        D     A      D",
                     "lyrics": "O heed the faithful words of Christ"
                 },
                 {
-                    "chords": "",
+                    "chords": "Dsus       A       D",
                     "lyrics": "Holy words long preserved"
                 },
                 {
-                    "chords": "",
+                    "chords": "        G            A",
                     "lyrics": "For our walk in this world"
                 },
                 {
-                    "chords": "",
+                    "chords": "     Bm           A/C#      D",
                     "lyrics": "They resound with God's own heart"
                 },
                 {
-                    "chords": "",
+                    "chords": "          G       D     A     D",
                     "lyrics": "O let the ancient words impart."
                 }
             ]

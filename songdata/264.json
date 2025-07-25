@@ -1,0 +1,287 @@
+{
+    "title": "Been So Good",
+    "number": 264,
+    "lyrics": [
+        {
+            "id": "intro",
+            "label": "Intro",
+            "lines": [
+                {
+                    "chords": "D F#m G A  x2",
+                    "lyrics": ""
+                }
+            ]
+        },
+        {
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "D               F#m",
+                    "lyrics": "I call You faithful"
+                },
+                {
+                    "chords": " G",
+                    "lyrics": "For the promises You’ve kept"
+                },
+                {
+                    "chords": " A",
+                    "lyrics": "And every need You’ve met"
+                },
+                {
+                    "chords": "D               F#m",
+                    "lyrics": "Lord I’m so grateful"
+                },
+                {
+                    "chords": " G",
+                    "lyrics": "You were with me every step"
+                },
+                {
+                    "chords": " A",
+                    "lyrics": "And I never will forget"
+                }
+            ]
+        },
+        {
+            "id": "prechorus1",
+            "label": "Pre-Chorus",
+            "lines": [
+                {
+                    "chords": "G",
+                    "lyrics": "When I think of how You’ve blessed me"
+                },
+                {
+                    "chords": "A                             Bm",
+                    "lyrics": "How Your hand has never let me go"
+                },
+                {
+                    "chords": "G             A",
+                    "lyrics": "Never let me go"
+                }
+            ]
+        },
+        {
+            "id": "chorus1",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "          G              A",
+                    "lyrics": "You have been so good to me"
+                },
+                {
+                    "chords": "               D/F#",
+                    "lyrics": "God I can’t believe"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "How You love me"
+                },
+                {
+                    "chords": "  Bm     A               G",
+                    "lyrics": "What a friend You have been"
+                },
+                {
+                    "chords": "           A",
+                    "lyrics": "so good to me"
+                },
+                {
+                    "chords": "               D/F#",
+                    "lyrics": "God I can’t believe"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "How You love me"
+                },
+                {
+                    "chords": "Bm        A              D",
+                    "lyrics": "What a friend You have been"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "D            F#m",
+                    "lyrics": "I call you Savior"
+                },
+                {
+                    "chords": " G",
+                    "lyrics": "For the blood that washed me clean"
+                },
+                {
+                    "chords": " A",
+                    "lyrics": "For the wrongs that You redeemed"
+                },
+                {
+                    "chords": "D               F#m",
+                    "lyrics": "I know You’re able"
+                },
+                {
+                    "chords": "   G",
+                    "lyrics": "My eyes don’t have to see"
+                },
+                {
+                    "chords": "         A",
+                    "lyrics": "One more reason to believe"
+                }
+            ]
+        },
+        {
+            "id": "prechorus2",
+            "label": "Pre-Chorus",
+            "lines": [
+                {
+                    "chords": "G",
+                    "lyrics": "When I think of how You’ve blessed me"
+                },
+                {
+                    "chords": "A                              Em",
+                    "lyrics": "How Your hand has never let me go"
+                },
+                {
+                    "chords": "G             A",
+                    "lyrics": "Never let me go"
+                }
+            ]
+        },
+        {
+            "id": "turnaround",
+            "label": "Turnaround",
+            "lines": [
+                {
+                    "chords": "A  D/F# Bm A  G",
+                    "lyrics": ""
+                },
+                {
+                    "chords": "A  D/F# Bm A",
+                    "lyrics": ""
+                }
+            ]
+        },
+        {
+            "id": "bridge",
+            "label": "Bridge",
+            "lines": [
+                {
+                    "chords": "G",
+                    "lyrics": "For every morning"
+                },
+                {
+                    "chords": "A",
+                    "lyrics": "For every open door"
+                },
+                {
+                    "chords": "D/F#",
+                    "lyrics": "I call You faithful"
+                },
+                {
+                    "chords": "Bm             A",
+                    "lyrics": "I just wanna thank You Lord"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "For every mountain"
+                },
+                {
+                    "chords": "A",
+                    "lyrics": "For every time You brought me through"
+                },
+                {
+                    "chords": "D/F#",
+                    "lyrics": "I call You faithful"
+                },
+                {
+                    "chords": "Bm             A",
+                    "lyrics": "I just wanna thank You Lord"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "For Your forgiveness"
+                },
+                {
+                    "chords": "A",
+                    "lyrics": "For how You never turned away"
+                },
+                {
+                    "chords": "D/F#",
+                    "lyrics": "I call You faithful"
+                },
+                {
+                    "chords": "Bm             A",
+                    "lyrics": "I just wanna thank You Lord"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "For Your salvation"
+                },
+                {
+                    "chords": "A                              D/F#",
+                    "lyrics": "You paid the price I couldn’t pay"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "I call You faithful"
+                },
+                {
+                    "chords": "Bm             A",
+                    "lyrics": "I just wanna thank You Lord"
+                }
+            ]
+        },
+        {
+            "id": "interlude1",
+            "label": "Interlude",
+            "lines": [
+                {
+                    "chords": "         G          Bm",
+                    "lyrics": "Ohh Ohh Ohh    Ohh Ohh"
+                },
+                {
+                    "chords": "         D           A",
+                    "lyrics": "Ohh Ohh Ohh    Ohh Ohh"
+                },
+                {
+                    "chords": "         G          Bm",
+                    "lyrics": "Ohh Ohh Ohh    Ohh Ohh"
+                },
+                {
+                    "chords": " D              A",
+                    "lyrics": "I just wanna thank You Lord"
+                },
+                {
+                    "chords": "         Em         Bm",
+                    "lyrics": "Ohh Ohh Ohh    Ohh Ohh"
+                },
+                {
+                    "chords": "          D        A",
+                    "lyrics": "Ohh Ohh  Ohh  Ohh Ohh"
+                },
+                {
+                    "chords": "         G          Bm",
+                    "lyrics": "Ohh Ohh Ohh    Ohh Ohh"
+                },
+                {
+                    "chords": " D              A",
+                    "lyrics": "I just wanna thank You Lord"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "intro",
+        "verse1",
+        "prechorus1",
+        "chorus1",
+        "verse2",
+        "prechorus2",
+        "chorus1",
+        "turnaround",
+        "bridge",
+        "interlude1",
+        "chorus1",
+        "chorus1"
+    ],
+    "link": ""
+}

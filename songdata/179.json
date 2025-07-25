@@ -11,27 +11,27 @@
           "lyrics": "Chasing my ambitions,"
         },
         {
-          "chords": "F  G    C",
+          "chords": "F        G      C",
           "lyrics": "reaching all my goals"
         },
         {
-          "chords": "C     C/E",
+          "chords": "C                   C/E",
           "lyrics": "Years have come and gone now,"
         },
         {
-          "chords": "    F  G      C",
+          "chords": "    F    G        C",
           "lyrics": "and many things I own"
         },
         {
-          "chords": "F               G/F",
+          "chords": "F                G/F",
           "lyrics": "But as I stop to ponder,"
         },
         {
-          "chords": "C/E         E/G#   Am",
+          "chords": "C/E               E/G#   Am",
           "lyrics": "there's something that's amiss"
         },
         {
-          "chords": "Dm           F         Gsus G",
+          "chords": "Dm                 F             Gsus G",
           "lyrics": "I cannot find that inner elusive peace"
         }
       ]
@@ -41,7 +41,7 @@
       "label": "Chorus",
       "lines": [
         {
-          "chords": "C/E  F     G/F",
+          "chords": "C/E     F            G/F",
           "lyrics": "Then He calls and says"
         },
         {
@@ -53,15 +53,15 @@
           "lyrics": "Promises that He will give me rest…"
         },
         {
-          "chords": "    F  E",
+          "chords": "         F           E",
           "lyrics": "Asks me to, cast all my"
         },
         {
-          "chords": "E/G#    Am Am/G Am/F#",
+          "chords": "E/G#     Am  Am/G  Am/F#",
           "lyrics": "cares on Him"
         },
         {
-          "chords": "Dm         Gsus   C",
+          "chords": "Dm                 Gsus          C",
           "lyrics": "Jesus, the savior, is my missing Peace."
         }
       ]
@@ -71,35 +71,32 @@
       "label": "Verse 2",
       "lines": [
         {
-          "chords": "C            C/E",
-          "lyrics": "As I walk with Jesus, there are times it's hard"
+          "chords": "C              C/E",
+          "lyrics": "As I walk with Jesus"
         },
         {
-          "chords": "F  G    C",
-          "lyrics": "Many things in this life, clamor for my all"
+          "chords": "F     G   C",
+          "lyrics": "there are times it's hard"
         },
         {
           "chords": "C     C/E",
-          "lyrics": "I know that He promises, strength to bear it all"
+          "lyrics": "Many things in this life"
         },
         {
           "chords": "    F  G      C",
-          "lyrics": "But sometimes I still stumble, fail and fall"
+          "lyrics": "Clamor for my all"
         },
         {
           "chords": "F               G/F",
-          "lyrics": "",
-          "note": "Reuses structure of verse 1"
+          "lyrics": "I know that He promises"
         },
         {
-          "chords": "C/E         E/G#   Am",
-          "lyrics": "",
-          "note": "Reuses structure of verse 1"
+          "chords": "C/E         E/G#    Am",
+          "lyrics": "Strength to bear it all"
         },
         {
-          "chords": "Dm           F         Gsus G",
-          "lyrics": "",
-          "note": "Reuses structure of verse 1"
+          "chords": "Dm                    F        Gsus G",
+          "lyrics": "But sometimes I still stumble, fail and fall"
         }
       ]
     },
@@ -108,7 +105,7 @@
       "label": "Bridge",
       "lines": [
         {
-          "chords": "Ab         Bb",
+          "chords": "Ab                Bb",
           "lyrics": "Though success or failure"
         },
         {
@@ -116,43 +113,43 @@
           "lyrics": "may be mine"
         },
         {
-          "chords": "Ab   Bb",
+          "chords": "Ab         Bb",
           "lyrics": "I can rest assured that"
         },
         {
-          "chords": "        C             A",
+          "chords": "        C              A",
           "lyrics": "He's my guide, He's my guide"
         },
         {
-          "chords": "D           A/C#",
+          "chords": "D             A/C#",
           "lyrics": "He will never leave you,"
         },
         {
-          "chords": "Bm       Bm/A",
+          "chords": "Bm           Bm/A",
           "lyrics": "neither will forsake you"
         },
         {
-          "chords": "G     D/F#",
+          "chords": "G             D/F#",
           "lyrics": "In the ups or downs of life,"
         },
         {
-          "chords": "Em           Asus",
+          "chords": "Em               Asus",
           "lyrics": "He'll be by your side"
         },
         {
-          "chords": "D   A/C#",
+          "chords": "D                 A/C#",
           "lyrics": "Take His hand and trust Him,"
         },
         {
-          "chords": "Bm           Bm/A",
+          "chords": "Bm                Bm/A",
           "lyrics": "He will give life meaning,"
         },
         {
-          "chords": "G      D/F#",
+          "chords": "G                 D/F#",
           "lyrics": "He will fill that void,"
         },
         {
-          "chords": "    Em  Asus D",
+          "chords": "     Em    Asus   D",
           "lyrics": "that mis--- sing  peace"
         }
       ]
@@ -162,15 +159,15 @@
       "label": "Chorus",
       "lines": [
         {
-          "chords": "D/F# G      A/G",
+          "chords": "D/F#    G         A/G",
           "lyrics": "Then He calls and says"
         },
         {
-          "chords": "           D   /D /E /F#",
+          "chords": "          D   /D /E /F#",
           "lyrics": "Come unto Me"
         },
         {
-          "chords": "     G     A/G",
+          "chords": "   G          A/G",
           "lyrics": "Promises that He will"
         },
         {
@@ -178,15 +175,15 @@
           "lyrics": "give me rest…"
         },
         {
-          "chords": "   G",
+          "chords": "        G",
           "lyrics": "Asks me to,"
         },
         {
-          "chords": "F#             Bm Bm/A Bm/G#",
-          "lyrics": "cast all my cares on Him"
+          "chords": "F#                Bm  Bm/A  Bm/G#",
+          "lyrics": "cast all my cares on  Him"
         },
         {
-          "chords": "Em           Asus   D",
+          "chords": "Em                 Asus          D",
           "lyrics": "Jesus, the savior, is my missing Peace."
         }
       ]

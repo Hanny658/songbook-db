@@ -7,15 +7,15 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "D         Asus/C#        G/B",
+                    "chords": "D          Asus/C#            G/B",
                     "lyrics": "You are my strength when I am weak"
                 },
                 {
-                    "chords": "          D/A    D/F#  G",
+                    "chords": "            D/A      D/F#   G",
                     "lyrics": "You are the treasure that I seek"
                 },
                 {
-                    "chords": "           A    D  A",
+                    "chords": "           A   D  A",
                     "lyrics": "You are my all in all"
                 },
                 {
@@ -37,19 +37,19 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "D   A Bm     D/F#",
+                    "chords": "D  A   Bm      D/F#",
                     "lyrics": "Jesus, Lamb of God,"
                 },
                 {
-                    "chords": " G    D      Em  A",
+                    "chords": "   G   D   Em  A",
                     "lyrics": "Worthy is your name"
                 },
                 {
-                    "chords": "D   A  Bm    D/F#",
+                    "chords": "D  A   Bm      D/F#",
                     "lyrics": "Jesus, Lamb of God"
                 },
                 {
-                    "chords": "G      Asus A D",
+                    "chords": "G      Asus  A  D",
                     "lyrics": "Worthy is your name"
                 }
             ]
@@ -59,34 +59,34 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "D         Asus/C#           G/B",
                     "lyrics": "Taking my sin, my cross, my shame"
                 },
                 {
-                    "chords": "",
+                    "chords": "       D/A      D/F#       G",
                     "lyrics": "Rising again, I bless your name"
                 },
                 {
-                    "chords": "",
+                    "chords": "           A   D  A",
                     "lyrics": "You are my all in all"
                 },
                 {
-                    "chords": "",
+                    "chords": "D           Asus/C#           Bm",
                     "lyrics": "When I fall down, you pick me up"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "When I am dry, you fill my cup You"
+                    "chords": "          D/F#             G",
+                    "lyrics": "When I am dry, you fill my cup"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "are my all in all."
+                    "chords": "           A   D  A",
+                    "lyrics": "You are my all in all."
                 }
             ]
         },
         {
             "id": "ending",
-            "label": "Ending",
+            "label": "Repeat",
             "lines": [
                 {
                     "chords": "G      Asus A D",
