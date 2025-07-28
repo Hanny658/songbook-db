@@ -15,15 +15,21 @@ import {
 const app = express();
 app.use(express.json());
 app.use(cors({
-    origin: 'https://cgsongbook.org',   // only main site is allowed
+    origin: [
+    'https://cgsongbook.org'
+    ],
     methods: ['GET','POST','DELETE']
 }));
 
 // ESM __filename/__dirname shims and database dir
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+// Directory where individual song files live
 const SONG_DIR = join(__dirname, '../songdata');
+// Directory where individual user files live
 const USER_DIR = join(__dirname, '../user');
+// Path to the centralized metadata file at project root
+const METADATA_PATH = join(__dirname, '../metadata.json');
 
 //
 // ─── HELPERS ───────────────────────────────────────────────────────────────────
@@ -92,6 +98,21 @@ function listAllSongs(): SongMeta[] {
         });
 }
 
+/** Regenerate metadata.json from every song in songdata/. */
+function updateMetadata(): void {
+    try {
+        const metas = listAllSongs();
+        fs.writeFileSync(
+            METADATA_PATH,
+            JSON.stringify(metas, null, 2),
+            'utf-8'
+        );
+        console.log('🔄 metadata.json updated.');
+    } catch (err) {
+        console.error('❌ Failed to update metadata.json:', err);
+    }
+}
+
 /**
  * Load a user JSON by username.
  * @returns the User object, or null if not found or invalid JSON.
@@ -116,15 +137,15 @@ function loadUser(username: string): User | null {
 
 /**
  * GET /songs
- * Returns an array of { number, title, link } for every song file.
+ * Returns the precomputed metadata.json
  */
 app.get('/songs', (req: Request, res: Response) => {
     try {
-        const list = listAllSongs();
-        console.log(`Listed all songs.`);
+        const raw = fs.readFileSync(METADATA_PATH, 'utf-8');
+        const list: SongMeta[] = JSON.parse(raw);
         res.json(list);
     } catch (err) {
-        console.error(err);
+        console.error('❌ Failed to read metadata.json:', err);
         res.status(500).json({ error: 'Failed to list songs.' });
     }
 });
@@ -168,6 +189,8 @@ app.post('/songs/:number', (req: Request, res: Response) => {
     };
 
     saveSong(num, song);
+    updateMetadata();
+
     console.log(`Added/Updated song No.${num} ${body.title}.`);
     res.json({ message: 'Song saved successfully.'/*, song */ });
 });
@@ -183,12 +206,14 @@ app.delete('/songs/:number', (req: Request, res: Response) => {
     const ok = deleteSong(num);
     if (!ok) return res.status(404).json({ error: 'Song not found.' });
 
-    console.log(`Deleted song No.${num}.`);
+    updateMetadata();
+
+    console.log(`🗑️ Deleted song No.${num}.`);
     res.json({ message: 'Song deleted successfully.' });
 });
 
 /**
- * POST /users/login
+ * POST /user-verify
  * Body: { username: string; password: string }
  * — Returns 200 + { message } if credentials match,
  *   or 401 + { error } otherwise.
@@ -223,7 +248,8 @@ app.post('/user-verify', (req, res) => {
 // ─── START SERVER ───────────────────────────────────────────────────────────────
 //
 
-const PORT = process.env.PORT ?? 3053; // Allow .env set PORT, default 3053
+updateMetadata();                       // Make sure server starts with fresh metadata
+const PORT = process.env.PORT ?? 3053;  // Allow .env set PORT, default 3053
 app.listen(PORT, () => {
     console.log(`🎵  Song DB APIs are lively listening on PORT:${PORT}`);
 });
