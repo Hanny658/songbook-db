@@ -1,6 +1,7 @@
 {
   "title": "Give Them All to Jesus",
   "number": 107,
+  "link": "https://www.youtube.com/watch?v=6k5DKcmKAwI",
   "lyrics": [
     {
       "id": "verse1",
@@ -32,7 +33,7 @@
         },
         {
           "chords": "A7",
-          "lyrics": "And at the feet of Jesus lay"
+          "lyrics": "And at the feet of Jesus"
         },
         {
           "chords": "   D",
@@ -102,6 +103,5 @@
     "chorus",
     "verse2",
     "chorus"
-  ],
-  "link": "https://www.youtube.com/watch?v=6k5DKcmKAwI"
+  ]
 }

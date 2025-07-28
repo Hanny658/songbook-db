@@ -1,0 +1,71 @@
+{
+  "title": "We Have This Hope",
+  "number": 270,
+  "link": "https://youtu.be/V1S-7trRxSo",
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "Ab Eb   Ab   Db   Eb   Ab         Eb Ab",
+          "lyrics": "We have this hope that burns with-in hearts,"
+        },
+        {
+          "chords": "Ab   Eb Ab  Bbm7 Ab  Db Fm  Bb Eb Eb7",
+          "lyrics": "Hope in the com- ing of the Lord."
+        },
+        {
+          "chords": "Ab Eb   Ab   Db    Eb   Ab       Eb      Ab",
+          "lyrics": "We have this faith that Christ a-lone im-parts,"
+        },
+        {
+          "chords": "Bbm   Ab Db  Eb      Db Eb  Ab",
+          "lyrics": "Faith in the promise of His Word."
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "label": "Chorus",
+      "lines": [
+        {
+          "chords": "Eb             Fm",
+          "lyrics": "We believe the time is here,"
+        },
+        {
+          "chords": "Eb7      C7      Fm",
+          "lyrics": "When the nations far and near"
+        },
+        {
+          "chords": "Eb      Ab    Eb  Ab     Eb  Ab",
+          "lyrics": "Shall a-wake, and shout, and sing"
+        },
+        {
+          "chords": "Db    Ab               Ebsus7 Eb7",
+          "lyrics": "Halle-lujah! Christ is King!"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "Ab Eb   Ab   Db   Eb   Ab         Fm Gm7 C",
+          "lyrics": "We have this hope that burns with-in our hearts."
+        },
+        {
+          "chords": "Bbm  Ab Db  Ab  Eb  Db Eb7 Ab",
+          "lyrics": "Hope in the com-ing of the Lord."
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "chorus",
+    "verse2",
+    "chorus"
+  ]
+}
