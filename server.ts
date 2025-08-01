@@ -43,6 +43,13 @@ function songFilePath(number: number): string {
 }
 
 /**
+ * Build the full path to a user
+ */
+function userFilePath(username: string): string {
+    return path.join(USER_DIR, `${username}.json`);
+}
+
+/**
  * Load a song by number using LowDB.
  * @returns the parsed ChristianSong, or null if file not found / invalid
  */
@@ -71,6 +78,25 @@ function saveSong(number: number, song: ChristianSong): void {
     song.number = number;
     db.data = song;
     db.write();
+}
+
+/**
+ * Save a user for updating password
+ */
+function saveUser(username: string, password: string): Boolean {
+    const file = userFilePath(username);
+
+    // Not allowing set password for non-existing user
+    if (!fs.existsSync(file)) return false;
+
+    const adapter = new JSONFileSync<User>(file);
+    const db = new LowSync(adapter, {} as User);
+
+    const newUser : User = {username: username, password: password};
+
+    db.data = newUser;
+    db.write();
+    return true;
 }
 
 /**
@@ -241,6 +267,52 @@ app.post('/user-verify', (req, res) => {
     // 4) Success!
     console.log(`User ${username} just logged in.`);
     return res.status(200).json({ message: 'Login successful.' });
+});
+
+/**
+ * @route   POST /user-update-pwd
+ * @desc    Update a user's password
+ * @body    { username: string, password: string }
+ * @returns JSON response { success: boolean, message: string }
+ */
+app.post("/user-update-pwd", (req: Request, res: Response) => {
+    const { username, password } = req.body;
+
+    // Validate input
+    if (typeof username !== "string" || typeof password !== "string") {
+        return res.status(400).json({
+            success: false,
+            message: "Invalid input: username and password must be valid strings",
+        });
+    }
+    if (username == "" || password == "") {
+        return res.status(400).json({
+            success: false,
+            message: "Invalid input: username and password shall not leave blank",
+        });
+    }
+    if (password.length < 6) {
+        return res.status(400).json({
+            success: false,
+            message: "Password shall be over 6 digits",
+        });
+    }
+
+    // Attempt to update user
+    const success = saveUser(username, password);
+
+    if (success) {
+        console.log(`User ${username}'s password updated.`);
+        return res.json({
+            success: true,
+            message: `Password for user '${username}' updated successfully.`,
+        });
+    } else {
+        return res.status(404).json({
+            success: false,
+            message: `User '${username}' not found.`,
+        });
+    }
 });
 
 
