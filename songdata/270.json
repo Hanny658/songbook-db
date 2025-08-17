@@ -8,8 +8,8 @@
       "label": "Verse 1",
       "lines": [
         {
-          "chords": "Ab Eb   Ab   Db   Eb   Ab         Eb Ab",
-          "lyrics": "We have this hope that burns with-in hearts,"
+          "chords": "Ab Eb   Ab   Db   Eb   Ab         Eb     Ab",
+          "lyrics": "We have this hope that burns with-in our hearts,"
         },
         {
           "chords": "Ab   Eb Ab  Bbm7 Ab  Db Fm  Bb Eb Eb7",
@@ -49,11 +49,11 @@
     },
     {
       "id": "verse2",
-      "label": "Verse 2",
+      "label": "Refrain",
       "lines": [
         {
-          "chords": "Ab Eb   Ab   Db   Eb   Ab         Fm Gm7 C",
-          "lyrics": "We have this hope that burns with-in our hearts."
+          "chords": "Ab Eb   Ab   Db   Eb   Ab         Fm Gm7     C",
+          "lyrics": "We have this hope that burns with-in our our hearts."
         },
         {
           "chords": "Bbm  Ab Db  Ab  Eb  Db Eb7 Ab",
@@ -65,7 +65,6 @@
   "song": [
     "verse1",
     "chorus",
-    "verse2",
-    "chorus"
+    "verse2"
   ]
 }

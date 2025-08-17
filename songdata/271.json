@@ -1,0 +1,181 @@
+{
+  "title": "Here I Am, Lord",
+  "number": 271,
+  "link": "https://youtu.be/cDdniihKBzI?si=EwVz-LOkU56j_Nqj",
+  "lyrics": [
+    {
+      "id": "intro",
+      "label": "Intro",
+      "lines": [
+        {
+          "chords": "G Em Am D",
+          "lyrics": ""
+        }
+      ]
+    },
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "G      Em      Am      D",
+          "lyrics": "I, the Lord of sea and sky,"
+        },
+        {
+          "chords": "G       Em      Am      D",
+          "lyrics": "I have heard my people cry."
+        },
+        {
+          "chords": "G       Em       C        Am",
+          "lyrics": "All who dwell in dark and sin,"
+        },
+        {
+          "chords": "             D   Dsus  D",
+          "lyrics": "My hand will save."
+        },
+        {
+          "chords": "G      Em       Am       D",
+          "lyrics": "I, who made the stars of night,"
+        },
+        {
+          "chords": "G      Em    Am       D",
+          "lyrics": "I will make their darkness bright."
+        },
+        {
+          "chords": "G        Em      C        Am",
+          "lyrics": "Who will bear my light to them?"
+        },
+        {
+          "chords": "             D   Dsus  D",
+          "lyrics": "Whom shall I send?"
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "label": "Chorus",
+      "lines": [
+        {
+          "chords": "       G   Em   Am",
+          "lyrics": "Here I am, Lo   rd."
+        },
+        {
+          "chords": "D     G   Em   Am",
+          "lyrics": "Is it I,   Lo  rd?"
+        },
+        {
+          "chords": "D      G     Em  C              Am  D",
+          "lyrics": "I have heard you calling in the night."
+        },
+        {
+          "chords": "       G  Em   Am        D7     G   Em  Am",
+          "lyrics": "I will go, Lord,"
+        },
+        {
+          "chords": "D       G   Em  Am",
+          "lyrics": "if you lead me."
+        },
+        {
+          "chords": "D      G    Em   Am     D     G  Em  Am  D",
+          "lyrics": "I will hold your people in my   heart."
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "G       Em     Am       D",
+          "lyrics": "I, the Lord of snow and rain,"
+        },
+        {
+          "chords": "G       Em      Am       D",
+          "lyrics": "I have borne my people’s pain."
+        },
+        {
+          "chords": "G        Em       C        Am",
+          "lyrics": "I have wept for love of them."
+        },
+        {
+          "chords": "          D  Dsus D",
+          "lyrics": "They turn away."
+        },
+        {
+          "chords": "G       Em    Am              D",
+          "lyrics": "I will break their hearts of stone,"
+        },
+        {
+          "chords": "G       Em    Am           D",
+          "lyrics": "Give them hearts for love alone."
+        },
+        {
+          "chords": "G      Em       C        Am",
+          "lyrics": "I will speak my words to them."
+        },
+        {
+          "chords": "             D  Dsus D",
+          "lyrics": "Whom shall I send?"
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "G       Em      Am       D",
+          "lyrics": "I, the Lord of wind and flame,"
+        },
+        {
+          "chords": "G       Em   Am           D",
+          "lyrics": "I will tend the poor and lame."
+        },
+        {
+          "chords": "G       Em    C         Am",
+          "lyrics": "I will set a feast for them."
+        },
+        {
+          "chords": "             D  Dsus D",
+          "lyrics": "My hand will save."
+        },
+        {
+          "chords": "G       Em     Am   D",
+          "lyrics": "Finest bread I will provide,"
+        },
+        {
+          "chords": "G       Em    Am     D",
+          "lyrics": "'Til their hearts be satisfied."
+        },
+        {
+          "chords": "G      Em      C       Am",
+          "lyrics": "I will give my life to them."
+        },
+        {
+          "chords": "             D  Dsus D",
+          "lyrics": "Whom shall I send?"
+        }
+      ]
+    },
+    {
+      "id": "71684450",
+      "label": "Repeat",
+      "lines": [
+        {
+          "chords": "",
+          "lyrics": "(Repeat Chorus to end.)"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "intro",
+    "verse1",
+    "chorus",
+    "verse2",
+    "chorus",
+    "verse3",
+    "chorus",
+    "71684450"
+  ]
+}

@@ -1,6 +1,7 @@
 {
   "title": "God Loves You and I",
   "number": 164,
+  "link": "",
   "lyrics": [
     {
       "id": "verse1",
@@ -50,7 +51,7 @@
         },
         {
           "chords": "     C               D/C",
-          "lyrics": "Carrying burdens for all sinners for souls like you and me"
+          "lyrics": "Carrying burdens for all sinners"
         },
         {
           "chords": "Bm                 Em",
@@ -83,16 +84,20 @@
           "lyrics": "Pray unto Him and He will carry you"
         },
         {
-          "chords": "                G               Bm7",
-          "lyrics": "Throughout this time until this day"
+          "chords": "                G",
+          "lyrics": "Throughout this time"
+        },
+        {
+          "chords": "           Bm7",
+          "lyrics": "Until this day"
         },
         {
           "chords": "              Am",
           "lyrics": "His eyes were on"
         },
         {
-          "chords": "  D              G",
-          "lyrics": "the one and only you"
+          "chords": "D              G",
+          "lyrics": "The one and only you"
         }
       ]
     },
@@ -101,11 +106,11 @@
       "label": "Ending",
       "lines": [
         {
-          "chords": "         Am7     D",
+          "chords": "           Am7     D",
           "lyrics": "For this I know my God loves"
         },
         {
-          "chords": "       G",
+          "chords": "        G",
           "lyrics": "you and I"
         }
       ]
@@ -117,6 +122,5 @@
     "chorus",
     "chorus",
     "ending"
-  ],
-  "link": ""
+  ]
 }
