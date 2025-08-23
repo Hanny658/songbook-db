@@ -1,147 +1,79 @@
 {
-  "title": "He's Got the Whole World in His Hands",
-  "number": 1,
-  "link": "https://youtu.be/kDBJNQiugnM",
-  "lyrics": [
-    {
-      "id": "verse1",
-      "label": "Verse 1",
-      "lines": [
+    "title": "Joy is the Flag",
+    "number": 1,
+    "lyrics": [
         {
-          "chords": "              C",
-          "lyrics": "He's got the whole world in His hands"
+            "id": "verse1",
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "chords": "           D",
+                    "lyrics": "Joy is the flag flown high"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "From the castle of my heart"
+                },
+                {
+                    "chords": "         A7",
+                    "lyrics": "From the castle of my heart"
+                },
+                {
+                    "chords": "         D",
+                    "lyrics": "From the castle of my heart"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Joy is the flag flown high"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "From the castle of my heart"
+                },
+                {
+                    "chords": "         A                    D  D7",
+                    "lyrics": "When the King is in residence there"
+                }
+            ]
         },
         {
-          "chords": "              G7",
-          "lyrics": "He's got the whole world in His hands"
-        },
-        {
-          "chords": "              C",
-          "lyrics": "He's got the whole world in His hands"
-        },
-        {
-          "chords": "              G7                 C",
-          "lyrics": "He's got the whole world in His hands"
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "           G",
+                    "lyrics": "So let it fly in the sky"
+                },
+                {
+                    "chords": "                    D",
+                    "lyrics": "Let the whole world know"
+                },
+                {
+                    "chords": "        A7",
+                    "lyrics": "Let the whole world know"
+                },
+                {
+                    "chords": "        D           D7",
+                    "lyrics": "Let the whole world know"
+                },
+                {
+                    "chords": "           G",
+                    "lyrics": "So let it fly in the sky"
+                },
+                {
+                    "chords": "                    D",
+                    "lyrics": "Let the whole world know"
+                },
+                {
+                    "chords": "         A7                   D",
+                    "lyrics": "When the King is in residence there"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": "verse2",
-      "label": "Verse 2",
-      "lines": [
-        {
-          "chords": "             C",
-          "lyrics": "He's got the wind and rain in His hands"
-        },
-        {
-          "chords": "             G7",
-          "lyrics": "He's got the wind and rain in His hands"
-        },
-        {
-          "chords": "             C",
-          "lyrics": "He's got the wind and rain in His hands"
-        },
-        {
-          "chords": "              G7                 C",
-          "lyrics": "He's got the whole world in His hands"
-        }
-      ]
-    },
-    {
-      "id": "verse3",
-      "label": "Verse 3",
-      "lines": [
-        {
-          "chords": "             C",
-          "lyrics": "He's got the little tiny baby in his hands"
-        },
-        {
-          "chords": "             G7",
-          "lyrics": "He's got the little tiny baby in his hands"
-        },
-        {
-          "chords": "             C",
-          "lyrics": "He's got the little tiny baby in his hands"
-        },
-        {
-          "chords": "              G7                 C",
-          "lyrics": "He's got the whole world in His hands"
-        }
-      ]
-    },
-    {
-      "id": "verse4",
-      "label": "Verse 4",
-      "lines": [
-        {
-          "chords": "             C",
-          "lyrics": "He's got you and me, brother, in his hands"
-        },
-        {
-          "chords": "             G7",
-          "lyrics": "He's got you and me, brother, in his hands"
-        },
-        {
-          "chords": "             C",
-          "lyrics": "He's got you and me, brother, in his hands"
-        },
-        {
-          "chords": "              G7                 C",
-          "lyrics": "He's got the whole world in His hands"
-        }
-      ]
-    },
-    {
-      "id": "verse5",
-      "label": "Verse 5",
-      "lines": [
-        {
-          "chords": "             C",
-          "lyrics": "He's got you and me, sister, in his hands"
-        },
-        {
-          "chords": "             G7",
-          "lyrics": "He's got you and me, sister, in his hands"
-        },
-        {
-          "chords": "             C",
-          "lyrics": "He's got you and me, sister, in his hands"
-        },
-        {
-          "chords": "              G7                 C",
-          "lyrics": "He's got the whole world in His hands"
-        }
-      ]
-    },
-    {
-      "id": "verse6",
-      "label": "Verse 6",
-      "lines": [
-        {
-          "chords": "              C",
-          "lyrics": "He's got everybody here, in his hands"
-        },
-        {
-          "chords": "              G7",
-          "lyrics": "He's got everybody here, in his hands"
-        },
-        {
-          "chords": "              C",
-          "lyrics": "He's got everybody here, in his hands"
-        },
-        {
-          "chords": "              G7                 C",
-          "lyrics": "He's got the whole world in His hands"
-        }
-      ]
-    }
-  ],
-  "song": [
-    "verse1",
-    "verse2",
-    "verse3",
-    "verse4",
-    "verse5",
-    "verse6"
-  ]
+    ],
+    "song": [
+        "verse1",
+        "chorus"
+    ],
+    "link": "https://www.youtube.com/watch?v=9NlwX6PScrs"
 }

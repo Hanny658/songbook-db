@@ -1,67 +1,147 @@
 {
-    "title": "He's Got the Whole World",
-    "number": 12,
-    "lyrics": [
+  "title": "He's Got the Whole World in His Hands",
+  "number": 12,
+  "link": "https://youtu.be/kDBJNQiugnM",
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
         {
-            "id": "verse",
-            "label": "Verse",
-            "lines": [
-                {
-                    "chords": "     C",
-                    "lyrics": "He's got the whole world"
-                },
-                {
-                    "chords": "",
-                    "lyrics": "In His hands"
-                },
-                {
-                    "chords": "             G7",
-                    "lyrics": "He's got the whole wide world"
-                },
-                {
-                    "chords": "",
-                    "lyrics": "In His hands"
-                },
-                {
-                    "chords": "             C",
-                    "lyrics": "He's got the whole world"
-                },
-                {
-                    "chords": "",
-                    "lyrics": "In His hands"
-                },
-                {
-                    "chords": "             G7",
-                    "lyrics": "He's got the whole world"
-                },
-                {
-                    "chords": "       C",
-                    "lyrics": "In His hands"
-                }
-            ]
+          "chords": "              C",
+          "lyrics": "He's got the whole world in His hands"
         },
         {
-            "id": "repeat",
-            "label": "Repeat",
-            "lines": [
-                {
-                    "chords": "",
-                    "lyrics": "He's got everybody..."
-                },
-                {
-                    "chords": "",
-                    "lyrics": "He's the tiny baby..."
-                },
-                {
-                    "chords": "",
-                    "lyrics": "He's got you & me..."
-                }
-            ]
+          "chords": "              G7",
+          "lyrics": "He's got the whole world in His hands"
+        },
+        {
+          "chords": "              C",
+          "lyrics": "He's got the whole world in His hands"
+        },
+        {
+          "chords": "              G7                 C",
+          "lyrics": "He's got the whole world in His hands"
         }
-    ],
-    "song": [
-        "verse",
-        "repeat"
-    ],
-    "link": "https://www.youtube.com/watch?v=kDBJNQiugnM"
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "             C",
+          "lyrics": "He's got the wind and rain in His hands"
+        },
+        {
+          "chords": "             G7",
+          "lyrics": "He's got the wind and rain in His hands"
+        },
+        {
+          "chords": "             C",
+          "lyrics": "He's got the wind and rain in His hands"
+        },
+        {
+          "chords": "              G7                 C",
+          "lyrics": "He's got the whole world in His hands"
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "             C",
+          "lyrics": "He's got the little tiny baby in his hands"
+        },
+        {
+          "chords": "             G7",
+          "lyrics": "He's got the little tiny baby in his hands"
+        },
+        {
+          "chords": "             C",
+          "lyrics": "He's got the little tiny baby in his hands"
+        },
+        {
+          "chords": "              G7                 C",
+          "lyrics": "He's got the whole world in His hands"
+        }
+      ]
+    },
+    {
+      "id": "verse4",
+      "label": "Verse 4",
+      "lines": [
+        {
+          "chords": "             C",
+          "lyrics": "He's got you and me, brother, in his hands"
+        },
+        {
+          "chords": "             G7",
+          "lyrics": "He's got you and me, brother, in his hands"
+        },
+        {
+          "chords": "             C",
+          "lyrics": "He's got you and me, brother, in his hands"
+        },
+        {
+          "chords": "              G7                 C",
+          "lyrics": "He's got the whole world in His hands"
+        }
+      ]
+    },
+    {
+      "id": "verse5",
+      "label": "Verse 5",
+      "lines": [
+        {
+          "chords": "             C",
+          "lyrics": "He's got you and me, sister, in his hands"
+        },
+        {
+          "chords": "             G7",
+          "lyrics": "He's got you and me, sister, in his hands"
+        },
+        {
+          "chords": "             C",
+          "lyrics": "He's got you and me, sister, in his hands"
+        },
+        {
+          "chords": "              G7                 C",
+          "lyrics": "He's got the whole world in His hands"
+        }
+      ]
+    },
+    {
+      "id": "verse6",
+      "label": "Verse 6",
+      "lines": [
+        {
+          "chords": "              C",
+          "lyrics": "He's got everybody here, in his hands"
+        },
+        {
+          "chords": "              G7",
+          "lyrics": "He's got everybody here, in his hands"
+        },
+        {
+          "chords": "              C",
+          "lyrics": "He's got everybody here, in his hands"
+        },
+        {
+          "chords": "              G7                 C",
+          "lyrics": "He's got the whole world in His hands"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "verse2",
+    "verse3",
+    "verse4",
+    "verse5",
+    "verse6"
+  ]
 }
