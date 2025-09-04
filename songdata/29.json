@@ -1,95 +1,168 @@
 {
-  "title": "I Like Bananas",
-  "number": 29,
-  "link": "",
-  "lyrics": [
-    {
-      "id": "verse1",
-      "label": "Verse 1",
-      "lines": [
+    "title": "I Like Bananas",
+    "number": 29,
+    "lyrics": [
         {
-          "chords": "G   Em",
-          "lyrics": "I like bananas"
+            "id": "verse1",
+            "label": "Verse",
+            "lines": [
+                {
+                    "chords": "       G",
+                    "lyrics": "I Like Bananas"
+                },
+                {
+                    "chords": "            G",
+                    "lyrics": "I Think The Mangos Are Sweet"
+                },
+                {
+                    "chords": "       G",
+                    "lyrics": "I Like Papayas, (papayas!?)"
+                },
+                {
+                    "chords": "    G                     C",
+                    "lyrics": "But Nothing Can Beat That Sweet"
+                },
+                {
+                    "chords": "D       G",
+                    "lyrics": "Love Of God"
+                }
+            ]
         },
         {
-          "chords": "          C          D",
-          "lyrics": "I think that mangoes are sweet"
+            "id": "verse2",
+            "label": "Verse",
+            "lines": [
+                {
+                    "chords": "           G",
+                    "lyrics": "Well I Was Walking Round In Circles"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Five Miles An Hour"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "Trying To Find My Way Back To my"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Heavenly Father"
+                },
+                {
+                    "chords": "    C",
+                    "lyrics": "The World Tasted Sweet"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Then It Turned Sour"
+                },
+                {
+                    "chords": "D",
+                    "lyrics": "Then I Took Him In And Received His Power!"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "1!  2!  3!"
+                }
+            ]
         },
         {
-          "chords": "    G       Em",
-          "lyrics": "I like papayas (papayas?!)"
+            "id": "verse3",
+            "label": "Verse",
+            "lines": [
+                {
+                    "chords": "       G",
+                    "lyrics": "I Like Bananas"
+                },
+                {
+                    "chords": "            G",
+                    "lyrics": "I Think The Mangos Are Sweet"
+                },
+                {
+                    "chords": "       G",
+                    "lyrics": "I Like Papayas, (papayas!?)"
+                },
+                {
+                    "chords": "    G                     C",
+                    "lyrics": "But Nothing Can Beat That Sweet"
+                },
+                {
+                    "chords": "D       G",
+                    "lyrics": "Love Of God"
+                }
+            ]
         },
         {
-          "chords": "    Am       D",
-          "lyrics": "But nothing can beat"
+            "id": "tempo_change",
+            "label": "Tempo Change",
+            "lines": [
+                {
+                    "chords": "       G       Em",
+                    "lyrics": "I Like Bananas, Ooo"
+                },
+                {
+                    "chords": "            C          D",
+                    "lyrics": "I Think The Mangos Are Sweet"
+                },
+                {
+                    "chords": "       G        Em",
+                    "lyrics": "I Like Papayas, (papayas)"
+                },
+                {
+                    "chords": "    C.          D",
+                    "lyrics": "But Nothing Can Beat"
+                },
+                {
+                    "chords": "                   G   Em   C   D",
+                    "lyrics": "That Sweet Love Of God"
+                },
+                {
+                    "chords": "                   G   Em   C   D",
+                    "lyrics": "That Sweet Love Of God"
+                }
+            ]
         },
         {
-          "chords": "                G",
-          "lyrics": "The sweet love of God"
-        },
-        {
-          "chords": "          Em",
-          "lyrics": "(doowup-ashooby-doowup"
-        },
-        {
-          "chords": "C               D",
-          "lyrics": "ashooby-doowup-doowup)"
+            "id": "verse4",
+            "label": "Verse",
+            "lines": [
+                {
+                    "chords": "           G",
+                    "lyrics": "Well I Was Walking Round In Circles"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Five Miles An Hour"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "Trying To Find My Way Back To my"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Heavenly Father"
+                },
+                {
+                    "chords": "    C",
+                    "lyrics": "The World Tasted Sweet"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Then It Turned Sour"
+                },
+                {
+                    "chords": "D",
+                    "lyrics": "Then I Took Him In And Received His Power!"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": "verse2",
-      "label": "Verse 2",
-      "lines": [
-        {
-          "chords": "E",
-          "lyrics": "I was walking round in circles"
-        },
-        {
-          "chords": "",
-          "lyrics": "5 miles an hour"
-        },
-        {
-          "chords": "",
-          "lyrics": "Trying to find my way back to my"
-        },
-        {
-          "chords": "",
-          "lyrics": "heavenly Father"
-        },
-        {
-          "chords": "    A",
-          "lyrics": "The world tasted sweet"
-        },
-        {
-          "chords": "",
-          "lyrics": "But then it turned sour"
-        },
-        {
-          "chords": "",
-          "lyrics": "I called on Jesus name"
-        },
-        {
-          "chords": "",
-          "lyrics": "And I received all His power"
-        }
-      ]
-    },
-    {
-      "id": "85546617",
-      "label": "Echo",
-      "lines": [
-        {
-          "chords": "",
-          "lyrics": "(the sweet love  of God)"
-        }
-      ]
-    }
-  ],
-  "song": [
-    "verse1",
-    "verse2",
-    "verse1",
-    "85546617"
-  ]
+    ],
+    "song": [
+        "verse1",
+        "verse2",
+        "verse3",
+        "tempo_change",
+        "verse4"
+    ],
+    "link": ""
 }

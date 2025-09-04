@@ -11,22 +11,45 @@
                     "lyrics": "Deep and wide, deep and wide"
                 },
                 {
-                    "chords": "          G                       D7",
-                    "lyrics": "There's a fountain flowing deep & wide"
+                    "chords": "          G                     D7",
+                    "lyrics": "There's a fountain flowing deep and wide"
                 },
                 {
                     "chords": "G              C",
                     "lyrics": "Deep and wide, deep and wide"
                 },
                 {
-                    "chords": "          G        D7             G",
-                    "lyrics": "There's a fountain flowing deep & wide"
+                    "chords": "          G        D7           G",
+                    "lyrics": "There's a fountain flowing deep and wide"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse 2",
+            "lines": [
+                {
+                    "chords": "G              C",
+                    "lyrics": "Wide and deep, wide and deep"
+                },
+                {
+                    "chords": "          G                     D7",
+                    "lyrics": "There's a fountain flowing wide and deep"
+                },
+                {
+                    "chords": "G              C",
+                    "lyrics": "Wide and deep, wide and deep"
+                },
+                {
+                    "chords": "          G        D7           G",
+                    "lyrics": "There's a fountain flowing wide and deep"
                 }
             ]
         }
     ],
     "song": [
-        "verse1"
+        "verse1",
+        "verse2"
     ],
     "link": "https://www.youtube.com/watch?v=CzAW_sF1Jbs"
 }

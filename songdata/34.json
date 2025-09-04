@@ -8,27 +8,27 @@
       "label": "Verse 1",
       "lines": [
         {
-          "chords": "C             Em",
+          "chords": "C                Em",
           "lyrics": "Shake a friend's hand,"
         },
         {
-          "chords": "        F        C",
+          "chords": "        F         C",
           "lyrics": "Shake a hand next to ya"
         },
         {
-          "chords": "F              C       G",
+          "chords": "F                C        G",
           "lyrics": "Shake a friend's hand and sing la la"
         },
         {
-          "chords": "C             Em",
+          "chords": "C                Em",
           "lyrics": "Shake a friend's hand,"
         },
         {
-          "chords": "        F       C",
+          "chords": "        F         C",
           "lyrics": "Shake a hand next to ya"
         },
         {
-          "chords": "F             C        G",
+          "chords": "F                C        G",
           "lyrics": "Shake a friend's hand and sing,"
         }
       ]
@@ -38,19 +38,19 @@
       "label": "Chorus",
       "lines": [
         {
-          "chords": "      C    Em  F  C",
+          "chords": "       C     Em       F   C",
           "lyrics": "Sing a la la la la la laleluia"
         },
         {
-          "chords": "F       C G",
+          "chords": "F           C   G",
           "lyrics": "La la la la laleluia"
         },
         {
-          "chords": "C     Em  F  C",
+          "chords": "C         Em    F   C",
           "lyrics": "La la la, la la laleluia"
         },
         {
-          "chords": "F    C    G C",
+          "chords": "F        C    G   C",
           "lyrics": "La la la la laleleluia"
         }
       ]

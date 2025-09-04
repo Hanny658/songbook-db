@@ -16,7 +16,7 @@ const app = express();
 app.use(express.json());
 app.use(cors({
     origin: [
-    'https://cgsongbook.org'
+    'https://cgsongbook.org', 'http://localhost:3000'  // For dev
     ],
     methods: ['GET','POST','DELETE']
 }));

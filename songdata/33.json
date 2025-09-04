@@ -7,26 +7,44 @@
             "label": "Verse",
             "lines": [
                 {
-                    "chords": "G",
+                    "chords": "    G",
                     "lyrics": "The B-I-B-L-E,"
                 },
                 {
-                    "chords": "       C",
+                    "chords": "     C",
                     "lyrics": "Yes, that's the book for me!"
                 },
                 {
-                    "chords": "    D            D7",
+                    "chords": "        D            D7",
                     "lyrics": "I stand alone on the Word of God,"
                 },
                 {
-                    "chords": "          G",
+                    "chords": "            G",
+                    "lyrics": "The B-I-B-L-E!"
+                }
+            ]
+        },
+        {
+            "id": "repeat",
+            "label": "Repeat",
+            "lines": [
+                {
+                    "chords": "        D            D7",
+                    "lyrics": "I stand alone on the Word of God,"
+                },
+                {
+                    "chords": "            G",
                     "lyrics": "The B-I-B-L-E!"
                 }
             ]
         }
     ],
     "song": [
-        "verse"
+        "verse",
+        "verse",
+        "verse",
+        "repeat",
+        "repeat"
     ],
-    "link": ""
+    "link": "https://www.youtube.com/watch?v=Wg582srC7cg"
 }

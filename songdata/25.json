@@ -7,7 +7,7 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": " G",
+                    "chords": "G",
                     "lyrics": "Standing on the promises"
                 },
                 {
@@ -15,15 +15,15 @@
                     "lyrics": "of Christ my King"
                 },
                 {
-                    "chords": " C",
+                    "chords": "C",
                     "lyrics": "Through eternal ages"
                 },
                 {
-                    "chords": "       G",
+                    "chords": "        G",
                     "lyrics": "Let His praises ring"
                 },
                 {
-                    "chords": " G",
+                    "chords": "G",
                     "lyrics": "Glory in the highest"
                 },
                 {
@@ -31,7 +31,7 @@
                     "lyrics": "I will shout and sing"
                 },
                 {
-                    "chords": "               D7        G",
+                    "chords": "                D7          G",
                     "lyrics": "Standing on the promises of God"
                 }
             ]
@@ -41,11 +41,11 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": " G       C",
+                    "chords": "G         C",
                     "lyrics": "Standing, standing"
                 },
                 {
-                    "chords": " D7",
+                    "chords": "D7",
                     "lyrics": "Standing on the promises"
                 },
                 {
@@ -53,11 +53,11 @@
                     "lyrics": "of God, my Saviour"
                 },
                 {
-                    "chords": " G       C",
+                    "chords": "G         C",
                     "lyrics": "Standing, standing"
                 },
                 {
-                    "chords": "     G              D7      G",
+                    "chords": "    G               D7          G",
                     "lyrics": "I'm standing on the promises of God"
                 }
             ]
@@ -67,19 +67,19 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "G",
                     "lyrics": "Standing on the promises that cannot fail"
                 },
                 {
-                    "chords": "",
+                    "chords": "C                                    G",
                     "lyrics": "When the howling storms of doubt and fear assail"
                 },
                 {
-                    "chords": "",
+                    "chords": "G",
                     "lyrics": "By the living Word of God I shall prevail"
                 },
                 {
-                    "chords": "",
+                    "chords": "                D7          G",
                     "lyrics": "Standing on the promises of God"
                 }
             ]
