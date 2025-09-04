@@ -1,0 +1,165 @@
+{
+  "title": "Savior Like A Shepherd Lead Us",
+  "number": 272,
+  "link": "https://youtu.be/Pco0Y7nIHSQ?si=gvBGrboFrNZCQgPT",
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "D",
+          "lyrics": "Savior, like a shepherd lead us"
+        },
+        {
+          "chords": "A7                       D",
+          "lyrics": "Much we need Thy tender care"
+        },
+        {
+          "chords": "D",
+          "lyrics": "In Thy pleasant pastures feed us"
+        },
+        {
+          "chords": "A7                       D   D7",
+          "lyrics": "For our use Thy folds prepare"
+        },
+        {
+          "chords": "          G              D",
+          "lyrics": "Blessed Jesus, blessed Jesus"
+        },
+        {
+          "chords": "            A7                 D   D7",
+          "lyrics": "Thou hast bought us, Thine we are"
+        },
+        {
+          "chords": "          G              D",
+          "lyrics": "Blessed Jesus, blessed Jesus"
+        },
+        {
+          "chords": "                       A       D",
+          "lyrics": "Thou hast bought us, Thine we are"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "D",
+          "lyrics": "We are Thine, do Thou befriend us"
+        },
+        {
+          "chords": "A7                      D",
+          "lyrics": "Be the guardian of our way"
+        },
+        {
+          "chords": "D",
+          "lyrics": "Keep Thy flock, from sin defend us"
+        },
+        {
+          "chords": "A7                   D    D7",
+          "lyrics": "Seek us when we go astray"
+        },
+        {
+          "chords": "          G              D",
+          "lyrics": "Blessed Jesus, Blessed Jesus"
+        },
+        {
+          "chords": "        A7              D   D7",
+          "lyrics": "Hear O hear us when we pray"
+        },
+        {
+          "chords": "          G              D",
+          "lyrics": "Blessed Jesus, Blessed Jesus"
+        },
+        {
+          "chords": "                A       D",
+          "lyrics": "Hear O hear us when we pray"
+        }
+      ]
+    },
+    {
+      "id": "verse3",
+      "label": "Verse 3",
+      "lines": [
+        {
+          "chords": "D",
+          "lyrics": "Thou hast promised to receive us"
+        },
+        {
+          "chords": "A7                        D",
+          "lyrics": "Poor and sinful though we be"
+        },
+        {
+          "chords": "D",
+          "lyrics": "Thou hast mercy to relieve us"
+        },
+        {
+          "chords": "A7                             D   D7",
+          "lyrics": "Grace to cleanse and pow’r to free"
+        },
+        {
+          "chords": "          G              D",
+          "lyrics": "Blessed Jesus, Blessed Jesus"
+        },
+        {
+          "chords": "      A7              D   D7",
+          "lyrics": "Early let us turn to thee"
+        },
+        {
+          "chords": "          G              D",
+          "lyrics": "Blessed Jesus, Blessed Jesus"
+        },
+        {
+          "chords": "              A       D",
+          "lyrics": "Early let us turn to thee"
+        }
+      ]
+    },
+    {
+      "id": "verse4",
+      "label": "Verse 4",
+      "lines": [
+        {
+          "chords": "D",
+          "lyrics": "Early let us seek Thy favor"
+        },
+        {
+          "chords": "A7                   D",
+          "lyrics": "Early let us do Thy will"
+        },
+        {
+          "chords": "D",
+          "lyrics": "Blessed Lord and only Savior"
+        },
+        {
+          "chords": "A7                        D   D7",
+          "lyrics": "With Thy love our bosoms fill"
+        },
+        {
+          "chords": "          G              D",
+          "lyrics": "Blessed Jesus, Blessed Jesus"
+        },
+        {
+          "chords": "           A7                 D   D7",
+          "lyrics": "Thou hast loved us, love us still"
+        },
+        {
+          "chords": "          G              D",
+          "lyrics": "Blessed Jesus, Blessed Jesus"
+        },
+        {
+          "chords": "                     A        D",
+          "lyrics": "Thou hast loved us, love us still"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "verse2",
+    "verse3",
+    "verse4"
+  ]
+}
