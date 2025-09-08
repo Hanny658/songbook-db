@@ -29,15 +29,15 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "     D  D7   G       Em",
+                    "chords": "     D    D7         G  Em",
                     "lyrics": "O my God, I trust in Thee"
                 },
                 {
-                    "chords": "       D/F#",
+                    "chords": "              D/F#",
                     "lyrics": "Let me not be ashamed"
                 },
                 {
-                    "chords": "     A             Em    A    D",
+                    "chords": "    A              Em      A    D",
                     "lyrics": "Let not my enemies triumph over me"
                 }
             ]
@@ -55,11 +55,11 @@
                     "lyrics": "Do I lift up my soul"
                 },
                 {
-                    "chords": "     Em         A",
+                    "chords": "    Em            A",
                     "lyrics": "Yea let none that wait"
                 },
                 {
-                    "chords": "       D",
+                    "chords": "     D",
                     "lyrics": "Do I lift up my soul"
                 }
             ]
@@ -77,7 +77,7 @@
                     "lyrics": "Do I lift up my soul"
                 },
                 {
-                    "chords": "     Em         A",
+                    "chords": "   Em       A",
                     "lyrics": "On Thee be ashamed"
                 },
                 {

@@ -7,16 +7,16 @@
             "label": "Round 1",
             "lines": [
                 {
-                    "chords": "E  F#m   B  E",
+                    "chords": "E  F#m   B     E",
                     "lyrics": "Father I adore You"
                 },
                 {
-                    "chords": "E    F#m   B7  E",
+                    "chords": "E   F#m     B7     E",
                     "lyrics": "Lay my life before You"
                 },
                 {
-                    "chords": "E F#m7 B7 E",
-                    "lyrics": "How I love You"
+                    "chords": "E  F#m7  B7   E",
+                    "lyrics": "How I    love You"
                 }
             ]
         },
@@ -25,16 +25,16 @@
             "label": "Round 2",
             "lines": [
                 {
-                    "chords": "E  F#m   B  E",
+                    "chords": "E  F#m  B     E",
                     "lyrics": "Jesus I adore You"
                 },
                 {
-                    "chords": "E    F#m   B7  E",
+                    "chords": "E   F#m     B7     E",
                     "lyrics": "Lay my life before You"
                 },
                 {
-                    "chords": "E F#m7 B7 E",
-                    "lyrics": "How I love You"
+                    "chords": "E  F#m7  B7   E",
+                    "lyrics": "How I    love You"
                 }
             ]
         },
@@ -43,22 +43,24 @@
             "label": "Round 3",
             "lines": [
                 {
-                    "chords": "E  F#m   B  E",
+                    "chords": "E  F#m   B     E",
                     "lyrics": "Spirit I adore You"
                 },
                 {
-                    "chords": "E    F#m   B7  E",
+                    "chords": "E   F#m     B7     E",
                     "lyrics": "Lay my life before You"
                 },
                 {
-                    "chords": "E F#m7 B7 E",
-                    "lyrics": "How I love You"
+                    "chords": "E  F#m7  B7   E",
+                    "lyrics": "How I    love You"
                 }
             ]
         }
     ],
     "song": [
-        "round"
+        "round1",
+        "round2",
+        "round3"
     ],
     "link": ""
 }

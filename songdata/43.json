@@ -7,23 +7,23 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": " C              F     C",
+                    "chords": "C                F      C",
                     "lyrics": "Clap your hands, all ye people"
                 },
                 {
-                    "chords": "          F",
+                    "chords": "           F",
                     "lyrics": "Shout unto God"
                 },
                 {
-                    "chords": "     G       C",
+                    "chords": "       G        C",
                     "lyrics": "with a voice of triumph"
                 },
                 {
-                    "chords": "C              F     C",
+                    "chords": "C                F      C",
                     "lyrics": "Clap your hands, all ye people"
                 },
                 {
-                    "chords": "            F          G     C",
+                    "chords": "           F          G        C",
                     "lyrics": "Shout unto God with a voice of praise"
                 }
             ]
@@ -37,11 +37,11 @@
                     "lyrics": "Hosanna, Hosanna,"
                 },
                 {
-                    "chords": "          F",
+                    "chords": "           F",
                     "lyrics": "Shout unto God"
                 },
                 {
-                    "chords": "     G     C",
+                    "chords": "       G        C",
                     "lyrics": "with a voice of triumph"
                 },
                 {
@@ -49,7 +49,7 @@
                     "lyrics": "Praise Him, praise Him"
                 },
                 {
-                    "chords": "            F          G     C",
+                    "chords": "           F          G        C",
                     "lyrics": "Shout unto God with a voice of praise"
                 }
             ]

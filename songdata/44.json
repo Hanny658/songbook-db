@@ -7,11 +7,11 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "  G                D",
+                    "chords": "  G                 D",
                     "lyrics": "I need You Lord, in all I do"
                 },
                 {
-                    "chords": "        Em          Bm",
+                    "chords": "        Em             Bm",
                     "lyrics": "You're always there to see me through"
                 },
                 {
@@ -19,7 +19,7 @@
                     "lyrics": "I can't get by unless"
                 },
                 {
-                    "chords": " D7         G",
+                    "chords": "  D7          G",
                     "lyrics": "I lean on You Lord"
                 }
             ]
@@ -29,27 +29,27 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "    G          D      Em    Bm",
+                    "chords": "    G          D          Em     Bm",
                     "lyrics": "The Lord has a will and I have a need"
                 },
                 {
-                    "chords": "   C        G",
+                    "chords": "   C           G",
                     "lyrics": "To follow that will"
                 },
                 {
-                    "chords": "    C        G",
+                    "chords": "    C         G",
                     "lyrics": "And humbly be still"
                 },
                 {
-                    "chords": "  C       G",
+                    "chords": "   C           G",
                     "lyrics": "To rest in it, nest in it"
                 },
                 {
-                    "chords": " C     G",
+                    "chords": " C       G",
                     "lyrics": "Fully be blessed in it"
                 },
                 {
-                    "chords": "   C     D7        G",
+                    "chords": "   C      D7          G",
                     "lyrics": "Following my Father's will"
                 }
             ]
@@ -59,19 +59,19 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "     G                 D",
                     "lyrics": "Your law of love is in my heart"
                 },
                 {
-                    "chords": "",
+                    "chords": "          Em           Bm",
                     "lyrics": "You wrote it there, it won't depart"
                 },
                 {
-                    "chords": "",
+                    "chords": "   C",
                     "lyrics": "It lights my way and"
                 },
                 {
-                    "chords": "",
+                    "chords": "D7                  G",
                     "lyrics": "Keeps me out of the dark"
                 }
             ]

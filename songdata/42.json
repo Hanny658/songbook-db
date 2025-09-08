@@ -8,7 +8,7 @@
       "label": "Verse 1",
       "lines": [
         {
-          "chords": "E            A     B7",
+          "chords": "E            A      B7",
           "lyrics": "Walking with Jesus, walking every day"
         },
         {
@@ -16,21 +16,21 @@
           "lyrics": "Walking all the way,"
         },
         {
-          "chords": "            A",
+          "chords": "             A",
           "lyrics": "Walking with Jesus,"
         },
         {
-          "chords": " B7               E",
+          "chords": " B7                E",
           "lyrics": "Walking with Jesus alone"
         }
       ]
     },
     {
-      "id": "verse2",
+      "id": "chorus",
       "label": "Chorus",
       "lines": [
         {
-          "chords": "E       E7              A      F#m",
+          "chords": "E      E7               A      F#m",
           "lyrics": "When I remember that He died for me"
         },
         {
@@ -38,7 +38,7 @@
           "lyrics": "I'll never go back anymore"
         },
         {
-          "chords": "E       E7              A      F#m",
+          "chords": "E      E7               A      F#m",
           "lyrics": "When I remember that He died for me"
         },
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "id": "09936507",
+      "id": "verse2",
       "label": "Verse 2",
       "lines": [
         {
@@ -76,7 +76,7 @@
           "lyrics": "Walking in the shadow"
         },
         {
-          "chords": "B7               E",
+          "chords": "B7                        E",
           "lyrics": "Walking everyday, walking all the way"
         },
         {
@@ -96,7 +96,7 @@
   ],
   "song": [
     "verse1",
-    "09936507",
-    "verse2"
+    "verse2",
+    "chorus"
   ]
 }
