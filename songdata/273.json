@@ -1,0 +1,118 @@
+{
+  "title": "Indescribable",
+  "number": 273,
+  "link": "https://youtu.be/5IlVfkY5q54",
+  "lyrics": [
+    {
+      "id": "verse1",
+      "label": "Verse 1",
+      "lines": [
+        {
+          "chords": "Em                                 Dsus/F#     G  G2",
+          "lyrics": "From the highest of heights to the depths of the sea"
+        },
+        {
+          "chords": "Am              Am7/G             F",
+          "lyrics": "Creation's revealing Your majesty"
+        },
+        {
+          "chords": "Em                              Dsus/F#      G   G2",
+          "lyrics": "From the colours of fall to the fragrance of spring"
+        },
+        {
+          "chords": "Am                           Am7/G           F",
+          "lyrics": "Every creature unique in the song that it pipes"
+        },
+        {
+          "chords": "C     D",
+          "lyrics": "All exclaiming"
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "label": "Chorus",
+      "lines": [
+        {
+          "chords": "G                    Dsus",
+          "lyrics": "Indescribable, uncontainable,"
+        },
+        {
+          "chords": "C2                                              Em",
+          "lyrics": "You placed the stars in the sky and You know them by name."
+        },
+        {
+          "chords": "                   C2",
+          "lyrics": "You are amazing God"
+        },
+        {
+          "chords": "G  G2           Dsus",
+          "lyrics": "All powerful, untameable,"
+        },
+        {
+          "chords": "C2                                           Em",
+          "lyrics": "Awestruck we fall to our knees as we humbly proclaim"
+        },
+        {
+          "chords": "G/B             C2",
+          "lyrics": "You are amazing God"
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verse 2",
+      "lines": [
+        {
+          "chords": "Em                                Dsus/F#         G  G2",
+          "lyrics": "Who has told every lightning bolt where it should go"
+        },
+        {
+          "chords": "Am                    Am7/G                 F",
+          "lyrics": "Or seen heavenly storehouses laden with snow"
+        },
+        {
+          "chords": "Em                              Dsus/F#         G  G2",
+          "lyrics": "Who imagined the sun and gives source to its light"
+        },
+        {
+          "chords": "Am                        Am7/G                 F",
+          "lyrics": "Yet conceals it to bring us the coolness of night"
+        },
+        {
+          "chords": "C        D",
+          "lyrics": "None can fathom"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "label": "Outro",
+      "lines": [
+        {
+          "chords": "G                    Dsus",
+          "lyrics": "Incomparable, unchangeable"
+        },
+        {
+          "chords": "C2                                                Em",
+          "lyrics": "You see the depths of my heart and You love me the same"
+        },
+        {
+          "chords": "G/B               C2",
+          "lyrics": "You are amazing God"
+        },
+        {
+          "chords": "                 C2",
+          "lyrics": "You are amazing God"
+        }
+      ]
+    }
+  ],
+  "song": [
+    "verse1",
+    "chorus",
+    "verse2",
+    "chorus",
+    "outro"
+  ]
+}

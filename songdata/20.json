@@ -1,92 +1,157 @@
 {
   "title": "His Sheep Am I",
-  "number": "20",
+  "number": 20,
+  "link": "https://www.youtube.com/watch?v=3uWayGg7TaA",
   "lyrics": [
     {
       "id": "verse1",
       "label": "Verse 1",
       "lines": [
-        { "chords": "         D", 
-          "lyrics": "In God's green pastures feeding" },
-        { "chords": "       A", 
-          "lyrics": "By His cool waters lie" },
-        { "chords": "A7", 
-          "lyrics": "Soft in the evening" },
-        { "chords": "        D", 
-          "lyrics": "Walk my Lord and I" },
-        { "chords": "                     D7", 
-          "lyrics": "All the sheep of His pastures" },
-        { "chords": "        Em", 
-          "lyrics": "Fare so wondrously fine" },
-        { "chords": "D   A7    D  D7", 
-          "lyrics": "His sheep am I" }
+        {
+          "chords": "         D",
+          "lyrics": "In God's green pastures feeding"
+        },
+        {
+          "chords": "       A",
+          "lyrics": "By His cool waters lie"
+        },
+        {
+          "chords": "A7",
+          "lyrics": "Soft in the evening"
+        },
+        {
+          "chords": "        D",
+          "lyrics": "Walk my Lord and I"
+        },
+        {
+          "chords": "                     D7",
+          "lyrics": "All the sheep of His pastures"
+        },
+        {
+          "chords": "        Em",
+          "lyrics": "Fare so wondrously fine"
+        },
+        {
+          "chords": "D   A7    D  D7",
+          "lyrics": "His sheep am I"
+        }
       ]
     },
     {
       "id": "chorus",
       "label": "Chorus",
       "lines": [
-        { "chords": "               G", 
-          "lyrics": "[Girls] Waters cool | [Boys] In the valley" },
-        { "chords": "                 F#m", 
-          "lyrics": "[Girls] Pastures green | [Boys] On the mountain" },
-        { "chords": "               Em                         A7", 
-          "lyrics": "[Girls] In the evening  | [Boys] In the evening" },
-        { "chords": "              D    Em  D7", 
-          "lyrics": "[All] Walk my Lord and I" },
-        { "chords": "                 D", 
-          "lyrics": "[Girls] Dark the night | [Boys] In the valley)" },
-        { "chords": "                  F#m", 
-          "lyrics": "[Girls] Rough the way | [Boys] On the mountain)" },
-        { "chords": "                Em7                   A7", 
-          "lyrics": "[Girls] Step by step | [Boys] Step by step" },
-        { "chords": "                  D", 
-          "lyrics": "[All] My Lord and I" }
+        {
+          "chords": "               G",
+          "lyrics": "[Girls] Waters cool | [Boys] In the valley"
+        },
+        {
+          "chords": "                 F#m",
+          "lyrics": "[Girls] Pastures green | [Boys] On the mountain"
+        },
+        {
+          "chords": "               Em                         A7",
+          "lyrics": "[Girls] In the evening  | [Boys] In the evening"
+        },
+        {
+          "chords": "              D    Em  D7",
+          "lyrics": "[All] Walk my Lord and I"
+        },
+        {
+          "chords": "                 D",
+          "lyrics": "[Girls] Dark the night | [Boys] In the valley"
+        },
+        {
+          "chords": "                  F#m",
+          "lyrics": "[Girls] Rough the way | [Boys] On the mountain"
+        },
+        {
+          "chords": "                Em7                   A7",
+          "lyrics": "[Girls] Step by step | [Boys] Step by step"
+        },
+        {
+          "chords": "                  D",
+          "lyrics": "[All] My Lord and I"
+        }
       ]
     },
     {
       "id": "verse2",
       "label": "Verse 2",
       "lines": [
-        { "chords": "           D", 
-          "lyrics": "Surely goodness and mercy" },
-        { "chords": "      A", 
-          "lyrics": "Ever shall follow me" },
-        { "chords": "A7", 
-          "lyrics": "All thru the days" },
-        { "chords": "            D", 
-          "lyrics": "The Lord my shepherd be" },
-        { "chords": "       D7", 
-          "lyrics": "In the house of the Lord" },
-        { "chords": "     Em", 
-          "lyrics": "I forever will be" },
-        { "chords": "D   A7    D  D7", 
-          "lyrics": "His sheep am I" }
+        {
+          "chords": "           D",
+          "lyrics": "Surely goodness and mercy"
+        },
+        {
+          "chords": "      A",
+          "lyrics": "Ever shall follow me"
+        },
+        {
+          "chords": "A7",
+          "lyrics": "All thru the days"
+        },
+        {
+          "chords": "            D",
+          "lyrics": "The Lord my shepherd be"
+        },
+        {
+          "chords": "       D7",
+          "lyrics": "In the house of the Lord"
+        },
+        {
+          "chords": "     Em",
+          "lyrics": "I forever will be"
+        },
+        {
+          "chords": "D   A7    D  D7",
+          "lyrics": "His sheep am I"
+        }
       ]
     },
     {
       "id": "ending",
       "label": "Chorus (switch)",
       "lines": [
-        { "chords": "              G", 
-          "lyrics": "[Boys] Waters cool | [Girls] In the valley" },
-        { "chords": "                F#m", 
-          "lyrics": "[Boys] Pastures green | [Girls] On the mountain" },
-        { "chords": "              Em                        A7", 
-          "lyrics": "[Boys] In the evening  | [Girls] In the evening" },
-        { "chords": "              D    Em  D7", 
-          "lyrics": "[All] Walk my Lord and I" },
-        { "chords": "                D", 
-          "lyrics": "[Boys] Dark the night | [Girls] In the valley)" },
-        { "chords": "                 F#m", 
-          "lyrics": "[Boys] Rough the way | [Girls] On the mountain)" },
-        { "chords": "               Em7                    A7", 
-          "lyrics": "[Boys] Step by step | [Girls] Step by step" },
-        { "chords": "                       D", 
-          "lyrics": "[All] Walk my Lord and I" }
+        {
+          "chords": "              G",
+          "lyrics": "[Boys] Waters cool | [Girls] In the valley"
+        },
+        {
+          "chords": "                F#m",
+          "lyrics": "[Boys] Pastures green | [Girls] On the mountain"
+        },
+        {
+          "chords": "              Em                        A7",
+          "lyrics": "[Boys] In the evening  | [Girls] In the evening"
+        },
+        {
+          "chords": "              D    Em  D7",
+          "lyrics": "[All] Walk my Lord and I"
+        },
+        {
+          "chords": "                D",
+          "lyrics": "[Boys] Dark the night | [Girls] In the valley"
+        },
+        {
+          "chords": "                 F#m",
+          "lyrics": "[Boys] Rough the way | [Girls] On the mountain"
+        },
+        {
+          "chords": "               Em7                    A7",
+          "lyrics": "[Boys] Step by step | [Girls] Step by step"
+        },
+        {
+          "chords": "                       D",
+          "lyrics": "[All] My Lord and I"
+        }
       ]
     }
   ],
-  "song": ["verse1", "chorus", "verse2", "ending"],
-  "link": "https://www.youtube.com/watch?v=3uWayGg7TaA"
+  "song": [
+    "verse1",
+    "chorus",
+    "verse2",
+    "ending"
+  ]
 }
