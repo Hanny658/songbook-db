@@ -8,20 +8,32 @@
       "label": "Verse 1",
       "lines": [
         {
-          "chords": "Em                                 Dsus/F#     G  G2",
-          "lyrics": "From the highest of heights to the depths of the sea"
+          "chords": "Em",
+          "lyrics": "From the highest of heights"
         },
         {
-          "chords": "Am              Am7/G             F",
+          "chords": "       Dsus/F#   G   G2",
+          "lyrics": "To the depths of the sea"
+        },
+        {
+          "chords": "Am              Am7/G           F",
           "lyrics": "Creation's revealing Your majesty"
         },
         {
-          "chords": "Em                              Dsus/F#      G   G2",
-          "lyrics": "From the colours of fall to the fragrance of spring"
+          "chords": "Em",
+          "lyrics": "From the colours of fall"
         },
         {
-          "chords": "Am                           Am7/G           F",
-          "lyrics": "Every creature unique in the song that it pipes"
+          "chords": "       Dsus/F#      G   G2",
+          "lyrics": "To the fragrance of spring"
+        },
+        {
+          "chords": "Am                          Am7/G",
+          "lyrics": "Every creature unique in the song"
+        },
+        {
+          "chords": "        F",
+          "lyrics": "That it sings"
         },
         {
           "chords": "C     D",
@@ -34,12 +46,16 @@
       "label": "Chorus",
       "lines": [
         {
-          "chords": "G                    Dsus",
-          "lyrics": "Indescribable, uncontainable,"
+          "chords": "G                   Dsus",
+          "lyrics": "Indescribable, Uncontainable,"
         },
         {
-          "chords": "C2                                              Em",
-          "lyrics": "You placed the stars in the sky and You know them by name."
+          "chords": "C2",
+          "lyrics": "You placed the stars in the sky"
+        },
+        {
+          "chords": "             Em",
+          "lyrics": "And You know them by name"
         },
         {
           "chords": "                   C2",
@@ -47,11 +63,15 @@
         },
         {
           "chords": "G  G2           Dsus",
-          "lyrics": "All powerful, untameable,"
+          "lyrics": "All powerful, Untameable,"
         },
         {
-          "chords": "C2                                           Em",
-          "lyrics": "Awestruck we fall to our knees as we humbly proclaim"
+          "chords": "C2",
+          "lyrics": "Awestruck we fall to our knees"
+        },
+        {
+          "chords": "             Em",
+          "lyrics": "As we humbly proclaim"
         },
         {
           "chords": "G/B             C2",
@@ -64,20 +84,36 @@
       "label": "Verse 2",
       "lines": [
         {
-          "chords": "Em                                Dsus/F#         G  G2",
-          "lyrics": "Who has told every lightning bolt where it should go"
+          "chords": "Em",
+          "lyrics": "Who has told every lightning bolt"
         },
         {
-          "chords": "Am                    Am7/G                 F",
-          "lyrics": "Or seen heavenly storehouses laden with snow"
+          "chords": "Dsus/F#         G  G2",
+          "lyrics": "Where it should go"
         },
         {
-          "chords": "Em                              Dsus/F#         G  G2",
-          "lyrics": "Who imagined the sun and gives source to its light"
+          "chords": "Am                    Am7/G",
+          "lyrics": "Or seen heavenly storehouses"
         },
         {
-          "chords": "Am                        Am7/G                 F",
-          "lyrics": "Yet conceals it to bring us the coolness of night"
+          "chords": "           F",
+          "lyrics": "Laden with snow"
+        },
+        {
+          "chords": "Em",
+          "lyrics": "Who imagined the sun"
+        },
+        {
+          "chords": "          Dsus/F#         G  G2",
+          "lyrics": "And gives source to its light"
+        },
+        {
+          "chords": "Am",
+          "lyrics": "Yet conceals it to bring us"
+        },
+        {
+          "chords": "Am7/G           F",
+          "lyrics": "the coolness of night"
         },
         {
           "chords": "C        D",
@@ -94,15 +130,19 @@
           "lyrics": "Incomparable, unchangeable"
         },
         {
-          "chords": "C2                                                Em",
-          "lyrics": "You see the depths of my heart and You love me the same"
+          "chords": "C2",
+          "lyrics": "You see the depths of my heart"
         },
         {
-          "chords": "G/B               C2",
+          "chords": "                    Em",
+          "lyrics": "And You love me the same"
+        },
+        {
+          "chords": "G/B             C2",
           "lyrics": "You are amazing God"
         },
         {
-          "chords": "                 C2",
+          "chords": "                C2",
           "lyrics": "You are amazing God"
         }
       ]
