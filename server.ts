@@ -2,15 +2,15 @@ import express, { Request, Response } from 'express';
 import fs from 'fs';
 import path, { dirname, join } from 'path';
 import cors from 'cors';
-import { LowSync } from 'lowdb';
-import { JSONFileSync } from 'lowdb/node';
+import { LowSync, Low } from 'lowdb';
+import { JSONFile, JSONFileSync } from 'lowdb/node';
 import { fileURLToPath } from 'url';
 import {
     ChristianSong,
     SongMeta,
     User
 } from './types.js';
-
+import { bible_translate_versions } from "./bibledata/index.js";
 
 const app = express();
 app.use(express.json());
@@ -30,6 +30,27 @@ const SONG_DIR = join(__dirname, '../songdata');
 const USER_DIR = join(__dirname, '../user');
 // Path to the centralized metadata file at project root
 const METADATA_PATH = join(__dirname, '../metadata.json');
+
+// Cache storage
+const cachedTranslations: Record<string, any> = {};
+// Lazy load + cache
+async function loadTranslationDB(translation: string) {
+    if (!bible_translate_versions.includes(translation)) {
+        throw new Error(
+            `Invalid translation. Supported: ${bible_translate_versions.join(", ")}`
+        );
+    }
+
+    if (!cachedTranslations[translation]) {
+        const file = path.join(__dirname, `../bibledata/${translation}.json`);
+        const adapter = new JSONFile<Record<string, any>>(file);
+        const db = new Low(adapter, {});
+        await db.read();
+        cachedTranslations[translation] = db.data;
+    }
+
+    return cachedTranslations[translation];
+}
 
 //
 // ─── HELPERS ───────────────────────────────────────────────────────────────────
@@ -312,6 +333,91 @@ app.post("/user-update-pwd", (req: Request, res: Response) => {
             success: false,
             message: `User '${username}' not found.`,
         });
+    }
+});
+
+// GET API for the Bible. e.g. /bible-verse?translation=KJV&book=Genesis&chapter=1&verse_start=1&verse_end=5
+app.get("/bible-verse", async (req, res) => {
+    try {
+        const translation = String(req.query.translation || "");
+        const book = String(req.query.book || "");
+        const chapter = String(req.query.chapter || "");
+        const verseStart = req.query.verse_start
+            ? parseInt(String(req.query.verse_start), 10)
+            : null;
+        const verseEnd = req.query.verse_end
+            ? parseInt(String(req.query.verse_end), 10)
+            : null;
+
+        // Load DB (shall be cached after first time so it's quickk)
+        let data;
+        try {
+            data = await loadTranslationDB(translation);
+        } catch (err: any) {
+            return res.status(400).json({ error: err.message });
+        }
+
+        // Validate book name
+        if (!data[book]) {
+            return res.status(400).json({ error: `Invalid book name: ${book}` });
+        }
+
+        const chapterData = data[book][chapter];
+        if (!chapterData) {
+            return res
+                .status(400)
+                .json({ error: `Chapter ${chapter} not found in ${book}` });
+        }
+
+        const verseNumbers = Object.keys(chapterData)
+            .map(Number)
+            .sort((a, b) => a - b);
+
+        // Case 1: No verse_start & verse_end → return full chapter
+        if (!verseStart && !verseEnd) {
+            console.log(`GET - Full Bible Chapter ${book} ${chapter}.`);
+            return res.json(chapterData);
+        }
+
+        // Normalize verseStart/End
+        let start = verseStart ?? verseEnd; // if only one is provided
+        let end = verseEnd ?? verseStart;
+
+        if (!start || start < 1 || !end || end < 1) {
+            return res
+                .status(400)
+                .json({ error: "Invalid verse start / verse end provided" });
+        }
+
+        // Swap if end < start
+        if (end < start) {
+            [start, end] = [end, start];
+        }
+
+        // Limit end to actual available verses
+        const maxVerse = Math.max(...verseNumbers);
+        if (end > maxVerse) {
+            end = maxVerse;
+        }
+
+        // Collect result
+        const result: Record<string, string> = {};
+        for (let v = start; v <= end; v++) {
+            if (chapterData[v]) {
+                result[v] = chapterData[v];
+            }
+        }
+
+        if (Object.keys(result).length === 0) {
+            return res.status(400).json({
+                error: `Verses ${start}-${end} not found in ${book} ${chapter}`,
+            });
+        }
+        
+        console.log(`GET - ${book} ${chapter}: ${start}-${end}.`);
+        return res.json(result);
+    } catch (err: any) {
+        return res.status(500).json({ error: err.message });
     }
 });
 
