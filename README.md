@@ -172,6 +172,72 @@ DELETE /songs/:number
   – `400` Invalid number
   – `404` Song not found
 
+### 5. Verify User Credentials
+
+```
+POST user-verify
+Content-Type: application/json
+```
+
+* **Body** – user login details
+
+  ```jsonc
+  {
+    "username": "Hanny",
+    "password": "Hanny123"
+  }
+  ```
+* **Response**
+
+  ```json
+  { "message": "Login successfully." }
+  ```
+* **Errors**
+  – `400` Request failed - `401` Unauthorised
+
+### 6. Update User Password
+
+```
+POST /user-update-pwd
+Content-Type: application/json
+```
+
+* **Body**
+
+  ```jsonc
+  {
+    "username": "Hanny",
+    "password": "Hanny12345"
+  }
+  ```
+* **Response**
+
+  ```json
+  { "message": "Password for user '${username}' updated successfully." }
+  ```
+* **Errors**
+  – `400` Request failed - `404` - User not found
+
+### 7. Finding a Scripture text
+
+```
+GET /bible-verse?translation=[KJV/NKJV/NIV]&book=[book name]&chapter=[number]&verse_start=[num]&verse_end=[num]
+```
+`verse_start` and `verse_end` are optional, leaving both void to get a full chapter (or start = 1, end = 999 works, but not recommended lol), or fill only one of them to get that verse.
+
+* **Response**
+
+  ``` GET http://some-localhost/bible-verse?translation=NKJV&book=Genesis&chapter=1&verse_start=1&verse_end=3 ```
+  ```json
+  {
+      "1": "In the beginning God created the heavens and the earth.",
+      "2": "The earth was without form, and void; and darkness was on the face of the deep. And the Spirit of God was hovering over the face of the waters.",
+      "3": "Then God said, “Let there be light”; and there was light."
+  }
+  ```
+* **Errors**
+  – `400` Params are not valid
+
 ---
 
 ## 🎨 Data Model
