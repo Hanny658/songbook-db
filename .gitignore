@@ -140,3 +140,6 @@ vite.config.ts.timestamp-*
 
 # User DB not uploaded, maintained local
 user/
+
+# ignore metadata.json as it reloads everytime when service starts
+metadata.json
