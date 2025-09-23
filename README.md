@@ -31,6 +31,15 @@ your-project/
 │   ├── 1.json
 │   ├── 2.json
 │   └── …
+├── bibledata/                # JSON files: \[translation].json
+│   ├── index.ts              # index for the translation contained
+│   ├── KJV.json
+│   ├── NIV.json
+│   └── …
+├── user/                     # JSON files: \[name].json, private to each deploy
+│   ├── David.json
+│   ├── Joshua.json
+│   └── …
 ├── server.ts            # Express app + route definitions
 └── types.ts             # TS interfaces (ChristianSong, SongMeta, etc.)
 
