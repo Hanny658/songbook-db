@@ -7,19 +7,19 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "A                   D/A",
+                    "chords": "A                       D/A",
                     "lyrics": "Have you a heart that's weary"
                 },
                 {
-                    "chords": "A        F#m   Bm7 E",
+                    "chords": "A         F#m     Bm7 E",
                     "lyrics": "Tending a load of care"
                 },
                 {
-                    "chords": "A                 D/A",
+                    "chords": "A                     D/A",
                     "lyrics": "Are you a soul that's seeking"
                 },
                 {
-                    "chords": "A           Esus       A",
+                    "chords": "A             Esus       A",
                     "lyrics": "Rest from the burden you bear"
                 }
             ]
@@ -29,23 +29,23 @@
             "label": "Chorus",
             "lines": [
                 {
-                    "chords": "       E   E7     A",
-                    "lyrics": "Do you know ...  my Jesus"
+                    "chords": "       E     E7               A",
+                    "lyrics": "Do you know (Do you know)  my Jesus"
                 },
                 {
-                    "chords": "       E   E7      A",
-                    "lyrics": "Do you know ...  my friend"
+                    "chords": "       E     E7               A",
+                    "lyrics": "Do you know (Do you know)  my friend"
                 },
                 {
-                    "chords": "        A          D   Bm",
-                    "lyrics": "Have you heard,.. He loves you"
+                    "chords": "         A                      D        Bm",
+                    "lyrics": "Have you heard (have you heard) He loves you"
                 },
                 {
-                    "chords": "        A/E    E7",
+                    "chords": "         A/E     E7",
                     "lyrics": "And that He will abide"
                 },
                 {
-                    "chords": "       A",
+                    "chords": "         A",
                     "lyrics": "Till the end"
                 }
             ]
@@ -55,19 +55,19 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "A                      D/A",
                     "lyrics": "Where is your heart, O pilgrim"
                 },
                 {
-                    "chords": "",
+                    "chords": "A         F#m        Bm7 E",
                     "lyrics": "What does your light reveal"
                 },
                 {
-                    "chords": "",
+                    "chords": "A                       D/A",
                     "lyrics": "Who hears your call for comfort"
                 },
                 {
-                    "chords": "",
+                    "chords": "A               Esus       A",
                     "lyrics": "When naught but sorrow you feel"
                 }
             ]
@@ -77,19 +77,19 @@
             "label": "Verse 3",
             "lines": [
                 {
-                    "chords": "",
+                    "chords": "A                 D/A",
                     "lyrics": "Who knows your disappointment"
                 },
                 {
-                    "chords": "",
+                    "chords": "A         F#m       Bm7 E",
                     "lyrics": "Who hears each time you cry"
                 },
                 {
-                    "chords": "",
+                    "chords": "A                    D/A",
                     "lyrics": "Who understands your heartaches"
                 },
                 {
-                    "chords": "",
+                    "chords": "A             Esus             A",
                     "lyrics": "Who dries the tears from your eyes"
                 }
             ]
