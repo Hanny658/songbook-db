@@ -1,0 +1,149 @@
+{
+    "title": "One Day at a Time",
+    "number": 274,
+    "lyrics": [
+        {
+            "id": "verse1",
+            "label": "Verse",
+            "lines": [
+                {
+                    "chords": "         G                D",
+                    "lyrics": "I'm only human I'm just a woman"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Help me believe in what I could be"
+                },
+                {
+                    "chords": "               G",
+                    "lyrics": "And all that I am"
+                },
+                {
+                    "chords": "D           G       G7         C",
+                    "lyrics": "Show me the stairway I have to climb"
+                },
+                {
+                    "chords": "            G                D",
+                    "lyrics": "Lord for my sake teach me to take"
+                },
+                {
+                    "chords": "             G   C G",
+                    "lyrics": "One day at a time"
+                }
+            ]
+        },
+        {
+            "id": "chorus_full_g",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "             C",
+                    "lyrics": "One day at a time sweet Jesus"
+                },
+                {
+                    "chords": "                           G",
+                    "lyrics": "That's all I'm asking from you"
+                },
+                {
+                    "chords": "                 D",
+                    "lyrics": "Just give me the strength"
+                },
+                {
+                    "chords": "                              G",
+                    "lyrics": "To do everyday what I have to do"
+                },
+                {
+                    "chords": "            C",
+                    "lyrics": "Yesterday's gone sweet Jesus"
+                },
+                {
+                    "chords": "                          G",
+                    "lyrics": "And tomorrow may never be mine"
+                },
+                {
+                    "chords": "             D",
+                    "lyrics": "Lord help me today show me the way"
+                },
+                {
+                    "chords": "             G   C G D",
+                    "lyrics": "One day at a time"
+                }
+            ]
+        },
+        {
+            "id": "verse2",
+            "label": "Verse",
+            "lines": [
+                {
+                    "chords": "         G                            D",
+                    "lyrics": "Do you remember when you walked among men"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Well Jesus you know if you're looking below"
+                },
+                {
+                    "chords": "                    G",
+                    "lyrics": "It's worse now than then"
+                },
+                {
+                    "chords": "D            G      G7             C",
+                    "lyrics": "Cheating and stealing violence and crime"
+                },
+                {
+                    "chords": "          G                D",
+                    "lyrics": "So for my sake teach me to take"
+                },
+                {
+                    "chords": "             G    C G E A",
+                    "lyrics": "One day at a time"
+                }
+            ]
+        },
+        {
+            "id": "chorus_full_a",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "             D",
+                    "lyrics": "One day at a time sweet Jesus"
+                },
+                {
+                    "chords": "                           A",
+                    "lyrics": "That's all I'm asking from you"
+                },
+                {
+                    "chords": "                 E",
+                    "lyrics": "Just give me the strength"
+                },
+                {
+                    "chords": "                              A",
+                    "lyrics": "To do everyday what I have to do"
+                },
+                {
+                    "chords": "            D",
+                    "lyrics": "Yesterday's gone sweet Jesus"
+                },
+                {
+                    "chords": "                          A",
+                    "lyrics": "And tomorrow may never be mine"
+                },
+                {
+                    "chords": "             E",
+                    "lyrics": "Lord help me today show me the way"
+                },
+                {
+                    "chords": "             A  D  A E A",
+                    "lyrics": "One day at a time"
+                }
+            ]
+        }
+    ],
+    "song": [
+        "verse1",
+        "chorus_full_g",
+        "verse2",
+        "chorus_full_a"
+    ],
+    "link": "https://www.youtube.com/watch?v=llqNL_hBwKc"
+}
