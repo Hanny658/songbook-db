@@ -1,1 +1,1 @@
-export const bible_translate_versions = ["KJV", "NKJV", "NIV"];
+export const bible_translate_versions = ["KJV", "NET", "NKJV", "NIV"];
