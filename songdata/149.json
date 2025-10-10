@@ -67,35 +67,35 @@
       "label": "Verse 2",
       "lines": [
         {
-          "chords": "",
+          "chords": "C",
           "lyrics": "Every step is getting brighter"
         },
         {
-          "chords": "",
+          "chords": "C7     F               C",
           "lyrics": "As the golden stairs I climb"
         },
         {
-          "chords": "",
+          "chords": "C7    F                C",
           "lyrics": "Every burden's getting lighter"
         },
         {
-          "chords": "",
+          "chords": "      D7             G",
           "lyrics": "Every cloud is silverlined"
         },
         {
-          "chords": "",
+          "chords": "          C",
           "lyrics": "There the sun is always shining"
         },
         {
-          "chords": "",
+          "chords": "C7       F             C",
           "lyrics": "There no tear will dim the eye"
         },
         {
-          "chords": "",
+          "chords": "C7     F             C",
           "lyrics": "At the ending of the rainbow"
         },
         {
-          "chords": "",
+          "chords": "          G         G7        C",
           "lyrics": "Where the mountains touch the sky"
         }
       ]
@@ -105,35 +105,35 @@
       "label": "Verse 3",
       "lines": [
         {
-          "chords": "",
+          "chords": "C",
           "lyrics": "I don't know about tomorrow"
         },
         {
-          "chords": "",
+          "chords": "C7     F             C",
           "lyrics": "It may bring me poverty"
         },
         {
-          "chords": "",
+          "chords": "C7      F                 C",
           "lyrics": "But the One who feeds the sparrow"
         },
         {
-          "chords": "",
+          "chords": "       D7                G",
           "lyrics": "Is the One who stands by me"
         },
         {
-          "chords": "",
+          "chords": "        C",
           "lyrics": "And the path that be my portion"
         },
         {
-          "chords": "",
+          "chords": "C7     F                 C",
           "lyrics": "May be thru the flame or flood"
         },
         {
-          "chords": "",
+          "chords": "C7       F              C",
           "lyrics": "But His presence goes before me"
         },
         {
-          "chords": "",
+          "chords": "        G       G7       C",
           "lyrics": "And I'm covered with His blood"
         }
       ]
@@ -147,5 +147,6 @@
     "verse3",
     "chorus"
   ],
-  "link": "https://www.youtube.com/watch?v=dNN1Z342Iao"
+  "link": "https://www.youtube.com/watch?v=dNN1Z342Iao",
+  "verse": "Matthew 6:34"
 }
