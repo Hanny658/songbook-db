@@ -2,12 +2,14 @@
   {
     "number": 1,
     "title": "Joy is the Flag",
-    "link": "https://www.youtube.com/watch?v=9NlwX6PScrs"
+    "link": "https://www.youtube.com/watch?v=9NlwX6PScrs",
+    "verse": "Romans 14:17"
   },
   {
     "number": 10,
     "title": "Therefore the Redeemed",
-    "link": "https://www.youtube.com/watch?v=bFOdKTM0INc"
+    "link": "https://www.youtube.com/watch?v=bFOdKTM0INc",
+    "verse": "Isaiah 51:11"
   },
   {
     "number": 100,
@@ -311,7 +313,8 @@
   {
     "number": 16,
     "title": "Rejoice in the Lord Always",
-    "link": "https://www.youtube.com/watch?v=hzyckxqXoZ4"
+    "link": "https://www.youtube.com/watch?v=hzyckxqXoZ4",
+    "verse": "Philippians 4:4"
   },
   {
     "number": 160,
@@ -409,7 +412,8 @@
   },
   {
     "number": 18,
-    "title": "The Trees of the Field"
+    "title": "The Trees of the Field",
+    "verse": "Isaiah 55:12"
   },
   {
     "number": 180,
@@ -508,12 +512,14 @@
   {
     "number": 2,
     "title": "I Will Enter His Gates",
-    "link": "https://www.youtube.com/watch?v=9kgQNT6MIIw"
+    "link": "https://www.youtube.com/watch?v=9kgQNT6MIIw",
+    "verse": "Psalm 100:4"
   },
   {
     "number": 20,
     "title": "His Sheep Am I",
-    "link": "https://www.youtube.com/watch?v=3uWayGg7TaA"
+    "link": "https://www.youtube.com/watch?v=3uWayGg7TaA",
+    "verse": "Psalm 100:3"
   },
   {
     "number": 200,
@@ -559,7 +565,8 @@
   {
     "number": 21,
     "title": "Because He Lives",
-    "link": "https://www.youtube.com/watch?v=bVTmh9DcOPc"
+    "link": "https://www.youtube.com/watch?v=bVTmh9DcOPc",
+    "verse": "John 14:19"
   },
   {
     "number": 210,
@@ -664,7 +671,8 @@
   {
     "number": 23,
     "title": "In His Time",
-    "link": "https://www.youtube.com/watch?v=aJeNUlNY7Iw"
+    "link": "https://www.youtube.com/watch?v=aJeNUlNY7Iw",
+    "verse": "Ecclesiastes 3:11"
   },
   {
     "number": 230,
@@ -763,7 +771,8 @@
   },
   {
     "number": 25,
-    "title": "Standing on the Promises"
+    "title": "Standing on the Promises",
+    "verse": "2 Corinthians 1:20"
   },
   {
     "number": 250,
@@ -814,7 +823,8 @@
   {
     "number": 26,
     "title": "Seek Ye First",
-    "link": "https://www.youtube.com/watch?v=EsBpM9IcBts"
+    "link": "https://www.youtube.com/watch?v=EsBpM9IcBts",
+    "verse": "Matthew 6:33"
   },
   {
     "number": 260,
@@ -865,7 +875,8 @@
   {
     "number": 27,
     "title": "Thy Word",
-    "link": "https://www.youtube.com/watch?v=a6LC8cu03Ig"
+    "link": "https://www.youtube.com/watch?v=a6LC8cu03Ig",
+    "verse": "Psalm 119:105"
   },
   {
     "number": 270,
@@ -903,7 +914,8 @@
   {
     "number": 3,
     "title": "From the Rising of the Sun",
-    "link": "https://www.youtube.com/watch?v=lfgTKWqa1wQ"
+    "link": "https://www.youtube.com/watch?v=lfgTKWqa1wQ",
+    "verse": "Psalm 113:3"
   },
   {
     "number": 30,
@@ -912,7 +924,8 @@
   {
     "number": 31,
     "title": "With Christ in the Vessel",
-    "link": "https://www.youtube.com/watch?v=Wu0amRAzKjo"
+    "link": "https://www.youtube.com/watch?v=Wu0amRAzKjo",
+    "verse": "Mark 4:35-41"
   },
   {
     "number": 32,
@@ -931,7 +944,8 @@
   {
     "number": 35,
     "title": "He's Able",
-    "link": "https://www.youtube.com/watch?v=KZuSqKOZQbQ"
+    "link": "https://www.youtube.com/watch?v=KZuSqKOZQbQ",
+    "verse": "Ephesians 3:20"
   },
   {
     "number": 36,
@@ -940,7 +954,8 @@
   },
   {
     "number": 37,
-    "title": "God Told Noah"
+    "title": "God Told Noah",
+    "verse": "Genesis 6:13"
   },
   {
     "number": 38,
@@ -949,7 +964,8 @@
   {
     "number": 39,
     "title": "Do You Love Jesus / We Love Him",
-    "link": "https://www.youtube.com/watch?v=4MrkGuDRyPA"
+    "link": "https://www.youtube.com/watch?v=4MrkGuDRyPA",
+    "verse": "John 21:15"
   },
   {
     "number": 4,
@@ -962,7 +978,8 @@
   },
   {
     "number": 41,
-    "title": "In the Name of Jesus"
+    "title": "In the Name of Jesus",
+    "verse": "Philippians 2:10"
   },
   {
     "number": 42,
@@ -971,7 +988,8 @@
   },
   {
     "number": 43,
-    "title": "Clap Your Hands"
+    "title": "Clap Your Hands",
+    "verse": "Psalm 47:1"
   },
   {
     "number": 44,
@@ -980,11 +998,13 @@
   {
     "number": 45,
     "title": "What a Friend We Have in Jesus",
-    "link": "https://www.youtube.com/watch?v=8SCorW9r_Is"
+    "link": "https://www.youtube.com/watch?v=8SCorW9r_Is",
+    "verse": "John 15:15"
   },
   {
     "number": 46,
-    "title": "Unto Thee O Lord"
+    "title": "Unto Thee O Lord",
+    "verse": "Psalm 25:1"
   },
   {
     "number": 47,
@@ -998,7 +1018,8 @@
   {
     "number": 49,
     "title": "God Is So Good",
-    "link": "https://www.youtube.com/watch?v=vWNgvUWKdX8"
+    "link": "https://www.youtube.com/watch?v=vWNgvUWKdX8",
+    "verse": "Psalm 100:5"
   },
   {
     "number": 5,
@@ -1008,17 +1029,20 @@
   {
     "number": 50,
     "title": "Behold What Manner of Love",
-    "link": "https://www.youtube.com/watch?v=T71yhr_kAEA"
+    "link": "https://www.youtube.com/watch?v=T71yhr_kAEA",
+    "verse": "1 John 3:1"
   },
   {
     "number": 51,
     "title": "Jesus is Beautiful",
-    "link": "https://www.youtube.com/watch?v=uHrlAcewvxM"
+    "link": "https://www.youtube.com/watch?v=uHrlAcewvxM",
+    "verse": "Psalm 27:4"
   },
   {
     "number": 52,
     "title": "As the Deer",
-    "link": "https://www.youtube.com/watch?v=zrCT90eSjVY"
+    "link": "https://www.youtube.com/watch?v=zrCT90eSjVY",
+    "verse": "Psalm 42 : 1"
   },
   {
     "number": 53,
@@ -1031,40 +1055,48 @@
   },
   {
     "number": 55,
-    "title": "A New Commandment"
+    "title": "A New Commandment",
+    "verse": "John 13:34"
   },
   {
     "number": 56,
     "title": "Majesty",
-    "link": "https://www.youtube.com/watch?v=SNnTFDNPT3U"
+    "link": "https://www.youtube.com/watch?v=SNnTFDNPT3U",
+    "verse": "1 Chronicles 29:11"
   },
   {
     "number": 57,
-    "title": "He Is Our Peace"
+    "title": "He Is Our Peace",
+    "verse": "Ephesians 2:14"
   },
   {
     "number": 58,
     "title": "Spirit Song",
-    "link": "https://www.youtube.com/watch?v=KWEDBaFy0SI"
+    "link": "https://www.youtube.com/watch?v=KWEDBaFy0SI",
+    "verse": "John 14:26"
   },
   {
     "number": 59,
     "title": "Glorify Thy Name",
-    "link": "https://www.youtube.com/watch?v=QltVKW6wXdo"
+    "link": "https://www.youtube.com/watch?v=QltVKW6wXdo",
+    "verse": "John 12:28"
   },
   {
     "number": 6,
     "title": "Come Bless the Lord",
-    "link": "https://www.youtube.com/watch?v=SPM9KZXQApo"
+    "link": "https://www.youtube.com/watch?v=SPM9KZXQApo",
+    "verse": "Psalm 134:1-2"
   },
   {
     "number": 60,
-    "title": "Jehovah Jireh"
+    "title": "Jehovah Jireh",
+    "verse": "Genesis 22:14"
   },
   {
     "number": 61,
     "title": "Blessed Be the Lord",
-    "link": "https://www.youtube.com/watch?v=fAcq6wOuLlc"
+    "link": "https://www.youtube.com/watch?v=fAcq6wOuLlc",
+    "verse": "Psalm 28:6"
   },
   {
     "number": 62,
@@ -1074,25 +1106,30 @@
   {
     "number": 63,
     "title": "How Excellent Is Your Name",
-    "link": "https://www.youtube.com/watch?v=BM8INqEELQA"
+    "link": "https://www.youtube.com/watch?v=BM8INqEELQA",
+    "verse": "Psalm 8:1"
   },
   {
     "number": 64,
-    "title": "I Love You, Lord"
+    "title": "I Love You, Lord",
+    "verse": "Psalm 18:1"
   },
   {
     "number": 65,
     "title": "To God Be the Glory",
-    "link": "https://www.youtube.com/watch?v=g18AOsCw754"
+    "link": "https://www.youtube.com/watch?v=g18AOsCw754",
+    "verse": "Psalm 115:1"
   },
   {
     "number": 66,
     "title": "Something Beautiful",
-    "link": "https://www.youtube.com/watch?v=DMQqSarDf8Y"
+    "link": "https://www.youtube.com/watch?v=DMQqSarDf8Y",
+    "verse": "Ecclesiastes 3:11"
   },
   {
     "number": 67,
-    "title": "I Am the God That Healeth Thee"
+    "title": "I Am the God That Healeth Thee",
+    "verse": "Exodus 15:26"
   },
   {
     "number": 68,
@@ -1102,12 +1139,14 @@
   {
     "number": 69,
     "title": "Burdens Are Lifted at Calvary",
-    "link": "https://www.youtube.com/watch?v=xQEkVbCCkNE"
+    "link": "https://www.youtube.com/watch?v=xQEkVbCCkNE",
+    "verse": "1 Peter 5:7"
   },
   {
     "number": 7,
     "title": "Give Me Oil",
-    "link": "https://www.youtube.com/watch?v=3OGMjDllEJM"
+    "link": "https://www.youtube.com/watch?v=3OGMjDllEJM",
+    "verse": "Matthew 25:1-5"
   },
   {
     "number": 70,
@@ -1124,17 +1163,20 @@
   },
   {
     "number": 73,
-    "title": "Praise to the Lord"
+    "title": "Praise to the Lord",
+    "verse": "Psalm 103:1-2"
   },
   {
     "number": 74,
     "title": "Our God Reigns",
-    "link": "https://www.youtube.com/watch?v=Px_MIcIwLEw"
+    "link": "https://www.youtube.com/watch?v=Px_MIcIwLEw",
+    "verse": "Isaiah 52:7"
   },
   {
     "number": 75,
     "title": "Emmanuel",
-    "link": "https://www.youtube.com/watch?v=K4V9rgxwcIU"
+    "link": "https://www.youtube.com/watch?v=K4V9rgxwcIU",
+    "verse": "Matthew 1:23"
   },
   {
     "number": 76,
@@ -1149,16 +1191,19 @@
   {
     "number": 78,
     "title": "Open Our Eyes",
-    "link": "https://www.youtube.com/watch?v=eerjElgk4Dg"
+    "link": "https://www.youtube.com/watch?v=eerjElgk4Dg",
+    "verse": "Ephesians 1:18"
   },
   {
     "number": 79,
-    "title": "Let's Talk About Jesus"
+    "title": "Let's Talk About Jesus",
+    "verse": "Philippians 2:10-11"
   },
   {
     "number": 8,
     "title": "This Is the Day",
-    "link": "https://www.youtube.com/watch?v=IRLxugEtqx8"
+    "link": "https://www.youtube.com/watch?v=IRLxugEtqx8",
+    "verse": "Psalm 118:24"
   },
   {
     "number": 80,
@@ -1181,7 +1226,8 @@
   },
   {
     "number": 84,
-    "title": "The Saviour Is Waiting"
+    "title": "The Saviour Is Waiting",
+    "verse": "Revelation 3:20"
   },
   {
     "number": 85,
@@ -1200,16 +1246,19 @@
   {
     "number": 88,
     "title": "Sweet Hour of Prayer",
-    "link": "https://www.youtube.com/watch?v=xg282my5QyU"
+    "link": "https://www.youtube.com/watch?v=xg282my5QyU",
+    "verse": "Philippians 4:6"
   },
   {
     "number": 89,
     "title": "I Surrender All",
-    "link": "https://www.youtube.com/watch?v=j04Bx9pKwpU"
+    "link": "https://www.youtube.com/watch?v=j04Bx9pKwpU",
+    "verse": "Luke 9:23"
   },
   {
     "number": 9,
-    "title": "I Will Sing of the Mercies"
+    "title": "I Will Sing of the Mercies",
+    "verse": "Psalm 89:1"
   },
   {
     "number": 90,
@@ -1222,7 +1271,8 @@
   {
     "number": 92,
     "title": "This World Is Not My Home",
-    "link": "https://www.youtube.com/watch?v=vJP5XGFbcUQ"
+    "link": "https://www.youtube.com/watch?v=vJP5XGFbcUQ",
+    "verse": "Philippians 3:20"
   },
   {
     "number": 93,
@@ -1231,30 +1281,36 @@
   {
     "number": 94,
     "title": "Pass It On",
-    "link": "https://www.youtube.com/watch?v=tadZ8nCLBsI"
+    "link": "https://www.youtube.com/watch?v=tadZ8nCLBsI",
+    "verse": "Matthew 5:15-16"
   },
   {
     "number": 95,
     "title": "Surely Goodness and Mercy",
-    "link": "https://www.youtube.com/watch?v=_aZkEjJIabg"
+    "link": "https://www.youtube.com/watch?v=_aZkEjJIabg",
+    "verse": "Psalm 23:6"
   },
   {
     "number": 96,
     "title": "Beloved (1 Jn 4:7-8)",
-    "link": "https://www.youtube.com/watch?v=GRjiOVsUF6o"
+    "link": "https://www.youtube.com/watch?v=GRjiOVsUF6o",
+    "verse": "1 John 4:7-8"
   },
   {
     "number": 97,
     "title": "Make Me a Servant",
-    "link": "https://www.youtube.com/watch?v=r6U8O_WnPZY"
+    "link": "https://www.youtube.com/watch?v=r6U8O_WnPZY",
+    "verse": "Matthew 23:11"
   },
   {
     "number": 98,
     "title": "Jesus Name Above All Names",
-    "link": "https://www.youtube.com/watch?v=36-uu4TvOk4"
+    "link": "https://www.youtube.com/watch?v=36-uu4TvOk4",
+    "verse": "Philippians 2:9"
   },
   {
     "number": 99,
-    "title": "Be Exalted, O God"
+    "title": "Be Exalted, O God",
+    "verse": "Psalm 57:5"
   }
 ]
