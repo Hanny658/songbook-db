@@ -136,12 +136,25 @@ function deleteSong(number: number): boolean {
 function listAllSongs(): SongMeta[] {
     return fs
         .readdirSync(SONG_DIR)
-        .filter(f => f.match(/^\d+\.json$/))        // only [number].json
+        .filter(f => f.match(/^\d+\.json$/)) // only numeric filenames
         .map(f => parseInt(f, 10))
         .map(num => {
             const song = loadSong(num);
             if (!song) throw new Error(`Invalid JSON in ${num}.json`);
-            return { number: num, title: song.title, link: song.link } as SongMeta;
+
+            const meta: SongMeta = { number: num, title: song.title };
+
+            // Include link only if it exists and is not empty
+            if (song.link && typeof song.link === "string" && song.link.trim() !== "") {
+                meta.link = song.link.trim();
+            }
+
+            // Include verse only if it exists and is not empty
+            if (song.verse && typeof song.verse === "string" && song.verse.trim() !== "") {
+                meta.verse = song.verse.trim();
+            }
+
+            return meta;
         });
 }
 

@@ -19,17 +19,19 @@ export interface SongSection {
 export interface ChristianSong {
     title: string;
     number: number;
-    link: string;
+    link?: string;
     lyrics: SongSection[];
     /** play order, e.g. ["verse1","chorus",…] */
     song: string[];
+    verse?: string;
 }
 
 /** minimal metadata for listing */
 export interface SongMeta {
     number: number;
     title: string;
-    link: string;
+    link?: string;
+    verse?: string;
 }
 
 export interface User {
