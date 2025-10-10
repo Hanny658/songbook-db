@@ -244,6 +244,7 @@ app.post('/songs/:number', (req: Request, res: Response) => {
         title: body.title,
         number: num,
         link: body.link,
+        verse: body.verse,
         lyrics: body.lyrics,
         song: body.song
     };

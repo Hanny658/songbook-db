@@ -101,10 +101,13 @@ GET /songs
 
 * **Response**:
 
+  > Note that link and verse are optional, depends whether it is recorded in the database.
+
   ```json
   [
-    { "number": 1, "title": "My Hope Is Built", "link": "https://youtube.com/…" },
-    { "number": 2, "title": "Side by Side",    "link": "https://youtube.com/…" },
+    { "number": 1, "title": "Amazing Grace",    "link": "https://youtube.com/…", "verse": "Ephesians 2:8" },
+    { "number": 2, "title": "My Hope Is Built" },
+    { "number": 3, "title": "Side by Side",    "link": "https://youtube.com/…" },
     …
   ]
   ```
@@ -125,7 +128,8 @@ GET /songs/:number
     "number": 2,
     "link": "https://youtube.com/…",
     "lyrics": [ /* sections */ ],
-    "song": [ "verse1", "chorus", … ]
+    "song": [ "verse1", "chorus", … ],
+    "verse": "..."
   }
   ```
 * **Errors**
@@ -146,7 +150,8 @@ Content-Type: application/json
     "title": "New Song Title",
     "link": "https://youtube.com/…",
     "lyrics": [ /* same schema as above */ ],
-    "song": [ /* play order array of section IDs */ ]
+    "song": [ /* play order array of section IDs */ ],
+    "verse": "..."
   }
   ```
 * **Response**
