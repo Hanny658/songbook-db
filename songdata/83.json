@@ -16,7 +16,7 @@
                 },
                 {
                     "chords": "        C     Dm G7    C",
-                    "lyrics": "God can do anything but fail (repeat)"
+                    "lyrics": "God can do anything but fail"
                 }
             ]
         },
@@ -75,8 +75,11 @@
     ],
     "song": [
         "verse1",
+        "verse1",
         "chorus",
-        "verse2"
+        "verse2",
+        "verse2",
+        "chorus"
     ],
     "link": ""
 }

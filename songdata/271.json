@@ -158,8 +158,8 @@
       ]
     },
     {
-      "id": "71684450",
-      "label": "Repeat",
+      "id": "outro",
+      "label": "Outro",
       "lines": [
         {
           "chords": "",
@@ -176,7 +176,7 @@
     "chorus",
     "verse3",
     "chorus",
-    "71684450"
+    "outro"
   ],
   "verse": "Isaiah 6:8"
 }

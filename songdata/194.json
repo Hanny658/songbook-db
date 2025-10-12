@@ -80,8 +80,8 @@
       ]
     },
     {
-      "id": "73399077",
-      "label": "Repeat",
+      "id": "outro",
+      "label": "Outro",
       "lines": [
         {
           "chords": "Am7             D          G",
@@ -97,6 +97,6 @@
     "verse2",
     "bridge",
     "verse2",
-    "73399077"
+    "outro"
   ]
 }

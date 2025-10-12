@@ -92,8 +92,8 @@
       ]
     },
     {
-      "id": "00316598",
-      "label": "Repeat",
+      "id": "outro",
+      "label": "Outro",
       "lines": [
         {
           "chords": "G                  D          G",
@@ -109,7 +109,7 @@
     "Chorus 1",
     "Verse 3",
     "Chorus 1",
-    "00316598"
+    "outro"
   ],
   "verse": "Deuteronomy 33:27"
 }
