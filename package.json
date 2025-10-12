@@ -1,6 +1,6 @@
 {
   "name": "songbook-db",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Song data structures, using lightweighted LowDB",
   "main": "server.js",
   "type": "module",
