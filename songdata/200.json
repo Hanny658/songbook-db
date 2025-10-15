@@ -7,32 +7,20 @@
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "E",
-                    "lyrics": "The wise man"
+                    "chords": "C                      G",
+                    "lyrics": "The wise man built his house upon the rock"
                 },
                 {
-                    "chords": "E                      B",
-                    "lyrics": "Built his house upon the rock"
+                    "chords": "                       C",
+                    "lyrics": "The wise man built his house upon the rock"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "The wise man"
+                    "chords": "                       G",
+                    "lyrics": "The wise man built his house upon the rock"
                 },
                 {
-                    "chords": "          E",
-                    "lyrics": "Built his house upon the rock"
-                },
-                {
-                    "chords": "",
-                    "lyrics": "The wise man"
-                },
-                {
-                    "chords": "          B",
-                    "lyrics": "Built his house upon the rock"
-                },
-                {
-                    "chords": "                            E",
-                    "lyrics": "And the rains came tumbling down"
+                    "chords": "                           C",
+                    "lyrics": "And the rain came tumbling down"
                 }
             ]
         },
@@ -41,36 +29,32 @@
             "label": "Chorus 1",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "The rains came down"
+                    "chords": "C",
+                    "lyrics": "Oh, the rain came down"
                 },
                 {
-                    "chords": "        B",
-                    "lyrics": "and the floods came up"
-                },
-                {
-                    "chords": "",
-                    "lyrics": "The rains came down"
-                },
-                {
-                    "chords": "        E",
-                    "lyrics": "and the floods came up"
+                    "chords": "        G",
+                    "lyrics": "And the floods came up"
                 },
                 {
                     "chords": "",
-                    "lyrics": "The rains came down"
+                    "lyrics": "The rain came down"
                 },
                 {
-                    "chords": "        B",
-                    "lyrics": "and the floods came up"
+                    "chords": "        C",
+                    "lyrics": "And the floods came up"
                 },
                 {
                     "chords": "",
-                    "lyrics": "And the house on the rock"
+                    "lyrics": "The rain came down"
                 },
                 {
-                    "chords": "      E",
-                    "lyrics": "stood firm"
+                    "chords": "        G",
+                    "lyrics": "And the floods came up"
+                },
+                {
+                    "chords": "                               C",
+                    "lyrics": "And the wise man's house stood firm."
                 }
             ]
         },
@@ -79,32 +63,20 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "The foolish man"
+                    "chords": "C                         G",
+                    "lyrics": "The foolish man built his house upon the sand"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "Built his house upon the sand"
+                    "chords": "                          C",
+                    "lyrics": "The foolish man built his house upon the sand"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "The foolish man"
+                    "chords": "                          G",
+                    "lyrics": "The foolish man built his house upon the sand"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "Built his house upon the sand"
-                },
-                {
-                    "chords": "",
-                    "lyrics": "The foolish man"
-                },
-                {
-                    "chords": "",
-                    "lyrics": "Built his house upon the sand"
-                },
-                {
-                    "chords": "",
-                    "lyrics": "And the rains came tumbling down"
+                    "chords": "                           C",
+                    "lyrics": "And the rain came tumbling down"
                 }
             ]
         },
@@ -113,36 +85,32 @@
             "label": "Chorus 2",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "The rains came down"
+                    "chords": "C",
+                    "lyrics": "Oh, the rain came down"
                 },
                 {
-                    "chords": "        B",
-                    "lyrics": "and the floods came up"
-                },
-                {
-                    "chords": "",
-                    "lyrics": "The rains came down"
-                },
-                {
-                    "chords": "        E",
-                    "lyrics": "and the floods came up"
+                    "chords": "        G",
+                    "lyrics": "And the floods came up"
                 },
                 {
                     "chords": "",
-                    "lyrics": "The rains came down"
+                    "lyrics": "The rain came down"
                 },
                 {
-                    "chords": "        B",
-                    "lyrics": "and the floods came up"
+                    "chords": "        C",
+                    "lyrics": "And the floods came up"
                 },
                 {
                     "chords": "",
-                    "lyrics": "And the foolish man's house"
+                    "lyrics": "The rain came down"
                 },
                 {
-                    "chords": "      E",
-                    "lyrics": "Went splat!"
+                    "chords": "        G",
+                    "lyrics": "And the floods came up"
+                },
+                {
+                    "chords": "                                 C",
+                    "lyrics": "And the foolish man's house went \"splat!\""
                 }
             ]
         },
@@ -151,20 +119,20 @@
             "label": "Verse 3",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "So build your house on the Lord Jesus Christ"
+                    "chords": "C                           G",
+                    "lyrics": "So, build your house on the Lord Jesus Christ"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "So build your house on the Lord Jesus Christ"
+                    "chords": "                        C",
+                    "lyrics": "Build your house on the Lord Jesus Christ"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "So build your house on the Lord Jesus Christ"
+                    "chords": "                        G",
+                    "lyrics": "Build your house on the Lord Jesus Christ"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "And the blessings will come raining down"
+                    "chords": "                            C",
+                    "lyrics": "And the blessings will come down"
                 }
             ]
         },
@@ -173,20 +141,32 @@
             "label": "Chorus 3",
             "lines": [
                 {
-                    "chords": "",
-                    "lyrics": "The blessings will come down as your prayers go up"
+                    "chords": "C",
+                    "lyrics": "Oh, the blessings come down"
+                },
+                {
+                    "chords": "        G",
+                    "lyrics": "As your prayers go up"
                 },
                 {
                     "chords": "",
-                    "lyrics": "The blessings will come down as your prayers go up"
+                    "lyrics": "The blessings come down"
+                },
+                {
+                    "chords": "        C",
+                    "lyrics": "As your prayers go up"
                 },
                 {
                     "chords": "",
-                    "lyrics": "The blessings will come down as your prayers go up"
+                    "lyrics": "The blessings come down"
                 },
                 {
-                    "chords": "",
-                    "lyrics": "So build your house on the Lord"
+                    "chords": "        G",
+                    "lyrics": "As your prayers go up"
+                },
+                {
+                    "chords": "                           C",
+                    "lyrics": "So build your house on the Lord Jesus Christ."
                 }
             ]
         }

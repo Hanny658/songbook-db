@@ -1,38 +1,66 @@
 {
-    "title": "I've Got the Joy",
+    "title": "I’ve Got The Joy",
     "number": 203,
     "lyrics": [
+        {
+            "id": "intro",
+            "label": "Intro",
+            "lines": [
+                {
+                    "chords": "G D G",
+                    "lyrics": ""
+                }
+            ]
+        },
         {
             "id": "verse1",
             "label": "Verse 1",
             "lines": [
                 {
-                    "chords": "A",
+                    "chords": "G",
                     "lyrics": "I’ve got the joy, joy, joy, joy"
                 },
                 {
                     "chords": "",
-                    "lyrics": "Down in my heart (where?)"
+                    "lyrics": "Down in my heart, (where!?)"
                 },
                 {
-                    "chords": "E",
-                    "lyrics": "Down in my heart (where?)"
+                    "chords": "D                           G",
+                    "lyrics": "Down in my heart, (where?), down in my heart,"
                 },
                 {
-                    "chords": "A",
-                    "lyrics": "Down in my heart"
-                },
-                {
-                    "chords": "",
+                    "chords": "G            G",
                     "lyrics": "I’ve got the joy, joy, joy, joy"
                 },
                 {
                     "chords": "",
-                    "lyrics": "Down in my heart (where)"
+                    "lyrics": "Down in my heart, (where!?)"
                 },
                 {
-                    "chords": "E                   A",
-                    "lyrics": "Down in my heart to stay!"
+                    "chords": "D                   G",
+                    "lyrics": "down in my heart to stay."
+                }
+            ]
+        },
+        {
+            "id": "chorus",
+            "label": "Chorus",
+            "lines": [
+                {
+                    "chords": "           C              G",
+                    "lyrics": "And I’m so happy, so very happy."
+                },
+                {
+                    "chords": "     D                           G",
+                    "lyrics": "I’ve got the love of Jesus in my heart."
+                },
+                {
+                    "chords": "           C              G",
+                    "lyrics": "And I’m so happy, so very happy."
+                },
+                {
+                    "chords": "     D                           G",
+                    "lyrics": "I’ve got the love of Jesus in my heart"
                 }
             ]
         },
@@ -41,31 +69,133 @@
             "label": "Verse 2",
             "lines": [
                 {
-                    "chords": "        D              A",
-                    "lyrics": "I am so happy, so very happy"
-                },
-                {
-                    "chords": "     E",
-                    "lyrics": "I’ve got the love of Jesus"
-                },
-                {
-                    "chords": "      A",
-                    "lyrics": "in my heart"
+                    "chords": "G",
+                    "lyrics": "I’ve got the peace that passes understanding"
                 },
                 {
                     "chords": "",
-                    "lyrics": "I am so happy, so very happy"
+                    "lyrics": "Down in my heart (Where?)"
+                },
+                {
+                    "chords": "D                           G",
+                    "lyrics": "Down in my heart, (where?), down in my heart."
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "I’ve got the peace that passes understanding"
                 },
                 {
                     "chords": "",
-                    "lyrics": "I’ve got the love of Jesus in my heart"
+                    "lyrics": "Down in my heart (Where?)"
+                },
+                {
+                    "chords": "D                   G",
+                    "lyrics": "down in my heart to stay."
+                }
+            ]
+        },
+        {
+            "id": "verse3",
+            "label": "Verse 3",
+            "lines": [
+                {
+                    "chords": "G",
+                    "lyrics": "I’ve got the love of Jesus, love of Jesus,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "Down in my heart (Where?)"
+                },
+                {
+                    "chords": "D                           G",
+                    "lyrics": "Down in my heart, (where?), down in my heart."
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "I’ve got the love of Jesus, love of Jesus,"
+                },
+                {
+                    "chords": "",
+                    "lyrics": "down in my heart, (Where?)"
+                },
+                {
+                    "chords": "D                   G",
+                    "lyrics": "down in my heart to stay."
+                }
+            ]
+        },
+        {
+            "id": "verse4",
+            "label": "Verse 4",
+            "lines": [
+                {
+                    "chords": "G",
+                    "lyrics": "If the Devil doesn’t like it he can sit on a tack (Ouch!)"
+                },
+                {
+                    "chords": "D                      G",
+                    "lyrics": "Sit on a tack, (ouch), sit on a tack!"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "If the Devil doesn’t like it he can sit on a tack (Ouch!)"
+                },
+                {
+                    "chords": "D                 G",
+                    "lyrics": "Sit on a tack and stay."
+                }
+            ]
+        },
+        {
+            "id": "verse5",
+            "label": "Verse 5",
+            "lines": [
+                {
+                    "chords": "G",
+                    "lyrics": "I’ve got the wonderful love of my blessed redeemer way down in the depths of my heart (where?)"
+                },
+                {
+                    "chords": "D                                         G",
+                    "lyrics": "Down in the depths of my heart, (where?), Down in depths of my heart,"
+                },
+                {
+                    "chords": "G",
+                    "lyrics": "I’ve got the wonderful love of my blessed redeemer way down in the depths of my heart (where?)"
+                },
+                {
+                    "chords": "D                                 G",
+                    "lyrics": "down in the depths of my heart to stay."
+                }
+            ]
+        },
+        {
+            "id": "outro",
+            "label": "Outro",
+            "lines": [
+                {
+                    "chords": "     D                           G",
+                    "lyrics": "I've got the love of Jesus in my heart"
+                },
+                {
+                    "chords": "     D                           G",
+                    "lyrics": "I've got the love of Jesus in my heart"
                 }
             ]
         }
     ],
     "song": [
+        "intro",
         "verse1",
-        "verse2"
+        "chorus",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus",
+        "verse4",
+        "chorus",
+        "verse5",
+        "chorus",
+        "outro"
     ],
-    "link": ""
+    "link": "https://www.youtube.com/watch?v=Eu5bBDRpzPM"
 }
